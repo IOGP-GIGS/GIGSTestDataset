@@ -1,0 +1,38 @@
+H0001 Format name and version:      UKOOA P7/2000 rev 5, October 2002
+H0002 Format type:            1
+H0100 Country:              IOGP
+H0110 Well Name:             GIGS well D
+H0150 Depth Units:            M
+H0160 Sidetrack (ST)?:          N
+H0200 Geodetic Datum Name:        GIGS geodetic datum A
+H0201 Ellipsoid name, a, 1/f:       GIGS ellipsoid A    6378137.0   298.257223563
+H0202 Datum Transformation Parameters:    0.0  0.0  0.0 0.0  0.0  0.0  0.0
+H0210 Projection Method:         003 Transverse Mercator
+H0211 Projection Zone Name:        GIGS conversion 1
+H0216 Map Grid origin (dms):         00000.000N  30000.000E
+H0218 Map Grid origin (grid):           0.00N  500000.00E
+H0219 Map Grid Scale Factor:       0.9996
+H0230 ProjCRS length units:        1 metre                  1.0
+H0232 Vertical Reference Datum (VRD):   GIGS vertical datum W
+H0300 Well Reference Point:        Sea bed
+H0310 Projected N coordinate of WRP:    5779179.09N
+H0315 Projected E coordinate of WRP:     483216.08E
+H0380 Water depth rel. to VRD:       105.33
+H0385 Elevation of Zero MD rel. to VRD:   56.0
+H0390 Elevation of WRP rel. to VRD:    -105.33
+H0395 Measured Depth of WRP:        161.33
+H0500 Azimuth reference:         UNKNOWN
+H0700 Remarks:              Horizontal coordinates are referenced to GIGS projCRS A1.
+H0700 Remarks:              This is equivalent to WGS 84 / UTM zone 31N, EPSG CRS code 32631.
+H0700 Remarks:              Vertical coordinates are referenced to GIGS vertCRS W1 depth.
+H0700 Remarks:              This is equivalent to Caspian depth, EPSG CRS code 5706.
+H0700 Remarks:              Proprietary data records removed from file ...
+H0700 Remarks:              ... First data record at -56.00m MD is RT.
+H0700 Remarks:              ... Second data record at 105.33m MD is mud line.
+H0700 Remarks:              ... Third data record at 1453.80m MD is horizon 1.
+H0700 Remarks:              ... Fourth data record at 1922.93m MD is TD.
+H0700 Remarks:              GIGS Test Dataset Version: 2.0, GIGS Test Dataset Issue Date: 2021-05-03.
+D                                 -56.00  5779179.09N  483216.08E
+D                                 105.33  5779179.09N  483216.08E
+D                                1453.80  5779179.09N  483216.08E
+D                                1922.93  5779179.09N  483216.08E

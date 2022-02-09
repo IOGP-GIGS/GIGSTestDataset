@@ -1,0 +1,37 @@
+# File: GIGS_tfm_5213_3trnslt_Geog2D_output_AbrMol							
+# GIGS Test Procedure: 5213							
+# GIGS Test Dataset Version: 2.0							
+# EPSG Dataset Version: 10.019 							
+# GIGS Test Dataset Issue Date: 2021-05-03							
+# Note 1: Test for Geocentric translation (geog2D domain) calculation outputs based on Abridged Molodensky (EPSG code 9605)							
+# Note 2: See separate file for EPSG concatenated transformation method (EPSG code 9603)							
+# Cartesian Tolerance: 0.03 metre							
+# Geographic Tolerance: 0.0000003 degree 							
+# Round Trip Cartesian Tolerance: 0.006 metre							
+# Round Trip Geographic Tolerance: 0.00000006 degree							
+#							
+# Fields:							
+# [0]: Point							
+# [1]: Latitude (GIGS CRS Code 64005; GIGS geogCRS B; OSGB36; decimal degree; EPSG CRS code 4277)							
+# [2]: Longitude (GIGS CRS Code 64005; GIGS geogCRS B; OSGB36; decimal degree; EPSG CRS code 4277)							
+# [3]: Latitude (GIGS CRS Code 64003; GIGS geogCRS A; WGS 84; decimal degree; EPSG CRS code 4326)							
+# [4]: Longitude (GIGS CRS Code 64003; GIGS geogCRS A; WGS 84; decimal degree; EPSG CRS code 4326)							
+# [5]: Transect 							
+# [6]: Transformation Direction							
+# [7]: GIGS Remarks							
+#							
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]
+GIGS-5213-01	79.99575788	150.0045637	80	150	A	REVERSE	Round Trip calculation point
+GIGS-5213-02	60	120	60.00475184	119.9952451	A	FORWARD	
+GIGS-5213-03	29.99639764	60.00391035	30	60	A	REVERSE	
+GIGS-5213-04	0	0	0.00392522	-0.0010062	A	FORWARD	
+GIGS-5213-05	-30.00405381	-60.00274957	-30	-60	A	REVERSE	
+GIGS-5213-06	-60	-120	-59.99934798	-119.9932378	A	FORWARD	
+GIGS-5213-07	-79.99809556	-150.0145665	-80	-150	A	REVERSE	
+GIGS-5213-08	70	-180	70.00490648	-179.9970667	B	FORWARD	
+GIGS-5213-09	49.9955382	-135.0047636	50	-135	B	REVERSE	
+GIGS-5213-10	25	-90	25.00366455	-89.99632458	B	FORWARD	
+GIGS-5213-11	-0.00392496	0.00100611	0	0	B	REVERSE	
+GIGS-5213-12	-37.6532236	143.9279419	-37.65282262	143.9264922	B	FORWARD	
+GIGS-5213-13	-49.99946348	135.0025544	-50	135	B	REVERSE	
+GIGS-5213-14	-70	180	-70.00224516	179.9970667	B	FORWARD	

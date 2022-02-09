@@ -1,0 +1,36 @@
+# File: GIGS_tfm_5208_LonRot_output							
+# GIGS Test Procedure: 5208							
+# GIGS Test Dataset Version: 2.0							
+# EPSG Dataset Version: 10.019 							
+# GIGS Test Dataset Issue Date: 2021-05-03							
+# Note: Test for Longitude Rotation transformation utilising EPSG Coordinate Operation Method 9601							
+# Cartesian Tolerance: 0.03 metre							
+# Geographic Tolerance: 0.0000003 gradians							
+# Round Trip Cartesian Tolerance: 0.006 metre							
+# Round Trip Geographic Tolerance: 0.00000006 gradians							
+#							
+# Fields:							
+# [0]: Point							
+# [1]: Latitude (GIGS CRS Code 64013; GIGS geogCRS T; NTF; decimal degree; EPSG CRS code 4275)							
+# [2]: Longitude (GIGS CRS Code 64013; GIGS geogCRS T; NTF; decimal degree; EPSG CRS code 4275)							
+# [3]: Latitude (GIGS CRS Code 64011; GIGS geogCRS H; NTF (Paris); gradians; EPSG CRS code 4807)							
+# [4]: Longitude (GIGS CRS Code 64011; GIGS geogCRS H; NTF (Paris); gradians; EPSG CRS code 4807)							
+# [5]: Transect 							
+# [6]: Transformation Direction							
+# [7]: GIGS Remarks							
+#							
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]
+GIGS-5208-01	58	5	64.44444444	2.958634256	A	REVERSE	Round Trip calculation point
+GIGS-5208-02	56	5	62.22222222	2.958634256	A	FORWARD	
+GIGS-5208-03	55	5	61.11111111	2.958634256	A	REVERSE	
+GIGS-5208-04	53	5	58.88888889	2.958634256	A	FORWARD	
+GIGS-5208-05	51	4	56.66666667	1.847523144	A	REVERSE	
+GIGS-5208-06	49	4	54.44444444	1.847523144	A	FORWARD	
+GIGS-5208-07	46.8	2.33722917	52	0	A	REVERSE	
+GIGS-5208-08	53	3	58.88888889	0.736412033	B	REVERSE	
+GIGS-5208-09	53	4	58.88888889	1.847523144	B	FORWARD	
+GIGS-5208-10	53	6	58.88888889	4.069745367	B	REVERSE	
+GIGS-5208-11	53	7	58.88888889	5.180856478	B	FORWARD	
+GIGS-5208-12	53	9	58.88888889	7.4030787	B	REVERSE	
+GIGS-5208-13	53	10	58.88888889	8.514189811	B	FORWARD	
+GIGS-5208-14	53	11	58.88888889	9.625300922	B	REVERSE	

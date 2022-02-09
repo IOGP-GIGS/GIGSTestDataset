@@ -1,0 +1,37 @@
+H0001 Format name and version:      UKOOA P7/2000 rev 5, October 2002
+H0002 Format type:            1
+H0100 Country:              IOGP
+H0110 Well Name:             GIGS well B
+H0150 Depth Units:            F
+H0160 Sidetrack (ST)?:          N
+H0200 Geodetic Datum Name:        GIGS geodetic datum A
+H0201 Ellipsoid name, a, 1/f:       GIGS ellipsoid A    6378137.0   298.257223563
+H0202 Datum Transformation Parameters:    0.0  0.0  0.0 0.0  0.0  0.0  0.0
+H0210 Projection Method:         003 Transverse Mercator
+H0211 Projection Zone Name:        GIGS conversion 2
+H0216 Map Grid origin (dms):        490000.000N  20000.000W
+H0218 Map Grid origin (grid):        400000.00N  -100000.00E
+H0219 Map Grid Scale Factor:       0.9996012717
+H0230 ProjCRS length units:        1 metre                  1.0
+H0232 Vertical Reference Datum (VRD):   GIGS vertical datum V
+H0300 Well Reference Point:        Kelly Bushing
+H0310 Projected N coordinate of WRP:     250178.04N
+H0315 Projected E coordinate of WRP:     697676.79E
+H0385 Elevation of Zero MD rel. to VRD:   258.09
+H0390 Elevation of WRP rel. to VRD:     258.09
+H0395 Measured Depth of WRP:         0.0
+H0500 Azimuth reference:         UNKNOWN
+H0700 Remarks:              Horizontal coordinates are referenced to GIGS projCRS A2.
+H0700 Remarks:              This fictitious CRS is equivalent to WGS 84 / British National Grid.
+H0700 Remarks:              Vertical coordinates are referenced to GIGS vertCRS V1 depth.
+H0700 Remarks:              This is equivalent to Baltic 1977 depth, CAUTION similar to EPSG CRS 5612 but uses foot instead of metre.
+H0700 Remarks:              Proprietary data records removed from file ...
+H0700 Remarks:              ... First data record at -258.09m MD is KB.
+H0700 Remarks:              ... Second data record at -218.72m MD is ground level.
+H0700 Remarks:              ... Third data record at 3143.52m MD is horizon 1.
+H0700 Remarks:              ... Fourth data record at 5541.73m MD is TD.
+H0700 Remarks:              GIGS Test Dataset Version: 2.0, GIGS Test Dataset Issue Date: 2021-05-03.
+D                                -258.09  250178.04N  697676.79E
+D                                -218.72  250178.04N  697676.79E
+D                                3143.52  250178.04N  697676.79E
+D                                5541.73  250178.04N  697676.79E

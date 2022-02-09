@@ -1,0 +1,32 @@
+# File: GIGS_tfm_5208_LonRot_input							
+# GIGS Test Procedure: 5208							
+# GIGS Test Dataset Version: 2.0							
+# EPSG Dataset Version: 10.019 							
+# GIGS Test Dataset Issue Date: 2021-05-03							
+# Note: Test for Longitude Rotation transformation utilising EPSG Coordinate Operation Method 9601							
+#							
+# Fields:							
+# [0]: Point							
+# [1]: Latitude (GIGS CRS Code 64013; GIGS geogCRS T; NTF; decimal degree; EPSG CRS code 4275)							
+# [2]: Longitude (GIGS CRS Code 64013; GIGS geogCRS T; NTF; decimal degree; EPSG CRS code 4275)							
+# [3]: Latitude (GIGS CRS Code 64011; GIGS geogCRS H; NTF (Paris); gradians; EPSG CRS code 4807)							
+# [4]: Longitude (GIGS CRS Code 64011; GIGS geogCRS H; NTF (Paris); gradians; EPSG CRS code 4807)							
+# [5]: Transect 							
+# [6]: Transformation Direction							
+# [7]: GIGS Remarks							
+#							
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]
+GIGS-5208-01	NULL	NULL	64.44444444	2.9586343	A	REVERSE	Round Trip calculation point
+GIGS-5208-02	56	5	NULL	NULL	A	FORWARD	
+GIGS-5208-03	NULL	NULL	61.11111111	2.9586343	A	REVERSE	
+GIGS-5208-04	53	5	NULL	NULL	A	FORWARD	
+GIGS-5208-05	NULL	NULL	56.66666667	1.8475231	A	REVERSE	
+GIGS-5208-06	49	4	NULL	NULL	A	FORWARD	
+GIGS-5208-07	NULL	NULL	52	0	A	REVERSE	
+GIGS-5208-08	NULL	NULL	58.88888889	0.736412	B	REVERSE	
+GIGS-5208-09	53	4	NULL	NULL	B	FORWARD	
+GIGS-5208-10	NULL	NULL	58.88888889	4.0697454	B	REVERSE	
+GIGS-5208-11	53	7	NULL	NULL	B	FORWARD	
+GIGS-5208-12	NULL	NULL	58.88888889	7.4030787	B	REVERSE	
+GIGS-5208-13	53	10	NULL	NULL	B	FORWARD	
+GIGS-5208-14	NULL	NULL	58.88888889	9.6253009	B	REVERSE	

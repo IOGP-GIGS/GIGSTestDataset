@@ -1,0 +1,27 @@
+# File: GIGS_seis3D_5209_BinGrid_output						
+# GIGS Test Procedure: 5209						
+# GIGS Test Dataset Version: 2.0						
+# EPSG Dataset Version: 10.019 						
+# GIGS Test Dataset Issue Date: 2021-05-03						
+# Note 1: Test for P6 Bin Grid conversion; 						
+# Note 2: Utilises associated P file GIGS_seis3D_5403_surveyD_input.p6 see for complete configuration 						
+# Note 3: Config: 100x70 km; J-axis orientated at 20 deg (grid bearing); I-inc 25m x J-inc 12.5m bins; bin inc = 2						
+#						
+# Fields:						
+# [0]: Point						
+# [1]: i (Bin grid; No direct EPSG equivalent)						
+# [2]: j (Bin grid; No direct EPSG equivalent)						
+# [3]: Easting (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 / UTM zone 31N; metre; EPSG CRS code 32631)						
+# [4]: Northing (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 / UTM zone 31N; metre; EPSG CRS code 32631)						
+# [5]: Transformation Direction						
+# [6]: GIGS Remarks						
+#						
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]
+GIGS-5209-01	1	21200	438129.87	5827554.372	FORWARD	
+GIGS-5209-02	5406.044	20442.91	500000	5800000	REVERSE	
+GIGS-5209-03	-2111.497	14970.588	400000	5800000	REVERSE	
+GIGS-5209-04	8001	21200	532099.132	5793352.358	FORWARD	
+GIGS-5209-05	1	10000	414188.46	5761775.889	FORWARD	
+GIGS-5209-06	8001	10000	508157.722	5727573.875	FORWARD	
+GIGS-5209-07	4383.435	2671.667	450000	5700000	REVERSE	
+GIGS-5209-08	3360.826	-15099.576	400000	5600000	REVERSE	Round Trip calculation point

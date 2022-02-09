@@ -1,0 +1,53 @@
+OGP,OGP P1,1,1.1,1,2021:08:20,13:44:36,GIGS_conv_5112_MercB.p111,IOGP
+HC,0,1,0,Project Name                                      ,5112,Geospatial Integrity of Geoscience Software,2020:01:01,
+HC,0,2,0,Survey Description                                ,Geodetic Test,GIGS Test Points,NA,826,GBR
+HC,0,3,0,Geographic Extent                                 ,6.22,97.11,0.00,15.90
+HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
+HC,0,5,0,Geophysical Contractor                            ,None
+HC,0,6,0,Positioning Contractor                            ,None
+HC,0,7,0,Position Processing Contractor                    ,None
+HC,1,0,0,Reference Systems Summary                         ,4,0,2,0
+HC,1,1,0,Unit of Measure                                   ,1, metre,length,2, , ,             ,   , , metre,9001,EPSG Dataset,10.018,9001
+HC,1,1,0,Unit of Measure                                   ,2,radian, angle,2, , ,             ,   , ,radian,9101,EPSG Dataset,10.018,9101
+HC,1,1,0,Unit of Measure                                   ,3,degree, angle,2,2,0,3.14159265359,180,0,degree,9102,EPSG Dataset,10.018,9102
+HC,1,1,0,Unit of Measure                                   ,4, unity, scale,2, , ,             ,   , , unity,9201,EPSG Dataset,10.018,9201
+HC,1,1,1,Example Unit Conversion                           ,1,2,1,3,57.29577951
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,3388,Pulkovo 1942 / Caspian Sea Mercator,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2,4284,                       Pulkovo 1942,10.018,2021:04:02,EPSG,
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,3388,1,projected,Pulkovo 1942 / Caspian Sea Mercator
+HC,1,4,3,Base Geographic CRS                               ,1,2,4284,Pulkovo 1942
+HC,1,4,4,Geodetic Datum                                    ,1,6284,Pulkovo 1942,
+HC,1,4,5,Prime Meridian                                    ,1,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,1,7024,Krassowsky 1940,6378245,1,metre,298.3
+HC,1,5,0,Map Projection                                    ,1,19884,Caspian Sea Mercator
+HC,1,5,1,Projection Method                                 ,1,9805,Mercator (variant B),4
+HC,1,5,2,Latitude of 1st standard parallel                 ,1,8823,42,3,degree
+HC,1,5,2,Longitude of natural origin                       ,1,8802,51,3,degree
+HC,1,5,2,False easting                                     ,1,8806, 0,1, metre
+HC,1,5,2,False northing                                    ,1,8807, 0,1, metre
+HC,1,6,0,Coordinate System                                 ,1,4534,Cartesian 2D CS. Axes\u003A northing\u002C easting (no abbrev). Orientations\u003A north\u002C east. UoM\u003A m.,2,Cartesian,2
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,183,Northing,north,none,1,metre
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,184, Easting, east,none,1,metre
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,4284,2,geographic 2D,Pulkovo 1942
+HC,1,4,4,Geodetic Datum                                    ,2,6284,Pulkovo 1942,
+HC,1,4,5,Prime Meridian                                    ,2,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,2,7024,Krassowsky 1940,6378245,1,metre,298.3
+HC,1,6,0,Coordinate System                                 ,2,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,2,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,9,0,Example Point Conversion                          ,1,GIGS-5112-01,1,3819897.852,        0,,2,          42,         51,
+HC,1,9,0,Example Point Conversion                          ,2,GIGS-5112-02,2,          0,       51,,1,           0,          0,
+HC,1,9,0,Example Point Conversion                          ,3,GIGS-5112-03,1,          0,497112.88,,2,           0,         57,
+HC,1,9,0,Example Point Conversion                          ,4,GIGS-5112-04,2,       20.5,       54,,1,   1724781.5,  248556.44,
+HC,1,9,0,Example Point Conversion                          ,5,GIGS-5112-05,2,        -41,       67,,1,-3709687.255,1325634.346,
+HC,2,0,0,Survey Configuration                              ,0,0,0,1,metre
+H1,0,0,0,File Contents Description                         ,This file contains GIGS Test Points,Loaded From GIGS_conv_5112_MercB_output.txt
+H1,0,1,0,Processing Details                                ,None
+H1,0,2,0,GIGS Test Procedure                               ,100,      5112, ,      
+H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.0, ,      
+H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2021-05-03, ,      
+H1,0,2,0,Cartesian Tolerance                               ,103,      0.05,1, metre
+H1,0,2,0,Geographic Tolerance                              ,104, 0.0000006,3,degree
+H1,0,2,0,Round Trip Cartesian Tolerance                    ,105,     0.006,1, metre
+H1,0,2,0,Round Trip Geographic Tolerance                   ,106,0.00000006,3,degree
+H1,0,2,0,Round Trip Point                                  ,107,         5, ,      

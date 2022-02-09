@@ -1,0 +1,44 @@
+H0100Survey Area                N/A                                             
+H0101General Survey Details     GIGS_seis2D_5312_input_part1.txt                
+H0102Vessel Details             N/A                                             
+H0103Source Details             N/A                                             
+H0104Streamer Details           N/A                                             
+H0105Other Details              N/A                                             
+H0200Date of Survey             N/A                                             
+H0201Date of Issue              20210728                                        
+H0202Tape Version               4.0                                             
+H0203Line Prefix                N/A                                             
+H0300Line Client                N/A                                             
+H0400Geophysical Contractor     N/A                                             
+H0500Positioning Contractor     N/A                                             
+H0600Position Processing        N/A                                             
+H0700Onboard Navigation         N/A                                             
+H0800Co-ordinate Location       Centre of source                                
+H1400Surveyed Datum             WGS 84      WGS 84       6378137.000 298.2572236
+H1501Transformation to WGS84      0.00  0.00  0.00 0.000 0.000 0.000 0.0000000  
+H1500Post Plot Datum            WGS 84      WGS 84       6378137.000 298.2572236
+H1501Transformation to WGS84      0.00  0.00  0.00 0.000 0.000 0.000 0.0000000  
+H1600Transformation H14 to H15    0.00  0.00  0.00 0.000 0.000 0.000 0.0000000  
+H1700Vertical Datum             Caspian height          EPSG 5611               
+H1800Projection Type               3British National Grid                       
+H2000Grid Units                 1metre                    1.000000000000        
+H2001Height Units               1metre                    1.000000000000        
+H2002Angular Units              1degrees                                        
+H2200Long of Cent Meridian      0020000.000W                                    
+H2301Grid Origin                0490000.000N0020000.000W                        
+H2302Grid Coords at Origin        400000.00E -100000.00N                        
+H2401Scale Factor               0.9996012717                                    
+H2402Lat/Long of Scale Factor   0490000.000N0020000.000W                        
+SGIGS-5312-06           1520352.08N0021925.20E 696327.2 249578.8  84.6          
+SGIGS-5312-06          10520354.63N0021936.27E 696533.2 249670.0  86.0          
+SGIGS-5312-06          20520357.47N0021948.56E 696761.8 249771.7  87.9          
+SGIGS-5312-06          30520400.31N0022000.86E 696990.6 249873.4  89.6          
+SGIGS-5312-06          40520403.15N0022013.16E 697219.4 249975.0  91.3          
+SGIGS-5312-06          50520405.98N0022025.45E 697448.0 250076.4  93.0          
+SGIGS-5312-06          60520408.82N0022037.75E 697676.8 250178.1  94.7          
+SGIGS-5312-06          70520411.65N0022050.05E 697905.6 250279.5  95.0          
+SGIGS-5312-06          80520414.49N0022102.34E 698134.2 250381.2  96.0          
+SGIGS-5312-06          90520417.33N0022114.64E 698362.9 250482.9 100.0          
+SGIGS-5312-06         100520420.16N0022126.94E 698591.7 250584.4  99.0          
+SGIGS-5312-06         110520422.99N0022139.24E 698820.5 250685.8 102.0          
+SGIGS-5312-06         120520425.83N0022151.54E 699049.2 250787.6  98.5          

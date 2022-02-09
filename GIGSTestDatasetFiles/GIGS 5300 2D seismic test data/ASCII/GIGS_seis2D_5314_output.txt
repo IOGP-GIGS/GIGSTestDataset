@@ -1,0 +1,30 @@
+# File: GIGS_seis2D_5314_output					
+# GIGS Test Procedure: 5314					
+# GIGS Test Dataset Version: 2.0					
+# EPSG Dataset Version: 10.019 					
+# GIGS Test Dataset Issue Date: 2021-05-03					
+# Cartesian Tolerance: 0.03 metre					
+# Geographic Tolerance: 0.0000003 degree					
+#					
+# Fields:					
+# [0]: Line					
+# [1]: SP					
+# [2]: Easting (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)					
+# [3]: Northing (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)					
+# [4]: Water Depth (GIGS CRS Code 64506; GIGS vertCRS V1 depth; Baltic 1977 depth; metre; EPSG CRS code 5612)					
+# [5]: GIGS Remarks					
+#					
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]
+GIGS-5314-01	1	693641.03	259342.87	-50	Intersection with line GIGS-5310-02 SP 400
+GIGS-5314-01	10	693732.46	259137.03	-50.4	
+GIGS-5314-01	20	693834.06	258908.32	-50.9	
+GIGS-5314-01	30	693935.65	258679.61	-51.3	
+GIGS-5314-01	40	694037.24	258450.9	-51.7	
+GIGS-5314-01	50	694138.83	258222.19	-52.1	
+GIGS-5314-01	60	694240.42	257993.47	-52.5	
+GIGS-5314-01	70	694342.01	257764.76	-52.9	
+GIGS-5314-01	80	694443.6	257536.05	-53.3	
+GIGS-5314-01	90	694545.19	257307.33	-53.7	
+GIGS-5314-01	100	694646.78	257078.63	-54.1	
+GIGS-5314-01	110	694748.36	256849.91	-54.5	
+GIGS-5314-01	120	694849.96	256621.19	-55	

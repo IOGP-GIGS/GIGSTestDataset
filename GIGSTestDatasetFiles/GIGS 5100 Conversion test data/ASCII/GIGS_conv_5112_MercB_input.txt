@@ -1,0 +1,23 @@
+# File: GIGS_conv_5112_MercB_input							
+# GIGS Test Procedure: 5112							
+# GIGS Test Dataset Version: 2.0							
+# EPSG Dataset Version: 10.019 							
+# GIGS Test Dataset Issue Date: 2021-05-03							
+# Note: Test for Mercator (variant B)							
+#							
+# Fields:							
+# [0]: Point							
+# [1]: Latitude (GIGS CRS Code 64017; GIGS geogCRS Y; Pulkovo 1942; decimal degree; EPSG CRS code 4284)							
+# [2]: Longitude (GIGS CRS Code 64017; GIGS geogCRS Y; Pulkovo 1942; decimal degree; EPSG CRS code 4284)							
+# [3]: Northing (GIGS CRS Code 62034; GIGS projCRS Y24; Pulkovo 1942 / Caspian Sea Mercator; metre; EPSG CRS code 3388)							
+# [4]: Easting (GIGS CRS Code 62034; GIGS projCRS Y24; Pulkovo 1942 / Caspian Sea Mercator; metre; EPSG CRS code 3388)							
+# [5]: Transect 							
+# [6]: Conversion Direction							
+# [7]: GIGS Remarks							
+#							
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]
+GIGS-5112-01	NULL	NULL	3819897.852	0	A	REVERSE	
+GIGS-5112-02	0	51	NULL	NULL	A	FORWARD	
+GIGS-5112-03	NULL	NULL	0	497112.88	A	REVERSE	
+GIGS-5112-04	20.5	54	NULL	NULL	A	FORWARD	
+GIGS-5112-05	-41	67	NULL	NULL	A	FORWARD	Round Trip calculation point

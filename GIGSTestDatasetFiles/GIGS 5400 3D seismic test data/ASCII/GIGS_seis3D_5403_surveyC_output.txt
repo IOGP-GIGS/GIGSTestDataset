@@ -1,0 +1,25 @@
+# File: GIGS_seis3D_5403_surveyC_output				
+# GIGS Test Procedure: 5403				
+# GIGS Test Dataset Version: 2.0				
+# EPSG Dataset Version: 10.019 				
+# GIGS Test Dataset Issue Date: 2021-05-03				
+# Cartesian Tolerance: 0.03 metre				
+# Geographic Tolerance: 0.0000003 degree				
+#				
+# Fields:				
+# [0]: i (Bin grid; No direct EPSG equivalent)				
+# [1]: j (Bin grid; No direct EPSG equivalent)				
+# [2]: Easting (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)				
+# [3]: Northing (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)				
+# [4]: Point				
+#				
+# [0]	# [1]	# [2]	# [3]	# [4]
+6401	18800	749586.46	270995.16	SW corner
+6401	20000	751662.16	278213.99	west centre
+6401	21200	753737.47	285433.07	NW corner
+7201	18800	759211.75	268227.07	south centre
+7201	20000	761287.79	275446.43	Centre
+7201	21200	763363.42	282666.04	north centre
+8001	21200	772990.1	279898.58	NE corner
+8001	20000	770914.13	272678.43	east centre
+8001	18800	768837.76	265458.53	SE corner

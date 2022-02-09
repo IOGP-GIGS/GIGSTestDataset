@@ -1,0 +1,77 @@
+OGP,OGP P1,1,1.1,1,2021:08:20,13:45:13,GIGS_tfm_5206_Nadcon_part2.p111,IOGP
+HC,0,1,0,Project Name                                      ,5206,Geospatial Integrity of Geoscience Software,2020:01:01,
+HC,0,2,0,Survey Description                                ,Geodetic Test,GIGS Test Points,NA,826,GBR
+HC,0,3,0,Geographic Extent                                 ,-180.00,180.00,0.00,70.00
+HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
+HC,0,5,0,Geophysical Contractor                            ,None
+HC,0,6,0,Positioning Contractor                            ,None
+HC,0,7,0,Position Processing Contractor                    ,None
+HC,1,0,0,Reference Systems Summary                         ,4,0,2,1
+HC,1,1,0,Unit of Measure                                   ,1, metre,length,2, , ,             ,   , , metre,9001,EPSG Dataset,10.018,9001
+HC,1,1,0,Unit of Measure                                   ,2,radian, angle,2, , ,             ,   , ,radian,9101,EPSG Dataset,10.018,9101
+HC,1,1,0,Unit of Measure                                   ,3,degree, angle,2,2,0,3.14159265359,180,0,degree,9102,EPSG Dataset,10.018,9102
+HC,1,1,0,Unit of Measure                                   ,4, unity, scale,2, , ,             ,   , , unity,9201,EPSG Dataset,10.018,9201
+HC,1,1,1,Example Unit Conversion                           ,1,2,1,3,57.29577951
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,4267,NAD27,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2,4269,NAD83,10.018,2021:04:02,EPSG,
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,4267,2,geographic 2D,NAD27
+HC,1,4,4,Geodetic Datum                                    ,1,6267,North American Datum 1927,
+HC,1,4,5,Prime Meridian                                    ,1,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,1,7008,Clarke 1866,6378206.4,1,metre,294.978698214
+HC,1,6,0,Coordinate System                                 ,1,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,4269,2,geographic 2D,NAD83
+HC,1,4,4,Geodetic Datum                                    ,2,6269,North American Datum 1983,
+HC,1,4,5,Prime Meridian                                    ,2,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,2,7019,GRS 1980,6378137,1,metre,298.257222101
+HC,1,6,0,Coordinate System                                 ,2,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,2,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,7,0,Transformation Number/EPSG Code/Name/Source       ,1,1243,NAD27 to NAD83 (2),10.018,2021:04:02,EPSG,
+HC,1,8,0,Transformation Number/EPSG Code/Name              ,1,1243,NAD27 to NAD83 (2),0.5
+HC,1,8,1,Source CRS/Target CRS/Version                     ,1,1,4267,NAD27,2,4269,NAD83,NGS-Usa AK
+HC,1,8,2,Transformation Method                             ,1,9613,NADCON,1,2
+HC,1,8,3,Latitude difference file                          ,1,8657,alaska.las,1
+HC,1,8,3,Longitude difference file                         ,1,8658,alaska.los,1
+HC,1,9,0,Example Point Conversion                          , 1,GIGS-5206-01,1,        70,        -179,,2,69.9990142,-179.0035064,
+HC,1,9,0,Example Point Conversion                          , 2,GIGS-5206-02,2,        70,         180,,1,70.0010089,-179.9964664,
+HC,1,9,0,Example Point Conversion                          , 3,GIGS-5206-03,1,        70,         180,,2,69.9989911, 179.9964664,
+HC,1,9,0,Example Point Conversion                          , 4,GIGS-5206-04,1,        70,         179,,2,69.9989678, 178.9964394,
+HC,1,9,0,Example Point Conversion                          , 5,GIGS-5206-05,1,        70,         165,,2,      NULL,        NULL,
+HC,1,9,0,Example Point Conversion                          , 6,GIGS-5206-06,2,        70,        -143,,1,70.0001631,-142.9972522,
+HC,1,9,0,Example Point Conversion                          , 7,GIGS-5206-07,1,        70,        -142,,2,69.9998422,-142.0026922,
+HC,1,9,0,Example Point Conversion                          , 8,GIGS-5206-08,2,        70,        -142,,1,70.0001578,-141.9973078,
+HC,1,9,0,Example Point Conversion                          , 9,GIGS-5206-09,2,        70,        -141,,1,70.0001481,-140.9971981,
+HC,1,9,0,Example Point Conversion                          ,10,GIGS-5206-10,1,        70,        -140,,2,69.9998617,-140.0027922,
+HC,1,9,0,Example Point Conversion                          ,11,GIGS-5206-11,2,        70,        -139,,1,70.0001297,-138.9973075,
+HC,1,9,0,Example Point Conversion                          ,12,GIGS-5206-12,1,        70,        -138,,2,69.9998867,-138.0026767,
+HC,1,9,0,Example Point Conversion                          ,13,GIGS-5206-13,2,        70,        -135,,1, 70.000055,-134.9973733,
+HC,1,9,0,Example Point Conversion                          ,14,GIGS-5206-14,1,        70,        -130,,2,70.0000511,-130.0025347,
+HC,1,9,0,Example Point Conversion                          ,15,GIGS-5206-15,2,        70,-128.0034722,,1,69.9999053,-128.0009742,
+HC,1,9,0,Example Point Conversion                          ,16,GIGS-5206-16,1,        70,        -128,,2,      NULL,        NULL,
+HC,1,9,0,Example Point Conversion                          ,17,GIGS-5206-17,2,        70,        -126,,1,      NULL,        NULL,
+HC,1,9,0,Example Point Conversion                          ,18,GIGS-5206-18,2,48.1166667,        -133,,1,48.1169867,-132.9984775,
+HC,1,9,0,Example Point Conversion                          ,19,GIGS-5206-19,1,48.1166667,-131.4555556,,2,48.1163964,-131.4571578,
+HC,1,9,0,Example Point Conversion                          ,20,GIGS-5206-20,2,48.1166667,-130.5177467,,1,48.1169228,-130.5161675,
+HC,1,9,0,Example Point Conversion                          ,21,GIGS-5206-21,1,48.1166667,-128.4555556,,2,48.1164319,-128.4570433,
+HC,1,9,0,Example Point Conversion                          ,22,GIGS-5206-22,2,48.1164311,-128.5459361,,1,48.1166667,-128.5444444,
+HC,1,9,0,Example Point Conversion                          ,23,GIGS-5206-23,1,        51,-130.5177467,,2,50.9997114,-130.5193953,
+HC,1,9,0,Example Point Conversion                          ,24,GIGS-5206-24,2,        51,-130.5177467,,1,51.0002886,-130.5160981,
+HC,1,9,0,Example Point Conversion                          ,25,GIGS-5206-25,2,49.9999997,-130.5177467,,1,50.0002897,-130.5161206,
+HC,1,9,0,Example Point Conversion                          ,26,GIGS-5206-26,1,49.9999997,-130.5177467,,2,49.9997097,-130.5193731,
+HC,1,9,0,Example Point Conversion                          ,27,GIGS-5206-27,2,        49,-130.5177467,,1,49.0002717,-130.5161458,
+HC,1,9,0,Example Point Conversion                          ,28,GIGS-5206-28,1,48.1166667,-130.5177467,,2,48.1164106,-130.5193258,
+HC,1,9,0,Example Point Conversion                          ,29,GIGS-5206-29,2,        47,-130.5177467,,1,47.0002378,-130.5161942,
+HC,1,9,0,Example Point Conversion                          ,30,GIGS-5206-30,1,        47,-130.5177467,,2,46.9997622,-130.5192992,
+HC,2,0,0,Survey Configuration                              ,0,0,0,1,metre
+H1,0,0,0,File Contents Description                         ,This file contains GIGS Test Points,Loaded From GIGS_tfm_5206_Nadcon_output.txt
+H1,0,1,0,Processing Details                                ,None
+H1,0,2,0,GIGS Test Procedure                               ,100,      5206, ,      
+H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.0, ,      
+H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2021-05-03, ,      
+H1,0,2,0,Cartesian Tolerance                               ,103,      0.03,1, metre
+H1,0,2,0,Geographic Tolerance                              ,104, 0.0000003,3,degree
+H1,0,2,0,Round Trip Cartesian Tolerance                    ,105,     0.006,1, metre
+H1,0,2,0,Round Trip Geographic Tolerance                   ,106,0.00000006,3,degree
+H1,0,2,0,Round Trip Point                                  ,107,         1, ,      

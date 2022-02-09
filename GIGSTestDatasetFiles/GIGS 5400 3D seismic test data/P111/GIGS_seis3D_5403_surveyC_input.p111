@@ -1,0 +1,77 @@
+OGP,OGP P6,6,1.1,1,2021:07:28,08:28:50,GIGS_seis3D_5403_surveyC_input.p111,IOGP
+HC,0,1,0,Project Name                                      ,5403,GIGS 5403 Input Survey C,2020:01:01,
+HC,0,3,0,Geographic Extent                                 ,3.12,3.47,52.16,52.35
+HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
+HC,1,0,0,Reference Systems Summary                         ,6,1,3,1
+HC,1,1,0,Unit of Measure                                   ,1, metre,length, 2, , ,             ,   , , metre,9001,       EPSG Dataset,10.018,9001
+HC,1,1,0,Unit of Measure                                   ,2,radian, angle, 2, , ,             ,   , ,radian,9101,       EPSG Dataset,10.018,9101
+HC,1,1,0,Unit of Measure                                   ,3,degree, angle, 2,2,0,3.14159265359,180,0,degree,9102,       EPSG Dataset,10.018,9102
+HC,1,1,0,Unit of Measure                                   ,4, unity, scale, 2, , ,             ,   , , unity,9201,       EPSG Dataset,10.018,9201
+HC,1,1,0,Unit of Measure                                   ,5,second,  time,12, , ,             ,   , ,second,    ,POSC UOM Dictionary,   2.2,   s
+HC,1,1,0,Unit of Measure                                   ,6, (bin), scale, 2,4,0,            1,  1,0, (bin),1024,       EPSG Dataset,10.018,1024
+HC,1,1,1,Example Unit Conversion                           ,1,2,1,3,57.29577951
+HC,1,1,1,Example Unit Conversion                           ,2,4,1,6,          1
+HC,1,2,0,Time Reference System                             ,1,1,0,UTC,0,,5
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,32631,WGS 84 / UTM zone 31N,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2, 4326,               WGS 84,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,3,     ,             Bin Grid,10.018,2021:04:02,EPSG,
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,32631,1,projected,WGS 84 / UTM zone 31N
+HC,1,4,3,Base Geographic CRS                               ,1,2,4326,WGS 84
+HC,1,4,4,Geodetic Datum                                    ,1,1156,World Geodetic System 1984 (G1762),
+HC,1,4,5,Prime Meridian                                    ,1,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,1,7030,WGS 84,6378137,1,metre,298.257223563
+HC,1,5,0,Map Projection                                    ,1,16031,UTM zone 31N
+HC,1,5,1,Projection Method                                 ,1,9807,Transverse Mercator,5
+HC,1,5,2,Latitude of natural origin                        ,1,8801,     0,3,degree
+HC,1,5,2,Longitude of natural origin                       ,1,8802,     3,3,degree
+HC,1,5,2,Scale factor at natural origin                    ,1,8805,0.9996,4, unity
+HC,1,5,2,False easting                                     ,1,8806,500000,1, metre
+HC,1,5,2,False northing                                    ,1,8807,     0,1, metre
+HC,1,6,0,Coordinate System                                 ,1,4400,Cartesian 2D CS. Axes\u003A easting\u002C northing (E\u002CN). Orientations\u003A east\u002C north. UoM\u003A m.,2,Cartesian,2
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,1, Easting, east,E,1,metre
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,2,Northing,north,N,1,metre
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,4326,2,geographic 2D,WGS 84
+HC,1,4,4,Geodetic Datum                                    ,2,1156,World Geodetic System 1984 (G1762),
+HC,1,4,5,Prime Meridian                                    ,2,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,2,7030,WGS 84,6378137,1,metre,298.257223563
+HC,1,6,0,Coordinate System                                 ,2,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,2,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,3,,6,engineering,Bin Grid
+HC,1,4,8,Engineering Datum                                 ,3,,Seismic bin grid datum
+HC,1,6,0,Coordinate System                                 ,3,1051,Bin grid I=J+90 CS (datatype=real). Axes\u003A I\u002CJ.,1,Affine,2
+HC,1,6,1,Coordinate System Axis 1                          ,3,1,32841,Bin grid I,  J-axis plus 90 degrees,I,6,(bin)
+HC,1,6,1,Coordinate System Axis 2                          ,3,2,32842,Bin grid J,See associated operation,J,6,(bin)
+HC,1,7,0,Transformation Number/EPSG Code/Name/Source       ,1,,Bin Grid Operation,10.018,2021:04:02,EPSG,
+HC,1,8,0,Transformation Number/EPSG Code/Name              ,1,,Bin Grid Operation,0
+HC,1,8,1,Source CRS/Target CRS/Version                     ,1,3,,Bin Grid,1,32631,WGS 84 / UTM zone 31N,
+HC,1,8,2,Transformation Method                             ,1,9666,P6 I=J+90 seismic bin grid coordinate operation,1,10
+HC,1,8,4,Bin grid origin I                                 ,1,8733,          1,6, (bin),1
+HC,1,8,4,Bin grid origin J                                 ,1,8734,      10000,6, (bin),1
+HC,1,8,4,Bin grid origin Easting                           ,1,8735,  414188.46,1, metre,1
+HC,1,8,4,Bin grid origin Northing                          ,1,8736,5761775.889,1, metre,1
+HC,1,8,4,Scale factor of bin grid                          ,1,8737,          1,4, unity,1
+HC,1,8,4,Bin width on I-axis                               ,1,8738,       12.5,1, metre,1
+HC,1,8,4,Bin width on J-axis                               ,1,8739,       6.25,1, metre,1
+HC,1,8,4,Map grid bearing of bin grid J-axis               ,1,8740,         20,3,degree,1
+HC,1,8,4,Bin node increment on I-axis                      ,1,8741,          1,6, (bin),1
+HC,1,8,4,Bin node increment on J-axis                      ,1,8742,          1,6, (bin),1
+HC,1,9,0,Example Point Conversion                          ,1,Boundary Point 1,1,508174.978,5786097.373,,2,52.22524087,3.11968266,,3,6401,18800,
+HC,1,9,0,Example Point Conversion                          ,2,Boundary Point 2,1,513305.280,5800192.762,,2,52.35186490,3.19534711,,3,6401,21200,
+HC,1,9,0,Example Point Conversion                          ,3,Boundary Point 3,1,532099.132,5793352.359,,2,52.28959031,3.47061701,,3,8001,21200,
+HC,1,9,0,Example Point Conversion                          ,4,Boundary Point 4,1,526968.830,5779256.970,,2,52.16314293,3.39427784,,3,8001,18800,
+HC,1,9,0,Example Point Conversion                          ,5,     Trial Point,1,520137.055,5789724.866,,2,52.25754625,3.29502333,,3,7201,20000,
+H6,0,0,0,File Contents Description                         ,This file contains GIGS Test Points,Loaded From GIGS_seis3D_5403_surveyC_input.txt
+H6,0,1,0,Processing Details                                ,None
+H6,2,0,0,Survey Perimeter Definition                       ,1,Boundary,1,3,7,Boundary,0
+H6,3,0,0,I Axis Name                                       ,1,3,                             Line, ,      
+H6,3,0,0,I Axis Description                                ,2,3, Axis with increasing line number, ,      
+H6,3,0,0,I Axis Direction/Orientation                      ,3,3,                              110,3,degree
+H6,3,0,0,J Axis Name                                       ,4,3,                            Trace, ,      
+H6,3,0,0,J Axis Description                                ,5,3,Axis with increasing trace number, ,      
+H6,3,0,0,J Axis Direction/Orientation                      ,6,3,                               20,3,degree
+H6,3,0,0,Origin Location                                   ,7,3,                           Centre, ,      
+M6,0,1,1,1,1,508174.978,5786097.373,,6401,18800,,
+M6,0,1,1,2,1,513305.280,5800192.762,,6401,21200,,
+M6,0,1,1,3,1,532099.132,5793352.359,,8001,21200,,
+M6,0,1,1,4,1,526968.830,5779256.970,,8001,18800,,

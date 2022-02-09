@@ -1,0 +1,48 @@
+# File: GIGS_tfm_5207_NTv2_output_part1								
+# GIGS Test Procedure: 5207								
+# GIGS Test Dataset Version: 2.0								
+# EPSG Dataset Version: 10.019 								
+# GIGS Test Dataset Issue Date: 2021-05-03								
+# Note 1: Test for NTv2 utilising EPSG Coordinate Operation Method 9615 in south and east hemisphere quadrants								
+# Note 2: CAUTION if application requires early-binding use GIGS geogCRS X' (GIGS code 64032) instead of GIGS geogCRS X								
+# Note 3: CAUTION Longitudes are given positive east								
+# Note 4: Output file 1 of 2								
+# Cartesian Tolerance: 0.03 metre								
+# Geographic Tolerance: 0.0000003 degree								
+# Round Trip Cartesian Tolerance: 0.006 metre								
+# Round Trip Geographic Tolerance: 0.00000006 degree								
+#								
+# Fields:								
+# [0]: Point								
+# [1]: Latitude (GIGS CRS Code 64016; GIGS geogCRS X; AGD66; decimal degree; EPSG CRS code 4202)								
+# [2]: Longitude (GIGS CRS Code 64016; GIGS geogCRS X; AGD66; decimal degree; EPSG CRS code 4202)								
+# [3]: Latitude (GIGS CRS Code 64009; GIGS geogCRS F; GDA94; decimal degree; EPSG CRS code 4283)								
+# [4]: Longitude (GIGS CRS Code 64009; GIGS geogCRS F; GDA94; decimal degree; EPSG CRS code 4283)								
+# [5]: Transect 								
+# [6]: Transformation Direction								
+# [7]: Value outside tfm grid; should fail								
+# [8]: GIGS Remarks								
+#								
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]	# [8]
+GIGS-5207-01	-8	-115	NULL	NULL	A	FORWARD	TRUE	Round Trip calculation point
+GIGS-5207-02	NULL	NULL	-9	-115	A	REVERSE	TRUE	
+GIGS-5207-03	-10	-115	NULL	NULL	A	FORWARD	TRUE	
+GIGS-5207-04	-10.05	115	-10.04863722	115.0012511	A	FORWARD	FALSE	
+GIGS-5207-05	-11.00135944	114.9987442	-11	115	A	REVERSE	FALSE	
+GIGS-5207-06	-12	115	-11.99864417	115.0012614	A	FORWARD	FALSE	
+GIGS-5207-07	-9	138.04	-8.99854333	138.0411328	B	FORWARD	FALSE	
+GIGS-5207-08	-9.00145667	138.0438672	-9	138.045	B	REVERSE	FALSE	
+GIGS-5207-09	-9	138.05	-8.99854333	138.0511328	B	REVERSE	FALSE	
+GIGS-5207-10	-9.00145667	138.0488672	-9	138.05	B	REVERSE	FALSE	
+GIGS-5207-11	-9.00145667	138.0538672	-9	138.055	B	REVERSE	FALSE	
+GIGS-5207-12	-9	138.06	-8.99854333	138.0611328	B	FORWARD	FALSE	
+GIGS-5207-13	-27.12647639	138.0387308	-27.125	138.04	C	FORWARD	FALSE	
+GIGS-5207-14	-27.125	138.045	-27.12352361	138.0462689	C	REVERSE	FALSE	
+GIGS-5207-15	-27.125	138.05	-27.12352361	138.0512689	C	FORWARD	FALSE	
+GIGS-5207-16	-27.12647639	138.0487311	-27.125	138.05	C	REVERSE	FALSE	
+GIGS-5207-17	-27.125	138.055	-27.12352333	138.0562689	C	FORWARD	FALSE	
+GIGS-5207-18	-27.12647667	138.0587311	-27.125	138.06	C	REVERSE	FALSE	
+GIGS-5207-19	-28.05	136.8472222	-28.04852694	136.8485253	D	REVERSE	FALSE	
+GIGS-5207-20	-28.05	137.8472222	-28.04853111	137.8485056	D	FORWARD	FALSE	
+GIGS-5207-21	-28.05	138.8472222	-28.04851889	138.8484925	D	FORWARD	FALSE	
+GIGS-5207-22	-28.05	139.8472222	-28.04850722	139.8484753	D	REVERSE	FALSE	

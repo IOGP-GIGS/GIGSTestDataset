@@ -1,0 +1,36 @@
+H0001 Format name and version:      UKOOA P7/2000 rev 5, October 2002
+H0002 Format type:            1
+H0100 Country:              IOGP
+H0110 Well Name:             GIGS well A
+H0150 Depth Units:            M
+H0160 Sidetrack (ST)?:          N
+H8000 EPSG GeogCRS Name:         WGS 84
+H8001 EPSG GeogCRS Code:          4979
+H8004 EPSG VertCRS Name:         WGS 84 ellipsoidal height
+H8005 EPSG VertCRS Code:          4979
+H8006 EPSG Database Version:       6.18
+H0200 Geodetic Datum Name:        GIGS geodetic datum A
+H0201 Ellipsoid name, a, 1/f:       GIGS ellipsoid A    6378137.0   298.257223563
+H0202 Datum Transformation Parameters:    0.0  0.0  0.0 0.0  0.0  0.0  0.0
+H0231 CRS angular units:         1 Sexagesimal degree
+H0232 Vertical Reference Datum (VRD):   WGS 84 ellipsoid
+H0300 Well Reference Point:        Ground level
+H0320 Latitude of WRP:           520215.202N
+H0325 Longitude of WRP:           21226.170E
+H0385 Elevation of Zero MD rel. to VRD:   121.09
+H0390 Elevation of WRP rel. to VRD:     111.09
+H0395 Measured Depth of WRP:         10.0
+H0500 Azimuth reference:         UNKNOWN
+H0700 Remarks:              Horizontal and vertical coordinates are referenced to GIGS geog3DCRS A.
+H0700 Remarks:              This is equivalent to WGS 84, EPSG CRS code 4979.
+H0700 Remarks:              Use EGM96 geoid model to obtain msl depths.
+H0700 Remarks:              Proprietary data records removed from file ...
+H0700 Remarks:              ... First data record at -121.09m MD is RT.
+H0700 Remarks:              ... Second data record at -111.09m MD is ground level.
+H0700 Remarks:              ... Third data record at 739.17m MD is horizon 1.
+H0700 Remarks:              ... Fourth data record at 1557.43m MD is TD.
+H0700 Remarks:              GIGS Test Dataset Version: 2.0, GIGS Test Dataset Issue Date: 2021-05-03.
+D                                -121.09                520215.202N   21226.170E
+D                                -111.09                520215.202N   21226.170E
+D                                 739.17                520215.202N   21226.170E
+D                                1557.43                520215.202N   21226.170E

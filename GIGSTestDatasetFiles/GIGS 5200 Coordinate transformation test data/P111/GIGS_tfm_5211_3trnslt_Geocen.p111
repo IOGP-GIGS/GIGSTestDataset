@@ -1,0 +1,77 @@
+OGP,OGP P1,1,1.1,1,2021:08:20,13:45:13,GIGS_tfm_5211_3trnslt_Geocen.p111,IOGP
+HC,0,1,0,Project Name                                      ,5211,5209 P6 Test Points,2020:01:01,
+HC,0,2,0,Survey Description                                ,Geodetic Test,GIGS Test Points,NA,826,GBR
+HC,0,3,0,Geographic Extent                                 ,-150.01,180.00,-80.00,80.00
+HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
+HC,0,5,0,Geophysical Contractor                            ,None
+HC,0,6,0,Positioning Contractor                            ,None
+HC,0,7,0,Position Processing Contractor                    ,None
+HC,1,0,0,Reference Systems Summary                         ,4,0,2,1
+HC,1,1,0,Unit of Measure                                   ,1, metre,length,2, , ,             ,   , , metre,9001,EPSG Dataset,10.018,9001
+HC,1,1,0,Unit of Measure                                   ,2,radian, angle,2, , ,             ,   , ,radian,9101,EPSG Dataset,10.018,9101
+HC,1,1,0,Unit of Measure                                   ,3,degree, angle,2,2,0,3.14159265359,180,0,degree,9102,EPSG Dataset,10.018,9102
+HC,1,1,0,Unit of Measure                                   ,4, unity, scale,2, , ,             ,   , , unity,9201,EPSG Dataset,10.018,9201
+HC,1,1,1,Example Unit Conversion                           ,1,2,1,3,57.29577951
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,    ,OSGB 1936,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2,4978,   WGS 84,10.018,2021:04:02,EPSG,
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,,4,geocentric,OSGB 1936
+HC,1,4,4,Geodetic Datum                                    ,1,6277,Ordnance Survey of Great Britain 1936,
+HC,1,4,5,Prime Meridian                                    ,1,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,1,7001,Airy 1830,6377563.396,1,metre,299.3249646
+HC,1,6,0,Coordinate System                                 ,1,6500,Cartesian 3D CS (geocentric). Axes\u003A geocentric X Y Z. Orientations\u003A X and Y in equatorial plane\u002C X positive through intersection with prime meridian\u002C Y through 0\u00B0N 90\u00B0E. Z axis parallel to mean earth rotation axis and positive towards North Pole. UoM\u003A m.,2,Cartesian,3
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,115,Geocentric X,geocentricX,X,1,metre
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,116,Geocentric Y,geocentricY,Y,1,metre
+HC,1,6,1,Coordinate System Axis 3                          ,1,3,117,Geocentric Z,geocentricZ,Z,1,metre
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,4978,4,geocentric,WGS 84
+HC,1,4,4,Geodetic Datum                                    ,2,1156,World Geodetic System 1984 (G1762),
+HC,1,4,5,Prime Meridian                                    ,2,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,2,7030,WGS 84,6378137,1,metre,298.257223563
+HC,1,6,0,Coordinate System                                 ,2,6500,Cartesian 3D CS (geocentric). Axes\u003A geocentric X Y Z. Orientations\u003A X and Y in equatorial plane\u002C X positive through intersection with prime meridian\u002C Y through 0\u00B0N 90\u00B0E. Z axis parallel to mean earth rotation axis and positive towards North Pole. UoM\u003A m.,2,Cartesian,3
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,115,Geocentric X,geocentricX,X,1,metre
+HC,1,6,1,Coordinate System Axis 2                          ,2,2,116,Geocentric Y,geocentricY,Y,1,metre
+HC,1,6,1,Coordinate System Axis 3                          ,2,3,117,Geocentric Z,geocentricZ,Z,1,metre
+HC,1,7,0,Transformation Number/EPSG Code/Name/Source       ,1,,OSGB36 to WGS 84 (2),10.018,2021:04:02,EPSG,
+HC,1,8,0,Transformation Number/EPSG Code/Name              ,1,,OSGB36 to WGS 84 (2),10
+HC,1,8,1,Source CRS/Target CRS/Version                     ,1,1,,OSGB 1936,2,4978,WGS 84,DMA-Gbr Eng
+HC,1,8,2,Transformation Method                             ,1,1031,Geocentric translations (geocentric domain),1,3
+HC,1,8,4,X-axis translation                                ,1,8605, 371,1,metre,1
+HC,1,8,4,Y-axis translation                                ,1,8606,-112,1,metre,1
+HC,1,8,4,Z-axis translation                                ,1,8607, 434,1,metre,1
+HC,1,9,0,Example Point Conversion                          , 1,GIGS-5211-01,2,-962479.5924, 555687.8517, 6260738.653,1,-962850.5924, 555799.8517, 6260304.653
+HC,1,9,0,Example Point Conversion                          , 2,GIGS-5211-02,2,-962297.0059, 555582.4354, 6259542.961,1,-962668.0059, 555694.4354, 6259108.961
+HC,1,9,0,Example Point Conversion                          , 3,GIGS-5211-03,1,-1598619.169, 2768889.623, 5500844.468,2,-1598248.169, 2768777.623, 5501278.468
+HC,1,9,0,Example Point Conversion                          , 4,GIGS-5211-04,1,-1598394.169, 2768499.912, 5500065.045,2,-1598023.169, 2768387.912, 5500499.045
+HC,1,9,0,Example Point Conversion                          , 5,GIGS-5211-05,2, 2764210.405, 4787752.865,  3170468.52,1, 2763839.405, 4787864.865,  3170034.52
+HC,1,9,0,Example Point Conversion                          , 6,GIGS-5211-06,2,  2764128.32, 4787610.688, 3170373.735,1,  2763757.32, 4787722.688, 3169939.735
+HC,1,9,0,Example Point Conversion                          , 7,GIGS-5211-07,1, 6377563.396,           0,           0,2, 6377934.396,        -112,         434
+HC,1,9,0,Example Point Conversion                          , 8,GIGS-5211-08,1, 6374563.396,           0,           0,2, 6374934.396,        -112,         434
+HC,1,9,0,Example Point Conversion                          , 9,GIGS-5211-09,1, 6367563.396,           0,           0,2, 6367934.396,        -112,         434
+HC,1,9,0,Example Point Conversion                          ,10,GIGS-5211-10,2,  2764128.32,-4787610.688,-3170373.735,1,  2763757.32,-4787498.688,-3170807.735
+HC,1,9,0,Example Point Conversion                          ,11,GIGS-5211-11,2, 2763900.349,-4787215.831,-3170110.497,1, 2763529.349,-4787103.831,-3170544.497
+HC,1,9,0,Example Point Conversion                          ,12,GIGS-5211-12,2, 2763880.863,-4787182.081,-3170087.997,1, 2763509.863,-4787070.081,-3170521.997
+HC,1,9,0,Example Point Conversion                          ,13,GIGS-5211-13,1,-1598394.169,-2768499.912,-5500065.045,2,-1598023.169,-2768611.912,-5499631.045
+HC,1,9,0,Example Point Conversion                          ,14,GIGS-5211-14,1,-1598169.169,-2768110.201,-5499285.622,2,-1597798.169,-2768222.201,-5498851.622
+HC,1,9,0,Example Point Conversion                          ,15,GIGS-5211-15,2,-962297.0059,-555582.4354,-6259542.961,1,-962668.0059,-555470.4354,-6259976.961
+HC,1,9,0,Example Point Conversion                          ,16,GIGS-5211-16,2, -962150.945,-555498.1071,-6258586.462,1, -962521.945,-555386.1071,-6259020.462
+HC,1,9,0,Example Point Conversion                          ,17,GIGS-5211-17,2,-961798.2951,-555294.5046,-6256277.087,1,-962169.2951,-555182.5046,-6256711.087
+HC,1,9,0,Example Point Conversion                          ,18,GIGS-5211-18,1,-2187707.719,           0, 5970583.093,2,-2187336.719,        -112, 5971017.093
+HC,1,9,0,Example Point Conversion                          ,19,GIGS-5211-19,2,-2904698.555,-2904698.555, 4862789.038,1,-2905069.555,-2904586.555, 4862355.038
+HC,1,9,0,Example Point Conversion                          ,20,GIGS-5211-20,1,           0,-5783481.614,  2678892.11,2,         371,-5783593.614,  2679326.11
+HC,1,9,0,Example Point Conversion                          ,21,GIGS-5211-21,2,     6378137,           0,           0,1,     6377766,         112,        -434
+HC,1,9,0,Example Point Conversion                          ,22,GIGS-5211-22,1,-4087466.478, 2977579.559,-3875891.429,2,-4087095.478, 2977467.559,-3875457.429
+HC,1,9,0,Example Point Conversion                          ,23,GIGS-5211-23,1,-4086290.959, 2976723.233,-3874769.274,2,-4085919.959, 2976611.233,-3874335.274
+HC,1,9,0,Example Point Conversion                          ,24,GIGS-5211-24,1,-4084371.165, 2975324.729,-3872936.631,2,-4084000.165, 2975212.729,-3872502.631
+HC,1,9,0,Example Point Conversion                          ,25,GIGS-5211-25,1,-4079891.647, 2972061.553,-3868660.465,2,-4079520.647, 2971949.553,-3868226.465
+HC,1,9,0,Example Point Conversion                          ,26,GIGS-5211-26,2,-2904698.555, 2904698.555,-4862789.038,1,-2905069.555, 2904810.555,-4863223.038
+HC,1,9,0,Example Point Conversion                          ,27,GIGS-5211-27,1,-2187707.719,           0,-5970583.093,2,-2187336.719,        -112,-5970149.093
+HC,2,0,0,Survey Configuration                              ,0,0,0,1,metre
+H1,0,0,0,File Contents Description                         ,This file contains GIGS Test Points,Loaded From GIGS_tfm_5211_3trnslt_Geocen_output.txt
+H1,0,1,0,Processing Details                                ,None
+H1,0,2,0,GIGS Test Procedure                               ,100,      5211, ,      
+H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.0, ,      
+H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2021-05-03, ,      
+H1,0,2,0,Cartesian Tolerance                               ,103,      0.03,1, metre
+H1,0,2,0,Geographic Tolerance                              ,104, 0.0000003,3,degree
+H1,0,2,0,Round Trip Cartesian Tolerance                    ,105,     0.006,1, metre
+H1,0,2,0,Round Trip Geographic Tolerance                   ,106,0.00000006,3,degree
+H1,0,2,0,Round Trip Point                                  ,107,         1, ,      

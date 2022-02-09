@@ -1,0 +1,75 @@
+OGP,OGP P1,1,1.1,1,2021:08:20,13:44:36,GIGS_conv_5106_HOM-A.p111,IOGP
+HC,0,1,0,Project Name                                      ,5106,Geospatial Integrity of Geoscience Software,2020:01:01,
+HC,0,2,0,Survey Description                                ,Geodetic Test,GIGS Test Points,NA,826,GBR
+HC,0,3,0,Geographic Extent                                 ,109.69,123.00,0.00,12.00
+HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
+HC,0,5,0,Geophysical Contractor                            ,None
+HC,0,6,0,Positioning Contractor                            ,None
+HC,0,7,0,Position Processing Contractor                    ,None
+HC,1,0,0,Reference Systems Summary                         ,5,0,2,0
+HC,1,1,0,Unit of Measure                                   ,1,          metre,length, 2, , ,             ,   , ,          metre,9001,EPSG Dataset,10.018,9001
+HC,1,1,0,Unit of Measure                                   ,2,         radian, angle, 2, , ,             ,   , ,         radian,9101,EPSG Dataset,10.018,9101
+HC,1,1,0,Unit of Measure                                   ,3,         degree, angle, 2,2,0,3.14159265359,180,0,         degree,9102,EPSG Dataset,10.018,9102
+HC,1,1,0,Unit of Measure                                   ,4,          unity, scale, 2, , ,             ,   , ,          unity,9201,EPSG Dataset,10.018,9201
+HC,1,1,0,Unit of Measure                                   ,5,sexagesimal DMS, angle,29,3,0,            0,  0,0,sexagesimal DMS,9110,EPSG Dataset,10.018,9110
+HC,1,1,1,Example Unit Conversion                           ,1,2,1,3,57.29577951
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,3376,GDM2000 / East Malaysia BRSO,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2,4742,                     GDM2000,10.018,2021:04:02,EPSG,
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,3376,1,projected,GDM2000 / East Malaysia BRSO
+HC,1,4,3,Base Geographic CRS                               ,1,2,4742,GDM2000
+HC,1,4,4,Geodetic Datum                                    ,1,6742,Geodetic Datum of Malaysia 2000,
+HC,1,4,5,Prime Meridian                                    ,1,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,1,7019,GRS 1980,6378137,1,metre,298.257222101
+HC,1,5,0,Map Projection                                    ,1,19894,Borneo RSO
+HC,1,5,1,Projection Method                                 ,1,9812,Hotine Oblique Mercator (variant A),7
+HC,1,5,2,Latitude of projection centre                     ,1,8811,           4,5,sexagesimal DMS
+HC,1,5,2,Longitude of projection centre                    ,1,8812,         115,5,sexagesimal DMS
+HC,1,5,2,Azimuth of initial line                           ,1,8813,53.185691582,5,sexagesimal DMS
+HC,1,5,2,Angle from Rectified to Skew Grid                 ,1,8814, 53.07483685,5,sexagesimal DMS
+HC,1,5,2,Scale factor on initial line                      ,1,8815,     0.99984,4,          unity
+HC,1,5,2,False easting                                     ,1,8806,           0,1,          metre
+HC,1,5,2,False northing                                    ,1,8807,           0,1,          metre
+HC,1,6,0,Coordinate System                                 ,1,4400,Cartesian 2D CS. Axes\u003A easting\u002C northing (E\u002CN). Orientations\u003A east\u002C north. UoM\u003A m.,2,Cartesian,2
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,1, Easting, east,E,1,metre
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,2,Northing,north,N,1,metre
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,4742,2,geographic 2D,GDM2000
+HC,1,4,4,Geodetic Datum                                    ,2,6742,Geodetic Datum of Malaysia 2000,
+HC,1,4,5,Prime Meridian                                    ,2,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,2,7019,GRS 1980,6378137,1,metre,298.257222101
+HC,1,6,0,Coordinate System                                 ,2,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,2,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,9,0,Example Point Conversion                          , 1,GIGS-5106-01,2,         12,        117,,1, 807919.144,1329535.334,
+HC,1,9,0,Example Point Conversion                          , 2,GIGS-5106-02,1, 808784.981,1107678.473,,2,         10,        117,
+HC,1,9,0,Example Point Conversion                          , 3,GIGS-5106-03,2,          9,        117,,1, 809334.177, 996918.212,
+HC,1,9,0,Example Point Conversion                          , 4,GIGS-5106-04,1, 809939.302, 886240.183,,2,          8,        117,
+HC,1,9,0,Example Point Conversion                          , 5,GIGS-5106-05,2, 6.87845833,116.8465522,,1, 793704.631, 762081.047,
+HC,1,9,0,Example Point Conversion                          , 6,GIGS-5106-06,1, 811253.303, 665041.265,,2,          6,        117,
+HC,1,9,0,Example Point Conversion                          , 7,GIGS-5106-07,2,          5,        117,,1, 811930.345, 554475.627,
+HC,1,9,0,Example Point Conversion                          , 8,GIGS-5106-08,1, 812599.582, 443902.706,,2,          4,        117,
+HC,1,9,0,Example Point Conversion                          , 9,GIGS-5106-09,1, 590521.147, 442890.861,,2,          4,        115,
+HC,1,9,0,Example Point Conversion                          ,10,GIGS-5106-10,2,          3,        117,,1, 813245.133,  333300.13,
+HC,1,9,0,Example Point Conversion                          ,11,GIGS-5106-11,1, 813851.067, 222645.511,,2,          2,        117,
+HC,1,9,0,Example Point Conversion                          ,12,GIGS-5106-12,2,          1,        117,,1, 814401.375, 111916.452,
+HC,1,9,0,Example Point Conversion                          ,13,GIGS-5106-13,1,          0,          0,,2,-0.00017333,109.6858208,
+HC,1,9,0,Example Point Conversion                          ,14,GIGS-5106-14,2,          6,        123,,1,1475669.281, 673118.573,
+HC,1,9,0,Example Point Conversion                          ,15,GIGS-5106-15,1,1364854.862, 671146.254,,2,          6,        122,
+HC,1,9,0,Example Point Conversion                          ,16,GIGS-5106-16,2,          6,        121,,1,1254086.173, 669446.249,
+HC,1,9,0,Example Point Conversion                          ,17,GIGS-5106-17,1,1143352.598, 668002.074,,2,          6,        120,
+HC,1,9,0,Example Point Conversion                          ,18,GIGS-5106-18,2,          6,        119,,1,1032643.312, 666797.354,
+HC,1,9,0,Example Point Conversion                          ,19,GIGS-5106-19,1, 921947.286, 665815.815,,2,          6,        118,
+HC,1,9,0,Example Point Conversion                          ,20,GIGS-5106-20,2,          6,        117,,1, 811253.303, 665041.265,
+HC,1,9,0,Example Point Conversion                          ,21,GIGS-5106-21,1, 700549.965, 664457.586,,2,          6,        116,
+HC,1,9,0,Example Point Conversion                          ,22,GIGS-5106-22,2,          6,        115,,1, 589825.706, 664048.715,
+HC,1,9,0,Example Point Conversion                          ,23,GIGS-5106-23,1, 479068.802,  663798.63,,2,          6,        114,
+HC,2,0,0,Survey Configuration                              ,0,0,0,1,metre
+H1,0,0,0,File Contents Description                         ,This file contains GIGS Test Points,Loaded From GIGS_conv_5106_HOM-A_output.txt
+H1,0,1,0,Processing Details                                ,None
+H1,0,2,0,GIGS Test Procedure                               ,100,      5106, ,      
+H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.0, ,      
+H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2021-05-03, ,      
+H1,0,2,0,Cartesian Tolerance                               ,103,      0.05,1, metre
+H1,0,2,0,Geographic Tolerance                              ,104, 0.0000006,3,degree
+H1,0,2,0,Round Trip Cartesian Tolerance                    ,105,     0.006,1, metre
+H1,0,2,0,Round Trip Geographic Tolerance                   ,106,0.00000006,3,degree
+H1,0,2,0,Round Trip Point                                  ,107,        23, ,      

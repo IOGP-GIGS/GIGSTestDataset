@@ -1,0 +1,31 @@
+# File: GIGS_seis2D_5312_input_part1						
+# GIGS Test Procedure: 5312						
+# GIGS Test Dataset Version: 2.0						
+# EPSG Dataset Version: 10.019 						
+# GIGS Test Dataset Issue Date: 2021-05-03						
+# Note 1: P1/11 File 1 of 2						
+# Note 2: See associated P file for complete configuration						
+#						
+# Fields:						
+# [0]: Line						
+# [1]: SP						
+# [2]: Latitude (GIGS CRS Code 64003; GIGS geogCRS A; WGS 84; decimal degree; EPSG CRS code 4326)						
+# [3]: Longitude (GIGS CRS Code 64003; GIGS geogCRS A; WGS 84; decimal degree; EPSG CRS code 4326)						
+# [4]: Easting (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)						
+# [5]: Northing (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)						
+# [6]: Ground Level (GIGS CRS Code 64507; GIGS vertCRS W1 height; Caspian height; metre; EPSG CRS code 5611)						
+#						
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]
+GIGS-5312-06	1	52.0644667	2.3236667	696327.31	249578.74	84.6
+GIGS-5312-06	10	52.065175	2.3267417	696533.16	249670.15	86
+GIGS-5312-06	20	52.0659639	2.3301556	696761.89	249771.73	87.9
+GIGS-5312-06	30	52.0667528	2.3335722	696990.61	249873.3	89.6
+GIGS-5312-06	40	52.0675417	2.3369889	697219.33	249974.88	91.3
+GIGS-5312-06	50	52.0683278	2.3404028	697448.06	250076.46	93
+GIGS-5312-06	60	52.0691167	2.3438194	697676.79	250178.04	94.7
+GIGS-5312-06	70	52.0699028	2.3472361	697905.51	250279.62	95
+GIGS-5312-06	80	52.0706917	2.35065	698134.24	250381.2	96
+GIGS-5312-06	90	52.0714806	2.3540667	698362.96	250482.78	100
+GIGS-5312-06	100	52.0722667	2.3574833	698591.69	250584.35	99
+GIGS-5312-06	110	52.0730528	2.3609	698820.42	250685.94	102
+GIGS-5312-06	120	52.0738417	2.3643167	699049.14	250787.51	98.5

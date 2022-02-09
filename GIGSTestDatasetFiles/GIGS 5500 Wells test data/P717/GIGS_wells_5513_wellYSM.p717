@@ -1,0 +1,162 @@
+IOGP,IOGP P7,7,1.0,1,2021:05:03,12:00:00, GIGS_wells_5513_wellXSM.p717, IOGP GIGS Test Dataset Version:2.0
+HC,0,1,0,Project Name                                      ,GIGS Test Dataset 2.0,GIGS Test 5510,2021:05:03,
+HC,0,4,0,Client                                            ,IOGP
+HC,1,0,0,Reference Systems Summary                         ,3,0,3,0
+HC,1,1,0,Unit of Measure                                   ,1,metre ,length, 2,  ,  ,                 ,   ,  ,SI base unit of length ,9001,EPSG Dataset,10.019,9001
+HC,1,1,0,Unit of Measure                                   ,2,radian,angle , 2,  ,  ,                 ,   ,  ,SI angular measure unit,9101,EPSG Dataset,10.019,9101
+HC,1,1,0,Unit of Measure                                   ,3,degree,angle , 2 ,2, 0, 3.14159265358979,180, 0,Measure of plane angle ,9102,EPSG Dataset,10.019,9102
+
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,64009,GIGS geogCRS F       , , , ,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2,62014,GIGS projCRS F7      , , , ,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,3,64508,GIGS vertCRS W1 depth, , , ,
+
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,64009,2,geographic 2D,GIGS geogCRS F
+HC,1,4,4,Geodetic Datum                                    ,1,66006,GIGS geodetic datum F
+HC,1,4,5,Prime Meridian                                    ,1,68901,GIGS PM A,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,1,67019,GIGS ellipsoid F,6378137,1,metre,298.257222101
+HC,1,6,0,Coordinate System                                 ,1,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,Ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,106,Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,107,Geodetic longitude,east,Lon,3,degree
+
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,62014,1,projected,GIGS projCRS F7
+HC,1,4,3,Base Geographic CRS                               ,2,1,64009,GIGS geogCRS F
+HC,1,5,0,Map Projection                                    ,2,65007,GIGS conversion 7
+HC,1,5,1,Projection Method                                 ,2,9807,Transverse Mercator,5
+HC,1,5,2,Latitude of natural origin                        ,2,8801,0,3,degree
+HC,1,5,2,Longitude of natural origin                       ,2,8802,141,3,degree
+HC,1,5,2,Scale factor at natural origin                    ,2,8805,0.9996,4,unity
+HC,1,5,2,False easting                                     ,2,8806,500000,1,metre
+HC,1,5,2,False northing                                    ,2,8807,10000000,1,metre
+HC,1,6,0,Coordinate System                                 ,2,4400,Cartesian 2D CS,2,Cartesian,2
+HC,1,6,0,Coordinate System                                 ,2,4400,Cartesian 2D CS. Axes\u003A easting\u002C northing (E\u002CN). Orientations\u003A east\u002C north. UoM\u003A m.,2,Cartesian,2
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,2,Northing,north,N,1,metre
+HC,1,6,1,Coordinate System Axis 2                          ,2,2,1,Easting,east,E,1,metre
+HC,1,6,2,Coordinate Axis Conversion Applied                ,2,15498,axis order change (2D),9843, Axis Order Reversal (2D)
+
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,3,64508,5,vertical,GIGS vertCRS W1 depth
+HC,1,4,7,Vertical Datum                                    ,3,66603,GIGS vertical datum W
+HC,1,6,0,Coordinate System                                 ,3,6498,Vertical CS. Axis\u003A depth (D). Orientation\u003A down. UoM\u003A m.,5,vertical,1
+HC,1,6,1,Coordinate System Axis 1                          ,3,1,113,Depth,down,D,1,metre
+
+H7,1,0,0,Project Information                               ,GIGS Test 5513,Unknown field,Unknown area,Unknown country,
+H7,1,1,0,Structure Definition                              ,1,GIGS Platform YS,SRP,1,Slot A1,2,Offshore,Seabed Level,,
+H7,1,2,0,Well Definition                                   ,1,1,WRP,1, 4220112345, YSM, IOGP,,,Proposed,Lease Block YS,
+H7,1,3,0,Wellbore Definition                               ,1,1,4220112345,5513/1,IOGP,,,,Proposed,5513/1,,
+H7,1,4,0,Rig/Workover ZDP Definition                       ,1,Unknown Rig,ZDP,3,3,Derrick Floor,0,1
+H7,1,5,0,Survey Definition                                 ,1,1,1,GIGS Test 5513-YSM,Unknown,,,,,0,12087.96,m,,,TP,1,,, 
+H7,1,5,1,Survey Details                                    ,1,1,1,MD-Drillpipe,0,Planned depth,0,9,AZ_GRID,1,0.02320310,,0,,,,,
+
+H7,1,5,2,Operator/Survey Contractor                        ,1,Unknown,Unknown Contractor,Unknown Job Number
+H7,4,0,0,Position Object Definition                        ,1,GIGS Platform YS,1,Structure Reference Point,,,,,,,,
+H7,4,0,0,Position Object Definition                        ,2,GIGS Well YSM,2,Well Reference Point,,,,,,,,
+H7,4,0,0,Position Object Definition                        ,3,GIGS Well YSM ZDP,3,Zero-depth Point,,,,,,,,
+H7,5,0,5,P7 Table Definition                               ,1,Planned,1,Minimum Curvature,1077,GNL,0,,0,0,
+
+O7,0,1,SRP,GIGS Platform YS , 497998.18, 4224227.87, -20.00, , , , , , 
+O7,0,2,WRP,GIGS Well YSM     , 497988.17, 4224235.13, -20.00, , , , , , 
+O7,0,3,ZDP,GIGS Well YSM     , 497988.17, 4224235.13, -20.00, , , , , , 
+
+P7, 0, 1, 1,  ,  , 3,  3, 2, Planned,0.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,20.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,48.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,  4, 2, Planned,230.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1005.50,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1018.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1030.50,2.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1043.00,4.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1055.50,6.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1068.00,8.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1080.50,10.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1093.00,12.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1105.50,14.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1118.00,16.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1130.50,18.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1143.00,20.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1155.50,22.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1168.00,24.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1180.50,26.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1193.00,28.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1205.50,30.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1218.00,32.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1230.50,34.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1243.00,36.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1255.50,38.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1268.00,40.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1280.50,42.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1293.00,44.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1305.50,46.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1318.00,48.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1330.50,50.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1343.00,52.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1355.50,54.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1368.00,56.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1380.50,58.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1393.00,60.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1405.50,62.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1418.00,64.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1430.50,66.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1443.00,68.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1455.50,70.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1468.00,72.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1480.50,74.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1493.00,76.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1505.50,78.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1518.00,80.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1530.50,82.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1543.00,84.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1555.50,86.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1568.00,88.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1580.50,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1593.00,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1605.50,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11089.12,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11101.62,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11114.12,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11126.62,88.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11139.12,86.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11151.62,84.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11164.12,82.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11176.62,80.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11189.12,78.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11201.62,76.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11214.12,74.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11226.62,72.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11239.12,70.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11251.62,68.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11264.12,66.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11276.62,64.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11289.12,62.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11301.62,60.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11314.12,58.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11326.62,56.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11339.12,54.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11351.62,52.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11364.12,50.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11376.62,48.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11389.12,46.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11401.62,44.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11414.12,42.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11426.62,40.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11439.12,38.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11451.62,36.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11464.12,34.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11476.62,32.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11489.12,30.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11501.62,28.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11514.12,26.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11526.62,24.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11539.12,22.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11551.62,20.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11564.12,18.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11576.62,16.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11589.12,14.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11601.62,12.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11614.12,10.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11626.62,8.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11639.12,6.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11651.62,4.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11664.12,2.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11676.62,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,11689.12,0.00,0.00
+P7, 0, 1, 1,  ,  ,  , 10, 2, Planned,11813.40,0.00,0.00
+P7, 0, 1, 1,  ,  ,  , 13, 2, Planned,12087.96,0.00,0.00

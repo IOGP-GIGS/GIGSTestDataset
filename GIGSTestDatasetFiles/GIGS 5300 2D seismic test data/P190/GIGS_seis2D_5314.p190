@@ -1,0 +1,44 @@
+H0100Survey Area                N/A                                             
+H0101General Survey Details     GIGS_seis2D_5314_input.txt                      
+H0102Vessel Details             N/A                                             
+H0103Source Details             N/A                                             
+H0104Streamer Details           N/A                                             
+H0105Other Details              N/A                                             
+H0200Date of Survey             N/A                                             
+H0201Date of Issue              20210728                                        
+H0202Tape Version               4.0                                             
+H0203Line Prefix                N/A                                             
+H0300Line Client                N/A                                             
+H0400Geophysical Contractor     N/A                                             
+H0500Positioning Contractor     N/A                                             
+H0600Position Processing        N/A                                             
+H0700Onboard Navigation         N/A                                             
+H0800Co-ordinate Location       Centre of source                                
+H1400Surveyed Datum             WGS 84      WGS 84       6378137.000 298.2572236
+H1501Transformation to WGS84      0.00  0.00  0.00 0.000 0.000 0.000 0.0000000  
+H1500Post Plot Datum            WGS 84      WGS 84       6378137.000 298.2572236
+H1501Transformation to WGS84      0.00  0.00  0.00 0.000 0.000 0.000 0.0000000  
+H1600Transformation H14 to H15    0.00  0.00  0.00 0.000 0.000 0.000 0.0000000  
+H1700Vertical Datum             Baltic 1977 depth       EPSG 209936021          
+H1800Projection Type               3British National Grid                       
+H2000Grid Units                 1metre                    1.000000000000        
+H2001Height Units               1metre                    1.000000000000        
+H2002Angular Units              1degrees                                        
+H2200Long of Cent Meridian      0020000.000W                                    
+H2301Grid Origin                0490000.000N0020000.000W                        
+H2302Grid Coords at Origin        400000.00E -100000.00N                        
+H2401Scale Factor               0.9996012717                                    
+H2402Lat/Long of Scale Factor   0490000.000N0020000.000W                        
+SGIGS-5314-01           1520912.37N0021734.82E 693641.0 259342.9 164.0          
+SGIGS-5314-01          10520905.55N0021738.98E 693732.5 259137.0 165.4          
+SGIGS-5314-01          20520857.97N0021743.60E 693834.1 258908.3 167.0          
+SGIGS-5314-01          30520850.40N0021748.21E 693935.7 258679.6 168.3          
+SGIGS-5314-01          40520842.82N0021752.83E 694037.2 258450.9 169.6          
+SGIGS-5314-01          50520835.25N0021757.45E 694138.8 258222.2 170.9          
+SGIGS-5314-01          60520827.67N0021802.07E 694240.4 257993.5 172.2          
+SGIGS-5314-01          70520820.09N0021806.68E 694342.0 257764.8 173.6          
+SGIGS-5314-01          80520812.52N0021811.30E 694443.6 257536.0 174.9          
+SGIGS-5314-01          90520804.94N0021815.91E 694545.2 257307.3 176.2          
+SGIGS-5314-01         100520757.36N0021820.53E 694646.8 257078.6 177.5          
+SGIGS-5314-01         110520749.79N0021825.14E 694748.4 256849.9 178.8          
+SGIGS-5314-01         120520742.21N0021829.76E 694850.0 256621.2 180.5          

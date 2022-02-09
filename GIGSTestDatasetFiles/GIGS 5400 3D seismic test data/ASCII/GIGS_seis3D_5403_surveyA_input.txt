@@ -1,0 +1,20 @@
+# File: GIGS_seis3D_5403_surveyA_input				
+# GIGS Test Procedure: 5403				
+# GIGS Test Dataset Version: 2.0				
+# EPSG Dataset Version: 10.019 				
+# GIGS Test Dataset Issue Date: 2021-05-03				
+# Note 1: See associated P file for complete configuration 				
+# Note 2: Survey A; 50x30 km; J-axis orientated at 20 deg; I-inc 25m x J-inc 12.5m bins; bin inc = 2				
+#				
+# Fields:				
+# [0]: i (Bin grid; No direct EPSG equivalent)				
+# [1]: j (Bin grid; No direct EPSG equivalent)				
+# [2]: Easting (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 / UTM zone 31N; metre; EPSG CRS code 32631)				
+# [3]: Northing (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 / UTM zone 31N; metre; EPSG CRS code 32631)				
+# [4]: Point				
+#				
+# [0]	# [1]	# [2]	# [3]	# [4]
+1	10000	414188.46	5761775.889	SW corner
+1	14800	424449.064	5789966.668	NW corner
+4001	14800	471433.695	5772865.661	NE corner
+4001	10000	461173.091	5744674.882	SE corner

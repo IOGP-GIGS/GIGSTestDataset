@@ -1,0 +1,21 @@
+# File: GIGS_wells_5520_output			
+# GIGS Test Procedure: 5520			
+# GIGS Test Dataset Version: 2.0			
+# EPSG Dataset Version: 10.019 			
+# GIGS Test Dataset Issue Date: 2021-05-03			
+# Note: Same data applies to both test procedures 5520 and 5524; assumes Well G loaded correctly			
+# Cartesian Tolerance: 0.3 US survey foot			
+# Geographic Tolerance: 0.000001 degree			
+#			
+# Fields:			
+# [0]: TVD below GIGS vertical datum V (GIGS CRS Code 64506; GIGS vertCRS V1 depth; Baltic 1977 depth; metre; EPGS CRS code 5612)			
+# [1]: Easting (GIGS CRS Code 62027; GIGS projCRS A23; WGS 84 / BLM 31N (ftUS); US survey foot; No direct EPSG equivalent)			
+# [2]: Northing (GIGS CRS Code 62027; GIGS projCRS A23; WGS 84 / BLM 31N (ftUS); US survey foot; No direct EPSG equivalent)			
+# [3]: Point			
+#			
+# [0]	# [1]	# [2]	# [3]
+-10	1677849.99	18994153.22	RT
+0	1677849.99	18994153.22	GIGS vertical datum V (msl)
+1200	1677849.99	18994153.22	Mud line
+2025.45	1677849.99	18994153.22	Horizon 1
+2212.73	1677849.99	18994153.22	TD

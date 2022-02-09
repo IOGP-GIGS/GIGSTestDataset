@@ -1,0 +1,33 @@
+# File: GIGS_tfm_5210_VertOff_output									
+# GIGS Test Procedure: 5210									
+# GIGS Test Dataset Version: 2.0									
+# EPSG Dataset Version: 10.019 									
+# GIGS Test Dataset Issue Date: 2021-05-03									
+# Note 1: Test for Vertical Offset transformation utilising EPSG Coordinate Operation Method 9616									
+# Note 2: Horizontal coordinates provided for reference only									
+# Cartesian Tolerance: 0.01 metre									
+# Geographic Tolerance: 0.00000009 degree									
+# Round Trip Cartesian Tolerance: 0.006 metre									
+# Round Trip Geographic Tolerance: 0.00000006 degree									
+#									
+# Fields:									
+# [0]: Point									
+# [1]: Latitude (GIGS CRS Code 64017; GIGS geogCRS Y; Pulkovo 1942; decimal degree; EPSG CRS code 4284)									
+# [2]: Longitude (GIGS CRS Code 64017; GIGS geogCRS Y; Pulkovo 1942; decimal degree; EPSG CRS code 4284)									
+# [3]: Height (GIGS CRS Code 64507; GIGS vertCRS W1 height; Caspian height; metre; EPSG CRS code 5611)									
+# [4]: Depth (GIGS CRS Code 64508; GIGS vertCRS W1 depth; Caspian depth; metre; EPSG CRS code 5706)									
+# [5]: Height (GIGS CRS Code 64505; GIGS vertCRS V1 height; Baltic 1977 height; metre; EPSG CRS code 5705)									
+# [6]: Depth (GIGS CRS Code 64506; GIGS vertCRS V1 depth; Baltic 1977 depth; metre; EPSG CRS code 5612)									
+# [7]: Transect									
+# [8]: Transformation Direction									
+# [9]: GIGS Remarks									
+#									
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]	# [8]	# [9]
+GIGS-5210-01	41.630305	50.609559	100	-100	72	-72	A	REVERSE	Round Trip calculation point
+GIGS-5210-02	41.263119	50.609559	94.67	-94.67	66.67	-66.67	A	REVERSE	
+GIGS-5210-03	40.895933	50.609559	45	-45	17	-17	A	FORWARD	
+GIGS-5210-04	40.528746	50.609559	28	-28	0	0	A	FORWARD	
+GIGS-5210-05	40.16156	50.609559	0	0	-28	28	A	REVERSE	
+GIGS-5210-06	39.794374	50.609559	-8	8	-36	36	A	REVERSE	
+GIGS-5210-07	39.427188	50.609559	-16.3	16.3	-44.3	44.3	A	FORWARD	
+GIGS-5210-08	39.060001	50.609559	-182	182	-210	210	A	FORWARD	

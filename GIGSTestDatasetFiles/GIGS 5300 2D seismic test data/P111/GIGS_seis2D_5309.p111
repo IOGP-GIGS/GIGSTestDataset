@@ -1,0 +1,104 @@
+OGP,OGP P1,1,1.1,1,2021:07:28,08:20:35,GIGS_seis2D_5309.p111,IOGP
+HC,0,1,0,Project Name                                      ,5309,Geospatial Integrity of Geoscience Software,2020:01:01,
+HC,0,2,0,Survey Description                                ,Geodetic Test,GIGS Example Points,NA,826,GBR
+HC,0,3,0,Geographic Extent                                 ,2.61,2.71,52.06,52.08
+HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
+HC,0,5,0,Geophysical Contractor                            ,None
+HC,0,6,0,Positioning Contractor                            ,None
+HC,0,7,0,Position Processing Contractor                    ,None
+HC,1,0,0,Reference Systems Summary                         ,5,1,5,1
+HC,1,1,0,Unit of Measure                                   ,1, metre,length, 2, , ,             ,   , , metre,9001,       EPSG Dataset,10.018,9001
+HC,1,1,0,Unit of Measure                                   ,2,radian, angle, 2, , ,             ,   , ,radian,9101,       EPSG Dataset,10.018,9101
+HC,1,1,0,Unit of Measure                                   ,3,degree, angle, 2,2,0,3.14159265359,180,0,degree,9102,       EPSG Dataset,10.018,9102
+HC,1,1,0,Unit of Measure                                   ,4, unity, scale, 2, , ,             ,   , , unity,9201,       EPSG Dataset,10.018,9201
+HC,1,1,0,Unit of Measure                                   ,5,second,  time,12, , ,             ,   , ,second,    ,POSC UOM Dictionary,   2.2,   s
+HC,1,1,1,Example Unit Conversion                           ,1,2,1,3,57.29577951
+HC,1,2,0,Time Reference System                             ,1,1,0,UTC,0,,5
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,27700,            OSGB36 / British National Grid,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2, 4277,                                    OSGB36,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,3, 4326,                                    WGS 84,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,4, 5715,                                 MSL depth,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,5,     ,OSGB36 / British National Grid + MSL depth,10.018,2021:04:02,EPSG,
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,27700,1,projected,OSGB36 / British National Grid
+HC,1,4,3,Base Geographic CRS                               ,1,2,4277,OSGB36
+HC,1,4,4,Geodetic Datum                                    ,1,6277,Ordnance Survey of Great Britain 1936,
+HC,1,4,5,Prime Meridian                                    ,1,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,1,7001,Airy 1830,6377563.396,1,metre,299.3249646
+HC,1,5,0,Map Projection                                    ,1,19916,British National Grid
+HC,1,5,1,Projection Method                                 ,1,9807,Transverse Mercator,5
+HC,1,5,2,Latitude of natural origin                        ,1,8801,          49,3,degree
+HC,1,5,2,Longitude of natural origin                       ,1,8802,          -2,3,degree
+HC,1,5,2,Scale factor at natural origin                    ,1,8805,0.9996012717,4, unity
+HC,1,5,2,False easting                                     ,1,8806,      400000,1, metre
+HC,1,5,2,False northing                                    ,1,8807,     -100000,1, metre
+HC,1,6,0,Coordinate System                                 ,1,4400,Cartesian 2D CS. Axes\u003A easting\u002C northing (E\u002CN). Orientations\u003A east\u002C north. UoM\u003A m.,2,Cartesian,2
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,1, Easting, east,E,1,metre
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,2,Northing,north,N,1,metre
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,4277,2,geographic 2D,OSGB36
+HC,1,4,4,Geodetic Datum                                    ,2,6277,Ordnance Survey of Great Britain 1936,
+HC,1,4,5,Prime Meridian                                    ,2,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,2,7001,Airy 1830,6377563.396,1,metre,299.3249646
+HC,1,6,0,Coordinate System                                 ,2,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,2,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,3,4326,2,geographic 2D,WGS 84
+HC,1,4,4,Geodetic Datum                                    ,3,1156,World Geodetic System 1984 (G1762),
+HC,1,4,5,Prime Meridian                                    ,3,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,3,7030,WGS 84,6378137,1,metre,298.257223563
+HC,1,6,0,Coordinate System                                 ,3,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,3,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,3,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,4,5715,5,vertical,MSL depth
+HC,1,4,7,Vertical Datum                                    ,4,5100,Mean Sea Level
+HC,1,6,0,Coordinate System                                 ,4,6498,Vertical CS. Axis\u003A depth (D). Orientation\u003A down. UoM\u003A m.,5,vertical,1
+HC,1,6,1,Coordinate System Axis 1                          ,4,1,113,Depth,down,D,1,metre
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,5,,7,compound,OSGB36 / British National Grid + MSL depth
+HC,1,4,1,Compound Horizontal CRS                           ,5,1,27700,OSGB36 / British National Grid
+HC,1,4,2,Compound Vertical CRS                             ,5,4,5715,MSL depth
+HC,1,7,0,Transformation Number/EPSG Code/Name/Source       ,1,1196,OSGB36 to WGS 84 (2),10.018,2021:04:02,EPSG,
+HC,1,8,0,Transformation Number/EPSG Code/Name              ,1,1196,OSGB36 to WGS 84 (2),10
+HC,1,8,1,Source CRS/Target CRS/Version                     ,1,2,4277,OSGB36,3,4326,WGS 84,DMA-Gbr Eng
+HC,1,8,2,Transformation Method                             ,1,9603,Geocentric translations (geog2D domain),1,3
+HC,1,8,4,X-axis translation                                ,1,8605, 371,1,metre,1
+HC,1,8,4,Y-axis translation                                ,1,8606,-112,1,metre,1
+HC,1,8,4,Z-axis translation                                ,1,8607, 434,1,metre,1
+HC,1,9,0,Example Point Conversion                          ,1,Test Point,1, 715947.90,249946.98,
+HC,1,9,0,Example Point Conversion                          ,1,Test Point,2,52.0571900,2.6097942,
+HC,2,0,0,Survey Configuration                              ,0,0,1,1,metre
+HC,2,3,0,Source                                            ,1,S1,4,Air Gun Array,,,,0.00,0.00,0.00,,,,
+H1,1,0,0,Position Record Type Definition                   ,1,5,2,3,1,1,0
+H1,1,0,1,Position Record Quality Definition                ,1,0,No Quality Recorded As Test Data,,,0
+H1,0,0,0,File Contents Description                         ,This file contains GIGS Example Points,Loaded From GIGS_seis2D_5309_input.txt
+H1,0,1,0,Processing Details                                ,None
+H1,0,2,0,GIGS Test Procedure                               ,100,      5309,,
+H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.0,,
+H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2021-05-03,,
+S1,0,GIGS-5309-09,,1,,1,2021:001:00:00:00.0,1,S1,1,,715947.90,249946.98,47.20,52.05719000,2.60979420,,52.05767979,2.60791672,,,,,,,
+S1,0,GIGS-5309-09,,10,,1,2021:001:00:00:00.0,1,S1,1,,716153.79,250038.39,48.90,52.05789190,2.61287220,,52.05838167,2.61099440,,,,,,,
+S1,0,GIGS-5309-09,,20,,1,2021:001:00:00:00.0,1,S1,1,,716382.54,250139.98,50.60,52.05867190,2.61629220,,52.05916165,2.61441405,,,,,,,
+S1,0,GIGS-5309-09,,30,,1,2021:001:00:00:00.0,1,S1,1,,716611.31,250241.58,52.30,52.05945190,2.61971250,,52.05994163,2.61783400,,,,,,,
+S1,0,GIGS-5309-09,,40,,1,2021:001:00:00:00.0,1,S1,1,,716840.09,250343.18,54.00,52.06023170,2.62313310,,52.06072141,2.62125425,,,,,,,
+S1,0,GIGS-5309-09,,50,,1,2021:001:00:00:00.0,1,S1,1,,717068.83,250444.80,55.70,52.06101170,2.62655330,,52.06150140,2.62467410,,,,,,,
+S1,0,GIGS-5309-09,,60,,1,2021:001:00:00:00.0,1,S1,1,,717297.60,250546.37,57.40,52.06179110,2.62997390,,52.06228078,2.62809435,,,,,,,
+S1,0,GIGS-5309-09,,70,,1,2021:001:00:00:00.0,1,S1,1,,717526.36,250647.99,59.10,52.06257080,2.63339470,,52.06306046,2.63151480,,,,,,,
+S1,0,GIGS-5309-09,,80,,1,2021:001:00:00:00.0,1,S1,1,,717755.13,250749.56,60.80,52.06335000,2.63681560,,52.06383964,2.63493535,,,,,,,
+S1,0,GIGS-5309-09,,90,,1,2021:001:00:00:00.0,1,S1,1,,717983.91,250851.16,62.50,52.06412940,2.64023670,,52.06461902,2.63835609,,,,,,,
+S1,0,GIGS-5309-09,,100,,1,2021:001:00:00:00.0,1,S1,1,,718212.67,250952.76,64.20,52.06490860,2.64365780,,52.06539820,2.64177684,,,,,,,
+S1,0,GIGS-5309-09,,110,,1,2021:001:00:00:00.0,1,S1,1,,718441.43,251054.36,65.90,52.06568780,2.64707890,,52.06617738,2.64519759,,,,,,,
+S1,0,GIGS-5309-09,,120,,1,2021:001:00:00:00.0,1,S1,1,,718670.20,251155.97,67.60,52.06646690,2.65050030,,52.06695646,2.64861864,,,,,,,
+S1,0,GIGS-5309-09,,130,,1,2021:001:00:00:00.0,1,S1,1,,718898.97,251257.56,69.30,52.06724580,2.65392170,,52.06773534,2.65203969,,,,,,,
+S1,0,GIGS-5309-09,,140,,1,2021:001:00:00:00.0,1,S1,1,,719127.74,251359.17,71.00,52.06802470,2.65734330,,52.06851422,2.65546094,,,,,,,
+S1,0,GIGS-5309-09,,150,,1,2021:001:00:00:00.0,1,S1,1,,719356.48,251460.75,72.70,52.06880330,2.66076470,,52.06929280,2.65888199,,,,,,,
+S1,0,GIGS-5309-09,,160,,1,2021:001:00:00:00.0,1,S1,1,,719585.27,251562.35,74.40,52.06958190,2.66418670,,52.07007138,2.66230364,,,,,,,
+S1,0,GIGS-5309-09,,170,,1,2021:001:00:00:00.0,1,S1,1,,719814.03,251663.96,76.10,52.07036060,2.66760860,,52.07085006,2.66572519,,,,,,,
+S1,0,GIGS-5309-09,,180,,1,2021:001:00:00:00.0,1,S1,1,,720042.80,251765.55,77.80,52.07113890,2.67103060,,52.07162834,2.66914684,,,,,,,
+S1,0,GIGS-5309-09,,190,,1,2021:001:00:00:00.0,1,S1,1,,720271.57,251867.15,79.50,52.07191720,2.67445280,,52.07240662,2.67256868,,,,,,,
+S1,0,GIGS-5309-09,,200,,1,2021:001:00:00:00.0,1,S1,1,,720500.33,251968.76,81.20,52.07269560,2.67787500,,52.07318501,2.67599053,,,,,,,
+S1,0,GIGS-5309-09,,210,,1,2021:001:00:00:00.0,1,S1,1,,720729.11,252070.35,82.90,52.07347360,2.68129750,,52.07396299,2.67941268,,,,,,,
+S1,0,GIGS-5309-09,,220,,1,2021:001:00:00:00.0,1,S1,1,,720957.88,252171.96,84.60,52.07425170,2.68472000,,52.07474107,2.68283483,,,,,,,
+S1,0,GIGS-5309-09,,230,,1,2021:001:00:00:00.0,1,S1,1,,721186.66,252273.57,86.30,52.07502970,2.68814280,,52.07551905,2.68625728,,,,,,,
+S1,0,GIGS-5309-09,,240,,1,2021:001:00:00:00.0,1,S1,1,,721415.41,252375.17,88.00,52.07580750,2.69156530,,52.07629683,2.68967943,,,,,,,
+S1,0,GIGS-5309-09,,250,,1,2021:001:00:00:00.0,1,S1,1,,721644.19,252476.78,89.70,52.07658530,2.69498830,,52.07707461,2.69310208,,,,,,,
+S1,0,GIGS-5309-09,,260,,1,2021:001:00:00:00.0,1,S1,1,,721872.97,252578.36,91.40,52.07736280,2.69841140,,52.07785209,2.69652483,,,,,,,
+S1,0,GIGS-5309-09,,270,,1,2021:001:00:00:00.0,1,S1,1,,722101.73,252679.99,93.10,52.07814060,2.70183440,,52.07862987,2.69994748,,,,,,,
+S1,0,GIGS-5309-09,,280,,1,2021:001:00:00:00.0,1,S1,1,,722330.49,252781.57,94.80,52.07891780,2.70525750,,52.07940705,2.70337023,,,,,,,

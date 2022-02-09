@@ -1,0 +1,28 @@
+# File: GIGS_seis3D_5407_output				
+# GIGS Test Procedure: 5407				
+# GIGS Test Dataset Version: 2.0				
+# EPSG Dataset Version: 10.019 				
+# GIGS Test Dataset Issue Date: 2021-05-03				
+# Cartesian Tolerance: 0.03 metre				
+# Geographic Tolerance: 0.0000003 degree				
+#				
+# Fields:				
+# [0]: i (Bin grid; No direct EPSG equivalent)				
+# [1]: j (Bin grid; No direct EPSG equivalent)				
+# [2]: Easting (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 / UTM zone 31N; metre; EPSG CRS code 32631)				
+# [3]: Northing (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 / UTM zone 31N; metre; EPSG CRS code 32631)				
+# [4]: Point				
+#				
+# [0]	# [1]	# [2]	# [3]	# [4]
+-24	5001	497444.739	5773715.021	Extent bin grid
+-24	6999	499832.872	5780277.003	Extent bin grid
+2024	6999	506558.769	5777829.067	Extent bin grid
+2024	5001	504170.893	5771267.424	Extent bin grid
+NULL	NULL	497987.633	5780404.518	Extent map grid
+NULL	NULL	506614.728	5779808.345	Extent map grid
+NULL	NULL	506016.026	5771140.052	Extent map grid
+NULL	NULL	497388.887	5771735.595	Extent map grid
+NULL	NULL	497526.856	5780277.606	Extent geographic
+NULL	NULL	506476.785	5780281.221	Extent geographic
+NULL	NULL	506488.539	5771269.897	Extent geographic
+NULL	NULL	497522.36	5771266.281	Extent geographic

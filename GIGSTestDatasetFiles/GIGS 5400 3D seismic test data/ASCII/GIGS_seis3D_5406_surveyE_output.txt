@@ -1,0 +1,67 @@
+# File: GIGS_seis3D_5406_output						
+# GIGS Test Procedure: 5406						
+# GIGS Test Dataset Version: 2.0						
+# EPSG Dataset Version: 10.019 						
+# GIGS Test Dataset Issue Date: 2021-05-03						
+# Cartesian Tolerance: 0.0 metre						
+# Geographic Tolerance: 0.0 degree						
+#						
+# Fields:						
+# [0]: i (Bin grid; No direct EPSG equivalent)						
+# [1]: j (Bin grid; No direct EPSG equivalent)						
+# [2]: Easting (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)						
+# [3]: Northing (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)						
+# [4]: Latitude (GIGS CRS Code 64003; GIGS geogCRS A; WGS 84; decimal degree; EPSG CRS code 4326)						
+# [5]: Longitude (GIGS CRS Code 64003; GIGS geogCRS A; WGS 84; decimal degree; EPSG CRS code 4326)						
+# [6]: Point						
+#						
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]
+-24	5001	739720.993	257883.42	52.1139697	2.9626839	Extent bin grid
+-24	6999	741653.996	264603.951	52.1729725	2.9975561	Extent bin grid
+2024	6999	748542.709	262622.574	52.150925	3.0958611	Extent bin grid
+2024	5001	746609.706	255902.043	52.0919539	3.0608803	Extent bin grid
+NULL	NULL	739801.72	264603.951	52.1741153	2.9705725	Extent map grid
+NULL	NULL	748461.982	264603.951	52.1687194	3.0967178	Extent map grid
+NULL	NULL	748461.982	255902.043	52.0907919	3.0878103	Extent map grid
+NULL	NULL	739801.72	255902.043	52.0961728	2.9618833	Extent map grid
+NULL	NULL	739350.145	264445.35	52.1729725	2.9638353	Extent geographic
+NULL	NULL	748291.508	265066.878	52.1729725	3.0947097	Extent geographic
+NULL	NULL	748925.123	256064.36	52.0919539	3.0947097	Extent geographic
+NULL	NULL	739967.432	255442.382	52.0919539	2.9638353	Extent geographic
+0	5001	739801.72	257860.2	NULL	NULL	Total coverage boundary
+0	5334	740123.89	258980.29	NULL	NULL	Total coverage boundary
+-24	5334	740043.16	259003.51	NULL	NULL	Total coverage boundary
+-24	5667	740365.33	260123.6	NULL	NULL	Total coverage boundary
+0	5667	740446.05	260100.38	NULL	NULL	Total coverage boundary
+0	6000	740768.22	261220.47	NULL	NULL	Total coverage boundary
+-24	6000	740687.49	261243.69	NULL	NULL	Total coverage boundary
+-24	6333	741009.66	262363.77	NULL	NULL	Total coverage boundary
+0	6333	741090.39	262340.55	NULL	NULL	Total coverage boundary
+0	6666	741412.56	263460.64	NULL	NULL	Total coverage boundary
+-24	6666	741331.83	263483.86	NULL	NULL	Total coverage boundary
+-24	6999	741654	264603.95	NULL	NULL	Total coverage boundary
+2000	6999	748461.98	262645.79	NULL	NULL	Total coverage boundary
+2000	6666	748139.81	261525.71	NULL	NULL	Total coverage boundary
+2024	6666	748220.54	261502.49	NULL	NULL	Total coverage boundary
+2024	6333	747898.37	260382.4	NULL	NULL	Total coverage boundary
+2000	6333	747817.65	260405.62	NULL	NULL	Total coverage boundary
+2000	6000	747495.48	259285.53	NULL	NULL	Total coverage boundary
+2024	6000	747576.21	259262.31	NULL	NULL	Total coverage boundary
+2024	5667	747254.04	258142.22	NULL	NULL	Total coverage boundary
+2000	5667	747173.31	258165.44	NULL	NULL	Total coverage boundary
+2000	5334	746851.15	257045.35	NULL	NULL	Total coverage boundary
+2024	5334	746931.87	257022.13	NULL	NULL	Total coverage boundary
+2024	5001	746609.71	255902.04	NULL	NULL	Total coverage boundary
+0	5001	739801.72	257860.2	NULL	NULL	Total coverage boundary
+0	5001	739801.72	257860.2	NULL	NULL	Full fold coverage boundary
+0	6999	741734.72	264580.73	NULL	NULL	Full fold coverage boundary
+2000	6999	748461.98	262645.79	NULL	NULL	Full fold coverage boundary
+2000	5001	746528.98	255925.26	NULL	NULL	Full fold coverage boundary
+0	5001	739801.72	257860.2	NULL	NULL	Full fold coverage boundary
+NULL	NULL	743997.31	260291.7	NULL	NULL	Null coverage boundary
+NULL	NULL	744045.45	260332.48	NULL	NULL	Null coverage boundary
+NULL	NULL	744247.27	260274.43	NULL	NULL	Null coverage boundary
+NULL	NULL	744266.4	260214.3	NULL	NULL	Null coverage boundary
+NULL	NULL	744218.25	260173.52	NULL	NULL	Null coverage boundary
+NULL	NULL	744016.43	260231.57	NULL	NULL	Null coverage boundary
+NULL	NULL	743997.31	260291.7	NULL	NULL	Null coverage boundary

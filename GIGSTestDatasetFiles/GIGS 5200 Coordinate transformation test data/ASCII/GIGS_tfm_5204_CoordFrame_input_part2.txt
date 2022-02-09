@@ -1,0 +1,49 @@
+# File: GIGS_tfm_5204_CoordFrame_input_part2									
+# GIGS Test Procedure: 5204									
+# GIGS Test Dataset Version: 2.0									
+# EPSG Dataset Version: 10.019 									
+# GIGS Test Dataset Issue Date: 2021-05-03									
+# Note 1: Test for Coordinate Frame 7-parameter transformation; utilising EPSG Coordinate Operation Method 1038									
+# Note 2: CAUTION if application requires early-binding use GIGS geog3DCRS E' (GIGS code 64028) instead of GIGS geog3DCRS E									
+# Note 3: Input file 2 of 2									
+#									
+# Fields:									
+# [0]: Point									
+# [1]: Latitude (GIGS CRS Code 64022; GIGS geog3DCRS E; Belge 1972; decimal degree; No direct EPSG equivalent)									
+# [2]: Longitude (GIGS CRS Code 64022; GIGS geog3DCRS E; Belge 1972; decimal degree; No direct EPSG equivalent)									
+# [3]: Ellipsoidal height (GIGS CRS Code 64022; GIGS geog3DCRS E; Belge 1972; metre; No direct EPSG equivalent)									
+# [4]: Latitude (GIGS CRS Code 64002; GIGS geog3DCRS A; WGS 84; decimal degree; EPSG CRS code 4979)									
+# [5]: Longitude (GIGS CRS Code 64002; GIGS geog3DCRS A; WGS 84; decimal degree; EPSG CRS code 4979)									
+# [6]: Ellipsoidal height (GIGS CRS Code 64002; GIGS geog3DCRS A; WGS 84; metre; EPSG CRS code 4979)									
+# [7]: Transect 									
+# [8]: Transformation Direction									
+# [9]: GIGS Remarks									
+#									
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]	# [8]	# [9]
+GIGS-5204-15	NULL	NULL	NULL	80	150	1214.137	A	REVERSE	Round Trip calculation point
+GIGS-5204-16	NULL	NULL	NULL	80	150	0	A	REVERSE	
+GIGS-5204-17	60	120	900	NULL	NULL	NULL	A	FORWARD	
+GIGS-5204-18	60	120	0	NULL	NULL	NULL	A	FORWARD	
+GIGS-5204-19	NULL	NULL	NULL	30	60	189.569	A	REVERSE	
+GIGS-5204-20	NULL	NULL	NULL	30	60	0	A	REVERSE	
+GIGS-5204-21	0	0	0	NULL	NULL	NULL	A	FORWARD	
+GIGS-5204-22	0	0	-3000	NULL	NULL	NULL	A	FORWARD	
+GIGS-5204-23	0	0	-10000	NULL	NULL	NULL	A	FORWARD	
+GIGS-5204-24	NULL	NULL	NULL	-30	-60	0	A	REVERSE	
+GIGS-5204-25	NULL	NULL	NULL	-30	-60	-526.476	A	REVERSE	
+GIGS-5204-26	NULL	NULL	NULL	-30	-60	-571.476	A	REVERSE	
+GIGS-5204-27	-60	-120	0	NULL	NULL	NULL	A	FORWARD	
+GIGS-5204-28	-60	-120	-900	NULL	NULL	NULL	A	FORWARD	
+GIGS-5204-29	NULL	NULL	NULL	-80	-150	0	A	REVERSE	
+GIGS-5204-30	NULL	NULL	NULL	-80	-150	-971.255	A	REVERSE	
+GIGS-5204-31	NULL	NULL	NULL	-80	-150	-3316.255	A	REVERSE	
+GIGS-5204-32	70	-180	0	NULL	NULL	NULL	B	FORWARD	
+GIGS-5204-33	NULL	NULL	NULL	50	-135	0	B	REVERSE	
+GIGS-5204-34	25	-90	0	NULL	NULL	NULL	B	FORWARD	
+GIGS-5204-35	NULL	NULL	NULL	0	0	0	B	REVERSE	
+GIGS-5204-36	-37.6532236	143.9279419	1836.947	NULL	NULL	NULL	B	FORWARD	
+GIGS-5204-37	-37.6532236	143.9279419	0	NULL	NULL	NULL	B	FORWARD	
+GIGS-5204-38	-37.6532236	143.9279419	-3000	NULL	NULL	NULL	B	FORWARD	
+GIGS-5204-39	-37.6532236	143.9279419	-10000	NULL	NULL	NULL	B	FORWARD	
+GIGS-5204-40	NULL	NULL	NULL	-50	135	0	B	REVERSE	
+GIGS-5204-41	-70	180	0	NULL	NULL	NULL	B	FORWARD	

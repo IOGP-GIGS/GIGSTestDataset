@@ -1,0 +1,85 @@
+OGP,OGP P1,1,1.1,1,2021:08:20,13:44:36,GIGS_conv_5111_MercA_part2.p111,IOGP
+HC,0,1,0,Project Name                                      ,5111.2,Geospatial Integrity of Geoscience Software,2020:01:01,
+HC,0,2,0,Survey Description                                ,Geodetic Test,GIGS Test Points,NA,826,GBR
+HC,0,3,0,Geographic Extent                                 ,-177.81,163.19,-8.14,77.65
+HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
+HC,0,5,0,Geophysical Contractor                            ,None
+HC,0,6,0,Positioning Contractor                            ,None
+HC,0,7,0,Position Processing Contractor                    ,None
+HC,1,0,0,Reference Systems Summary                         ,5,0,2,0
+HC,1,1,0,Unit of Measure                                   ,1,          metre,length, 2, , ,             ,   , ,          metre,9001,EPSG Dataset,10.018,9001
+HC,1,1,0,Unit of Measure                                   ,2,         radian, angle, 2, , ,             ,   , ,         radian,9101,EPSG Dataset,10.018,9101
+HC,1,1,0,Unit of Measure                                   ,3,         degree, angle, 2,2,0,3.14159265359,180,0,         degree,9102,EPSG Dataset,10.018,9102
+HC,1,1,0,Unit of Measure                                   ,4,          unity, scale, 2, , ,             ,   , ,          unity,9201,EPSG Dataset,10.018,9201
+HC,1,1,0,Unit of Measure                                   ,5,sexagesimal DMS, angle,29,3,0,            0,  0,0,sexagesimal DMS,9110,EPSG Dataset,10.018,9110
+HC,1,1,1,Example Unit Conversion                           ,1,2,1,3,57.29577951
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,    ,Batavia (Jakarta) / NEIEZ Jkt,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2,4813,            Batavia (Jakarta),10.018,2021:04:02,EPSG,
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,,1,projected,Batavia (Jakarta) / NEIEZ Jkt
+HC,1,4,3,Base Geographic CRS                               ,1,2,4813,Batavia (Jakarta)
+HC,1,4,4,Geodetic Datum                                    ,1,6813,Batavia (Jakarta),
+HC,1,4,5,Prime Meridian                                    ,1,8908,Jakarta,106.482779,5,sexagesimal DMS
+HC,1,4,6,Ellipsoid                                         ,1,7004,Bessel 1841,6377397.155,1,metre,299.1528128
+HC,1,5,0,Map Projection                                    ,1,5328,Netherlands East Indies Equatorial Zone (Jkt)
+HC,1,5,1,Projection Method                                 ,1,9804,Mercator (variant A),5
+HC,1,5,2,Latitude of natural origin                        ,1,8801,       0,3,         degree
+HC,1,5,2,Longitude of natural origin                       ,1,8802,3.113221,5,sexagesimal DMS
+HC,1,5,2,Scale factor at natural origin                    ,1,8805,   0.997,4,          unity
+HC,1,5,2,False easting                                     ,1,8806, 3900000,1,          metre
+HC,1,5,2,False northing                                    ,1,8807,  900000,1,          metre
+HC,1,6,0,Coordinate System                                 ,1,4400,Cartesian 2D CS. Axes\u003A easting\u002C northing (E\u002CN). Orientations\u003A east\u002C north. UoM\u003A m.,2,Cartesian,2
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,1, Easting, east,E,1,metre
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,2,Northing,north,N,1,metre
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,4813,2,geographic 2D,Batavia (Jakarta)
+HC,1,4,4,Geodetic Datum                                    ,2,6813,Batavia (Jakarta),
+HC,1,4,5,Prime Meridian                                    ,2,8908,Jakarta,106.482779,5,sexagesimal DMS
+HC,1,4,6,Ellipsoid                                         ,2,7004,Bessel 1841,6377397.155,1,metre,299.1528128
+HC,1,6,0,Coordinate System                                 ,2,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,2,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,9,0,Example Point Conversion                          , 1,GIGS-5111-36,2,  77.6534822,  -6.7200711,,1,     2800000,    15000000,
+HC,1,9,0,Example Point Conversion                          , 2,GIGS-5111-37,1,     2800000,    13000000,,2,  73.1442856,  -6.7200711,
+HC,1,9,0,Example Point Conversion                          , 3,GIGS-5111-38,2,  67.0518325,  -6.7200711,,1,     2800000,    11000000,
+HC,1,9,0,Example Point Conversion                          , 4,GIGS-5111-39,1,     2800000,     9000000,,2,  58.9140458,  -6.7200711,
+HC,1,9,0,Example Point Conversion                          , 5,GIGS-5111-40,2,  48.2638981,  -6.7200711,,1,     2800000,     7000000,
+HC,1,9,0,Example Point Conversion                          , 6,GIGS-5111-41,1,     2800000,     5000000,,2,  34.8029044,  -6.7200711,
+HC,1,9,0,Example Point Conversion                          , 7,GIGS-5111-42,2,  18.7048581,  -6.7200711,,1,     2800000,     3000000,
+HC,1,9,0,Example Point Conversion                          , 8,GIGS-5111-43,1,     2800000,     1000000,,2,   0.9071392,  -6.7200711,
+HC,1,9,0,Example Point Conversion                          , 9,GIGS-5111-44,2,           0,   3.1922806,,1,     3900000,      900000,
+HC,1,9,0,Example Point Conversion                          ,10,GIGS-5111-45,1,     2800000,      800000,,2,  -0.9071392,  -6.7200711,
+HC,1,9,0,Example Point Conversion                          ,11,GIGS-5111-46,2,  -1.8140483,  -6.7200711,,1,     2800000,      700000,
+HC,1,9,0,Example Point Conversion                          ,12,GIGS-5111-47,1,     2800000,  679490.646,,2,          -2,  -6.7200711,
+HC,1,9,0,Example Point Conversion                          ,13,GIGS-5111-48,2,  -3.6262553,  -6.7200711,,1,     2800000,      500000,
+HC,1,9,0,Example Point Conversion                          ,14,GIGS-5111-49,1,     2800000,      400000,,2,   -4.531095,  -6.7200711,
+HC,1,9,0,Example Point Conversion                          ,15,GIGS-5111-50,2,  -5.4347892,  -6.7200711,,1,     2800000,      300000,
+HC,1,9,0,Example Point Conversion                          ,16,GIGS-5111-51,1,     2800000,      200000,,2,  -6.3371111,  -6.7200711,
+HC,1,9,0,Example Point Conversion                          ,17,GIGS-5111-52,2,  -7.2378372,  -6.7200711,,1,     2800000,      100000,
+HC,1,9,0,Example Point Conversion                          ,18,GIGS-5111-53,1,           0,           0,,2,   -8.136745, -31.9515111,
+HC,1,9,0,Example Point Conversion                          ,19,GIGS-5111-54,1, 23764105.84,  679490.646,,2,          -2,-177.8077194,
+HC,1,9,0,Example Point Conversion                          ,20,GIGS-5111-55,2,          -2, 163.1922806,,1, 21655625.33,  679490.646,
+HC,1,9,0,Example Point Conversion                          ,21,GIGS-5111-56,1, 18326445.58,  679490.646,,2,          -2, 133.1922806,
+HC,1,9,0,Example Point Conversion                          ,22,GIGS-5111-57,2,          -2, 103.1922806,,1, 14997265.83,  679490.646,
+HC,1,9,0,Example Point Conversion                          ,23,GIGS-5111-58,1, 11668086.08,  679490.646,,2,          -2,  73.1922806,
+HC,1,9,0,Example Point Conversion                          ,24,GIGS-5111-59,2,          -2,  43.1922806,,1, 8338906.333,  679490.646,
+HC,1,9,0,Example Point Conversion                          ,25,GIGS-5111-60,1, 5009726.583,  679490.646,,2,          -2,  13.1922806,
+HC,1,9,0,Example Point Conversion                          ,26,GIGS-5111-61,2,          -2,   3.1922806,,1,     3900000,  679490.646,
+HC,1,9,0,Example Point Conversion                          ,27,GIGS-5111-62,1, 3545744.141,  679490.646,,2,          -2,           0,
+HC,1,9,0,Example Point Conversion                          ,28,GIGS-5111-63,2,          -2,  -6.7200711,,1,     2800000,  679490.646,
+HC,1,9,0,Example Point Conversion                          ,29,GIGS-5111-64,1, 1680546.833,  679490.646,,2,          -2, -16.8077194,
+HC,1,9,0,Example Point Conversion                          ,30,GIGS-5111-65,2,          -2, -46.8077194,,1,-1648632.916,  679490.646,
+HC,1,9,0,Example Point Conversion                          ,31,GIGS-5111-66,1,-4977812.666,  679490.646,,2,          -2, -76.8077194,
+HC,1,9,0,Example Point Conversion                          ,32,GIGS-5111-67,2,          -2,-106.8077194,,1,-8306992.416,  679490.646,
+HC,1,9,0,Example Point Conversion                          ,33,GIGS-5111-68,1,-11636172.17,  679490.646,,2,          -2,-136.8077194,
+HC,1,9,0,Example Point Conversion                          ,34,GIGS-5111-69,2,          -2,-166.8077194,,1,-14965351.92,  679490.646,
+HC,1,9,0,Example Point Conversion                          ,35,GIGS-5111-70,1,-15964105.84,  679490.646,,2,          -2,-175.8077194,
+HC,2,0,0,Survey Configuration                              ,0,0,0,1,metre
+H1,0,0,0,File Contents Description                         ,This file contains GIGS Test Points,Loaded From GIGS_conv_5111_MercA_output_part2.txt
+H1,0,1,0,Processing Details                                ,None
+H1,0,2,0,GIGS Test Procedure                               ,100,      5111, ,      
+H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.0, ,      
+H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2021-05-03, ,      
+H1,0,2,0,Cartesian Tolerance                               ,103,      0.05,1, metre
+H1,0,2,0,Geographic Tolerance                              ,104, 0.0000006,3,degree
+H1,0,2,0,Round Trip Cartesian Tolerance                    ,105,     0.006,1, metre
+H1,0,2,0,Round Trip Geographic Tolerance                   ,106,0.00000006,3,degree
+H1,0,2,0,Round Trip Point                                  ,107,         1, , 

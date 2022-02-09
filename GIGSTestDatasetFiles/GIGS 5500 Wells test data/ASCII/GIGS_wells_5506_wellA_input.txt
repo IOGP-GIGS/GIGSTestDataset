@@ -1,0 +1,20 @@
+# File: GIGS_wells_5506_wellA_input			
+# GIGS Test Procedure: 5506			
+# GIGS Test Dataset Version: 2.0			
+# EPSG Dataset Version: 10.019 			
+# GIGS Test Dataset Issue Date: 2021-05-03			
+# Note 1: Same data applies to both test procedures 5506 and 5526			
+# Note 2: See associated P7 file for complete configuration 			
+# Note 3: Well A - Vertical Reference Datum (VRD) WGS 84 ellipsoid; Well Reference Point (WRP) Ground level			
+#			
+# Fields:			
+# [0]: TVD below VRD (GIGS CRS Code 64002; GIGS geog3DCRS A; WGS 84 ellipsoidal height; metre; EPSG CRS code 4979)			
+# [1]: Latitude (GIGS CRS Code 64002; GIGS geog3DCRS A; WGS 84; decimal degree; EPSG CRS code 4979)			
+# [2]: Longitude (GIGS CRS Code 64002; GIGS geog3DCRS A; WGS 84; decimal degree; EPSG CRS code 4979)			
+# [3]: Point			
+#			
+# [0]	# [1]	# [2]	# [3]
+-121.09	52.0375561	2.2072694	RT
+-111.09	52.0375561	2.2072694	Ground level (WRP)
+739.17	52.0375561	2.2072694	Horizon 1
+1557.43	52.0375561	2.2072694	TD

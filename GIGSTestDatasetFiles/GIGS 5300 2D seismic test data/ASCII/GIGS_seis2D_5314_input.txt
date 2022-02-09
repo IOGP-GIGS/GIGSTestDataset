@@ -1,0 +1,28 @@
+# File: GIGS_seis2D_5314_input				
+# GIGS Test Procedure: 5314				
+# GIGS Test Dataset Version: 2.0				
+# EPSG Dataset Version: 10.019 				
+# GIGS Test Dataset Issue Date: 2021-05-03				
+# Note: See associated P file for complete configuration				
+#				
+# Fields:				
+# [0]: Line				
+# [1]: SP				
+# [2]: Easting (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)				
+# [3]: Northing (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent)				
+# [4]: Ground Level (GIGS CRS Code 64509; GIGS vertCRS V2 height; Baltic 1977 height (ftUS); US survey foot; No direct EPSG equivalent)				
+#				
+# [0]	# [1]	# [2]	# [3]	# [4]
+GIGS-5314-01	1	693641.03	259342.87	164
+GIGS-5314-01	10	693732.46	259137.03	165.4
+GIGS-5314-01	20	693834.06	258908.32	167
+GIGS-5314-01	30	693935.65	258679.61	168.3
+GIGS-5314-01	40	694037.24	258450.9	169.6
+GIGS-5314-01	50	694138.83	258222.19	170.9
+GIGS-5314-01	60	694240.42	257993.47	172.2
+GIGS-5314-01	70	694342.01	257764.76	173.6
+GIGS-5314-01	80	694443.6	257536.05	174.9
+GIGS-5314-01	90	694545.19	257307.33	176.2
+GIGS-5314-01	100	694646.78	257078.63	177.5
+GIGS-5314-01	110	694748.36	256849.91	178.8
+GIGS-5314-01	120	694849.96	256621.19	180.5

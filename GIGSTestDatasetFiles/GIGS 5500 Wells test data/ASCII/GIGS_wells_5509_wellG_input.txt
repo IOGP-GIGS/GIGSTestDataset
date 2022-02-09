@@ -1,0 +1,20 @@
+# File: GIGS_wells_5509_wellG_input			
+# GIGS Test Procedure: 5509			
+# GIGS Test Dataset Version: 2.0			
+# EPSG Dataset Version: 10.019 			
+# GIGS Test Dataset Issue Date: 2021-05-03			
+# Note 1: Same data applies to both test procedures 5509 and 5516			
+# Note 2: See associated P7 file for complete configuration 			
+# Note 3: Well G - Vertical Reference Datum (VRD) GIGS vertical datum V; Well Reference Point (WRP) Seabed (mud line)			
+#			
+# Fields:			
+# [0]: TVD below VRD (GIGS CRS Code 64506; GIGS vertCRS V1 depth; Baltic 1977 depth; metre; EPSG CRS code 5612)			
+# [1]: Latitude (GIGS CRS Code 64005; GIGS geogCRS B; OSGB36; decimal degree; EPSG CRS code 4277)			
+# [2]: Longitude (GIGS CRS Code 64005; GIGS geogCRS B; OSGB36; decimal degree; EPSG CRS code 4277)			
+# [3]: Point			
+#			
+# [0]	# [1]	# [2]	# [3]
+-1210	52.2546608	3.1690897	RT
+0	52.2546608	3.1690897	Mud line (WRP)
+825.45	52.2546608	3.1690897	Horizon 1
+1012.73	52.2546608	3.1690897	TD

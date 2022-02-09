@@ -1,0 +1,31 @@
+# File: GIGS_conv_5109_Albers_input							
+# GIGS Test Procedure: 5109							
+# GIGS Test Dataset Version: 2.0							
+# EPSG Dataset Version: 10.019 							
+# GIGS Test Dataset Issue Date: 2021-05-03							
+# Note: Test for Albers Equal Area							
+#							
+# Fields:							
+# [0]: Point							
+# [1]: Latitude (GIGS CRS Code 64009; GIGS geogCRS F; GDA94; decimal degree; EPSG CRS code 4283)							
+# [2]: Longitude (GIGS CRS Code 64009; GIGS geogCRS F; GDA94; decimal degree; EPSG CRS code 4283)							
+# [3]: Easting (GIGS CRS Code 62016; GIGS projCRS F9; GDA94 / Australian Albers; metre; EPSG CRS code 3577)							
+# [4]: Northing (GIGS CRS Code 62016; GIGS projCRS F9; GDA94 / Australian Albers; metre; EPSG CRS code 3577)							
+# [5]: Transect 							
+# [6]: Conversion Direction							
+# [7]: GIGS Remarks							
+#							
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]
+GIGS-5109-01	NULL	NULL	0	0	A	REVERSE	
+GIGS-5109-02	-27	132	NULL	NULL	A	FORWARD	
+GIGS-5109-03	NULL	NULL	966973.979	-30285.601	B	REVERSE	
+GIGS-5109-04	-20	140	NULL	NULL	B	FORWARD	
+GIGS-5109-05	NULL	NULL	693250.209	-4395794.489	B	REVERSE	
+GIGS-5109-06	-60	140	NULL	NULL	B	FORWARD	
+GIGS-5109-07	NULL	NULL	486878.674	-7687130.029	B	REVERSE	
+GIGS-5109-08	NULL	NULL	-850274.747	-6426505.132	C	REVERSE	
+GIGS-5109-09	-60	130	NULL	NULL	C	FORWARD	
+GIGS-5109-10	NULL	NULL	567313.287	-6404311.163	C	REVERSE	
+GIGS-5109-11	-60	150	NULL	NULL	C	FORWARD	
+GIGS-5109-12	NULL	NULL	1971026.264	-6603404.818	C	REVERSE	
+GIGS-5109-13	-60	170	NULL	NULL	C	FORWARD	Round Trip calculation point

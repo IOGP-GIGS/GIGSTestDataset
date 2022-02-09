@@ -1,0 +1,20 @@
+# File: GIGS_wells_5507_wellB_input			
+# GIGS Test Procedure: 5507			
+# GIGS Test Dataset Version: 2.0			
+# EPSG Dataset Version: 10.019 			
+# GIGS Test Dataset Issue Date: 2021-05-03			
+# Note 1: Same data applies to both test procedures 5507 and 5517			
+# Note 2: See associated P7 file for complete configuration			
+# Note 3: Well B - Vertical Reference Datum (VRD) GIGS vertical datum V; Well Reference Point (WRP) Kelly Bushing			
+#			
+# Fields:			
+# [0]: TVD below VRD (GIGS CRS Code 64506; GIGS vertCRS V1 depth; Baltic 1977 depth; foot; No direct EPSG equivalent; CAUTION similar to EPSG CRS 5612 but uses foot instead of metre)			
+# [1]: Northing (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent; CAUTION coordinates presented as Northing/Easting)			
+# [2]: Easting (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct EPSG equivalent; CAUTION coordinates presented as Northing/Easting)			
+# [3]: Point			
+#			
+# [0]	# [1]	# [2]	# [3]
+-258.09	250178.04	697676.79	KB (WRP)
+-218.72	250178.04	697676.79	Ground level
+3143.52	250178.04	697676.79	Horizon 1
+5541.73	250178.04	697676.79	TD

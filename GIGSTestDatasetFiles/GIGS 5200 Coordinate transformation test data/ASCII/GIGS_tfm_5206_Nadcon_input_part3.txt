@@ -1,0 +1,45 @@
+# File: GIGS_tfm_5206_Nadcon_input_part3							
+# GIGS Test Procedure: 5206							
+# GIGS Test Dataset Version: 2.0							
+# EPSG Dataset Version: 10.019 							
+# GIGS Test Dataset Issue Date: 2021-05-03							
+# Note 1: Test for NADCON transformations utilising EPSG Coordinate Operation Method 9613 for early-bound applications only in CONUS							
+# Note 2: CAUTION if application requires late-binding use part 1 only							
+# Note 3: CAUTION Longitudes are given positive east							
+# Note 4: Input file 2 of 2							
+#							
+# Fields:							
+# [0]: Point							
+# [1]: Latitude (GIGS CRS Code 64031; GIGS geogCRS J'''; NAD27; decimal degree; No direct EPSG equivalent)							
+# [2]: Longitude(GIGS CRS Code 64031; GIGS geogCRS J'''; NAD27; decimal degree; No direct EPSG equivalent)							
+# [3]: Latitude (GIGS CRS Code 64018; GIGS geogCRS Z; NAD83; decimal degree; EPSG CRS code 4269)							
+# [4]: Longitude (GIGS CRS Code 64018; GIGS geogCRS Z; NAD83; decimal degree; EPSG CRS code 4269)							
+# [5]: Transect 							
+# [6]: Transformation Direction							
+# [7]: GIGS Remarks							
+#							
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]
+GIGS-5206-26	49.9999997	-130.5177467	NULL	NULL	D	FORWARD	NAD27 position also used in NTv2 test 5207
+GIGS-5206-27	NULL	NULL	49	-130.5177467	D	REVERSE	NAD83 position also used in NTv2 test 5207
+GIGS-5206-28	48.1166667	-130.5177467	NULL	NULL	D	FORWARD	
+GIGS-5206-29	NULL	NULL	47	-130.5177467	D	REVERSE	NAD83 position also used in NTv2 test 5207
+GIGS-5206-30	47	-130.5177467	NULL	NULL	D	FORWARD	NAD27 position also used in NTv2 test 5207
+GIGS-5206-31	NULL	NULL	46	-130.5177467	D	REVERSE	NAD83 position also used in NTv2 test 5207
+GIGS-5206-32	45	-130.5177467	NULL	NULL	D	FORWARD	NAD27 position also used in NTv2 test 5207
+GIGS-5206-33	51	-112	NULL	NULL	E	FORWARD	
+GIGS-5206-34	NULL	NULL	51	-112	E	REVERSE	NAD83 position also used in NTv2 test 5207
+GIGS-5206-35	NULL	NULL	49.9999997	-112	E	REVERSE	NAD83 position also used in NTv2 test 5207
+GIGS-5206-36	49.9999997	-112	NULL	NULL	E	FORWARD	NAD27 position also used in NTv2 test 5207
+GIGS-5206-37	NULL	NULL	49	-112	E	REVERSE	NAD83 position also used in NTv2 test 5207
+GIGS-5206-38	48	-112	NULL	NULL	E	FORWARD	NAD27 position also used in NTv2 test 5207
+GIGS-5206-39	NULL	NULL	47	-112	E	REVERSE	NAD83 position also used in NTv2 test 5207
+GIGS-5206-40	47	-112	NULL	NULL	E	FORWARD	NAD27 position also used in NTv2 test 5207
+GIGS-5206-41	NULL	NULL	46	-112	E	REVERSE	NAD83 position also used in NTv2 test 5207
+GIGS-5206-42	45	-112	NULL	NULL	E	FORWARD	
+GIGS-5206-43	NULL	NULL	30	-89.5177778	F	REVERSE	
+GIGS-5206-44	29.2833333	-90.5177778	NULL	NULL	F	FORWARD	
+GIGS-5206-45	NULL	NULL	28.2833333	-91.5177778	F	REVERSE	
+GIGS-5206-46	27.2833333	-92.5177778	NULL	NULL	F	FORWARD	
+GIGS-5206-47	NULL	NULL	26.2833333	-93.5177778	F	REVERSE	
+GIGS-5206-48	25	-94.5177778	NULL	NULL	F	FORWARD	
+GIGS-5206-49	NULL	NULL	19.2833333	-98.5177778	F	REVERSE	

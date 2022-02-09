@@ -1,0 +1,22 @@
+# File: GIGS_wells_5521_output			
+# GIGS Test Procedure: 5521			
+# GIGS Test Dataset Version: 2.0			
+# EPSG Dataset Version: 10.019 			
+# GIGS Test Dataset Issue Date: 2021-05-03			
+# Note: Same data applies to tests 5518 5521 5522 and 5525; assumes Well B loaded correctly			
+# Cartesian Tolerance: 0.1 metre			
+# Geographic Tolerance: 0.000001 degree			
+#			
+# Fields:			
+# [0]: TVD below GIGS vertical datum W (GIGS CRS Code 64508; GIGS vertCRS W1 depth; Caspian depth; metre; EPGS CRS code 5706)			
+# [1]: Easting (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 /UTM zone 31N; metre; EPSG CRS code 32631)			
+# [2]: Northing (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 /UTM zone 31N; metre; EPSG CRS code 32631)			
+# [3]: Point			
+#			
+# [0]	# [1]	# [2]	# [3]
+-106.67	455022.46	5768928.71	KB
+-94.67	455022.46	5768928.71	Ground level
+-28	455022.46	5768928.71	GIGS vertical datum V (msl)
+0			GIGS vertical datum W
+930.15	455022.46	5768928.71	Horizon 1
+1661.12	455022.46	5768928.71	TD plane

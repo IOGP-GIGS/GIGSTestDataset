@@ -1,0 +1,146 @@
+IOGP,IOGP P7,7,1.0,1,2021:05:03,12:00:00, GIGS_wells_5510_wellXNE.p717, IOGP GIGS Test Dataset Version:2.0
+HC,0,1,0,Project Name                                      ,GIGS Test Dataset 2.0,GIGS Test 5510,2021:05:03,
+HC,0,4,0,Client                                            ,IOGP
+HC,1,0,0,Reference Systems Summary                         ,3,0,3,0
+HC,1,1,0,Unit of Measure                                   ,1,metre ,length, 2,  ,  ,                 ,   ,  ,SI base unit of length ,9001,EPSG Dataset,10.019,9001
+HC,1,1,0,Unit of Measure                                   ,2,radian,angle , 2,  ,  ,                 ,   ,  ,SI angular measure unit,9101,EPSG Dataset,10.019,9101
+HC,1,1,0,Unit of Measure                                   ,3,degree,angle , 2 ,2, 0, 3.14159265358979,180, 0,Measure of plane angle ,9102,EPSG Dataset,10.019,9102
+
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,64003,GIGS geogCRS A       , , , ,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2,64506,GIGS vertCRS V1 depth, , , ,
+
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,64003,2,geographic 2D,GIGS geogCRS A
+HC,1,4,4,Geodetic Datum                                    ,1,66001,GIGS geodetic datum A
+HC,1,4,5,Prime Meridian                                    ,1,68901,GIGS PM A,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,1,67030,GIGS ellipsoid A,6378137,1,metre,298.257223563
+HC,1,6,0,Coordinate System                                 ,1,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,Ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,106,Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,107,Geodetic longitude,east,Lon,3,degree
+
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,64506,5,vertical,GIGS vertCRS V1 depth
+HC,1,4,7,Vertical Datum                                    ,2,66602,GIGS vertical datum V
+HC,1,6,0,Coordinate System                                 ,2,6498,Vertical CS. Axis\u003A depth (D). Orientation\u003A down. UoM\u003A m.,5,vertical,1
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,113,Depth,down,D,1,metre
+
+H7,1,0,0,Project Information                               ,GIGS Test 5510,Unknown field,Unknown area,Unknown country,
+H7,1,1,0,Structure Definition                              ,1,GIGS Platform XN,SRP,1,Slot B4,2,Offshore,Seabed Level,,
+H7,1,2,0,Well Definition                                   ,1,1,WRP,1, 4220112345, XNE, IOGP,,,Proposed,Lease Block XN,
+H7,1,3,0,Wellbore Definition                               ,1,1,4220112345,5510/1,IOGP,,,,Proposed,5510/1,,
+H7,1,4,0,Rig/Workover ZDP Definition                       ,1,Unknown Rig,ZDP,3,3,Derrick Floor,0,1
+H7,1,5,0,Survey Definition                                 ,1,1,1,GIGS Test 5510-XNE,Unknown,,,,,0,13633.01,m,,,TP,1,,, 
+H7,1,5,1,Survey Details                                    ,1,1,1,MD-Drillpipe,0,Planned depth,0,8,AZ_TRUE,0,0,,0,,,,,
+H7,1,5,2,Operator/Survey Contractor                        ,1,Unknown,Unknown Contractor,Unknown Job Number
+H7,4,0,0,Position Object Definition                        ,1,GIGS Platform XN,1,Structure Reference Point,,,,,,,,
+H7,4,0,0,Position Object Definition                        ,2,GIGS Well XNE,2,Well Reference Point,,,,,,,,
+H7,4,0,0,Position Object Definition                        ,3,GIGS Well XNE ZDP,3,Zero-depth Point,,,,,,,,
+H7,5,0,5,P7 Table Definition                               ,1,Planned,1,Minimum Curvature,1076,LMP,1,,0,0,
+
+O7,0,1,SRP,GIGS Platform XN  , , ,-20.00,52.2855956, 2.8232086, , , , 
+O7,0,2,WRP,GIGS Well XNE    , , ,-20.00,52.2855428, 2.8231747, , , , 
+O7,0,3,ZDP,GIGS Well XNE ZDP, , ,-20.00,52.2855428, 2.8231747, , , , 
+
+P7, 0, 1, 1,  ,  , 3,  3, 2, Planned,0.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,20.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,  4, 2, Planned,210.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,773.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,785.50,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,798.00,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,810.50,2.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,823.00,4.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,835.50,6.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,848.00,8.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,860.50,10.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,873.00,12.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,885.50,14.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,898.00,16.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,910.50,18.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,923.00,20.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,935.50,22.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,948.00,24.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,960.50,26.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,973.00,28.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,985.50,30.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,998.00,32.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1010.50,34.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1023.00,36.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1035.50,38.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1048.00,40.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1060.50,42.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1073.00,44.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1085.50,46.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1098.00,48.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1110.50,50.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1123.00,52.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1135.50,54.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1148.00,56.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1160.50,58.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1173.00,60.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1185.50,62.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1198.00,64.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1210.50,66.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1223.00,68.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1235.50,70.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1248.00,72.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1260.50,74.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1273.00,76.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1285.50,78.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1298.00,80.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1310.50,82.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1323.00,84.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1335.50,86.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1348.00,88.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1360.50,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1373.00,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,1385.50,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12545.08,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12557.58,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12570.07,90.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12582.57,88.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12595.08,86.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12607.58,84.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12620.07,82.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12632.57,80.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12645.08,78.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12657.58,76.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12670.07,74.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12682.57,72.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12695.08,70.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12707.58,68.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12720.07,66.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12732.57,64.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12745.08,62.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12757.58,60.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12770.07,58.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12782.57,56.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12795.08,54.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12807.58,52.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12820.07,50.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12832.57,48.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12845.08,46.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12857.58,44.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12870.07,42.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12882.57,40.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12895.08,38.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12907.58,36.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12920.07,34.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12932.57,32.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12945.08,30.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12957.58,28.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12970.07,26.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12982.57,24.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,12995.08,22.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13007.58,20.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13020.07,18.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13032.57,16.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13045.08,14.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13057.58,12.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13070.07,10.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13082.57,8.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13095.08,6.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13107.58,4.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13120.07,2.00,180.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13132.57,0.00,0.00
+P7, 0, 1, 1,  ,  ,  ,   , 2, Planned,13145.08,0.00,0.00
+P7, 0, 1, 1,  ,  ,  , 10, 2, Planned,13207.52,0.00,0.00
+P7, 0, 1, 1,  ,  ,  , 13, 2, Planned,13633.01,0.00,0.00
+

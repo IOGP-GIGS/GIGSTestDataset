@@ -1,0 +1,20 @@
+# File: GIGS_wells_5508_wellD_input			
+# GIGS Test Procedure: 5508			
+# GIGS Test Dataset Version: 2.0			
+# EPSG Dataset Version: 10.019 			
+# GIGS Test Dataset Issue Date: 2021-05-03			
+# Note 1: Same data applies to both test procedures 5508 and 5515			
+# Note 2: See associated P7 file for complete configuration			
+# Note 3: Well D - Vertical Reference Datum (VRD) GIGS vertical datum W; Well Reference Point (WRP) Seabed (mud line)			
+#			
+# Fields:			
+# [0]: TVD below VRD (GIGS CRS Code 64508; GIGS vertCRS W1 depth; Caspian depth; metre; EPSG CRS code 5706)			
+# [1]: Northing (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 / UTM zone 31N; metre; EPSG CRS code 32631; CAUTION coordinates presented as Northing/Easting)			
+# [2]: Easting (GIGS CRS Code 62001; GIGS projCRS A1; WGS 84 / UTM zone 31N; metre; EPSG CRS code 32631; CAUTION coordinates presented as Northing/Easting)			
+# [3]: Point			
+#			
+# [0]	# [1]	# [2]	# [3]
+-56	5779179.09	483216.08	RT
+105.33	5779179.09	483216.08	Mud line (WRP)
+1453.8	5779179.09	483216.08	Horizon 1
+1922.93	5779179.09	483216.08	TD

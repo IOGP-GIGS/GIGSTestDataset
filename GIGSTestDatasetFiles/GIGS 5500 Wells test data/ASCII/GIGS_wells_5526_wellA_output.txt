@@ -1,0 +1,22 @@
+# File: GIGS_wells_5526_wellA_output			
+# GIGS Test Procedure: 5526			
+# GIGS Test Dataset Version: 2.0			
+# EPSG Dataset Version: 10.019 			
+# GIGS Test Dataset Issue Date: 2021-05-03			
+# Note: Same data applies to both test procedures 5506 and 5526			
+# Cartesian Tolerance: 0.1 metre			
+# Geographic Tolerance: 0.000001 degree			
+#			
+# Fields:			
+# [0]: TVD below GIGS vertical datum V (GIGS CRS Code 64506; GIGS vertCRS V1 depth; Baltic 1977 depth; metre; EPGS CRS code 5612)			
+# [1]: Easting (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct ESPG equivalent)			
+# [2]: Northing (GIGS CRS Code 62007; GIGS projCRS A2; WGS 84 / British National Grid; metre; No direct ESPG equivalent)			
+# [3]: Point			
+#			
+# [0]	# [1]	# [2]	# [3]
+-76.67	688526.9	246118.56	RT
+-66.67	688526.9	246118.56	Ground level
+0	688526.9	246118.56	GIGS vertical datum V (msl)
+44.42	688526.9	246118.56	WGS 84 ellipsoid
+783.59	688526.9	246118.56	Horizon 1
+1601.85	688526.9	246118.56	TD

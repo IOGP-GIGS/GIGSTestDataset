@@ -1,0 +1,20 @@
+# File: GIGS_seis3D_5403_surveyD_input				
+# GIGS Test Procedure: 5403				
+# GIGS Test Dataset Version: 2.0				
+# EPSG Dataset Version: 10.019 				
+# GIGS Test Dataset Issue Date: 2021-05-03				
+# Note 1: See associated P file for complete configuration				
+# Note 2: Survey D; 100x70 km; J-axis orientated at 20 deg (grid bearing); I-inc 25m x J-inc 12.5m bins; bin inc = 2				
+#				
+# Fields:				
+# [0]: i (Bin grid; No direct EPSG equivalent)				
+# [1]: j (Bin grid; No direct EPSG equivalent)				
+# [2]: Latitude (GIGS CRS Code 64003; GIGS geogCRS A; WGS 84; decimal degree; EPSG CRS code 4326)				
+# [3]: Longitude (GIGS CRS Code 64003; GIGS geogCRS A; WGS 84; decimal degree; EPSG CRS code 4326)				
+# [4]: Point				
+#				
+# [0]	# [1]	# [2]	# [3]	# [4]
+1	10000	52	1.75	SW corner
+1	21200	52.5944917	2.0866083	NW corner
+8001	21200	52.2895903	3.4706169	NE corner
+8001	10000	51.6990564	3.1180397	SE corner

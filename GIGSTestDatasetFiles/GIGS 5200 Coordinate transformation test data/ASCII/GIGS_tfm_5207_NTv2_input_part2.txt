@@ -1,0 +1,62 @@
+# File: GIGS_tfm_5207_NTv2_input_part2							
+# GIGS Test Procedure: 5207							
+# GIGS Test Dataset Version: 2.0							
+# EPSG Dataset Version: 10.019 							
+# GIGS Test Dataset Issue Date: 2021-05-03							
+# Note 1: Test for NTv2 utilising EPSG Coordinate Operation Method 9615 in north and west hemisphere quadrants							
+# Note 2: CAUTION if application requires early-binding use GIGS geogCRS J''' (GIGS code 64031) instead of GIGS geogCRS J							
+# Note 3: CAUTION Longitudes are given positive east							
+# Note 4: Input file 2 of 2							
+#							
+# Fields:							
+# [0]: Point							
+# [1]: Latitude (GIGS CRS Code 64012; GIGS geogCRS J; NAD27; decimal degree; EPSG CRS code 4267)							
+# [2]: Longitude (GIGS CRS Code 64012; GIGS geogCRS J; NAD27; decimal degree; EPSG CRS code 4267)							
+# [3]: Latitude (GIGS CRS Code 64018; GIGS geogCRS Z; NAD83; decimal degree; EPSG CRS code 4269)							
+# [4]: Longitude (GIGS CRS Code 64018; GIGS geogCRS Z; NAD83; decimal degree; EPSG CRS code 4269)							
+# [5]: Transect 							
+# [6]: Transformation Direction							
+# [7]: GIGS Remarks							
+#							
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]
+GIGS-5207-23	NULL	NULL	70	-143	A	REVERSE	Round Trip calculation point;NAD83 position also used in NADCON test 5206
+GIGS-5207-24	70	-142	NULL	NULL	A	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-25	NULL	NULL	70	-142	A	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-26	NULL	NULL	70	-141	A	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-27	70	-140	NULL	NULL	A	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-28	NULL	NULL	70	-139	A	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-29	70	-138	NULL	NULL	A	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-30	NULL	NULL	70	-135	A	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-31	70	-130	NULL	NULL	A	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-32	NULL	NULL	70	-128.0034722	A	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-33	70	-128	NULL	NULL	A	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-34	NULL	NULL	70	-126	A	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-35	70	-88.005575	NULL	NULL	A	FORWARD	
+GIGS-5207-36	70	-88	NULL	NULL	A	FORWARD	
+GIGS-5207-37	NULL	NULL	70	-88	A	REVERSE	
+GIGS-5207-38	70	-87.6610917	NULL	NULL	A	FORWARD	
+GIGS-5207-39	NULL	NULL	51.01700944	-112.1666078	B	REVERSE	
+GIGS-5207-40	NULL	NULL	51	-112	B	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-41	NULL	NULL	49.99999972	-112	B	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-42	49.99999972	-112	NULL	NULL	B	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-43	NULL	NULL	49	-112	B	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-44	48	-112	NULL	NULL	B	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-45	NULL	NULL	47	-112	B	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-46	47	-112	NULL	NULL	B	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-47	NULL	NULL	46	-112	B	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-48	46	-112	NULL	NULL	B	FORWARD	
+GIGS-5207-49	51	-130.5177467	NULL	NULL	C	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-50	NULL	NULL	51	-130.5177467	C	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-51	NULL	NULL	49.99999972	-130.5177467	C	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-52	49.99999972	-130.5177467	NULL	NULL	C	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-53	NULL	NULL	49	-130.5177467	C	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-54	48	-130.5177467	NULL	NULL	C	FORWARD	
+GIGS-5207-55	NULL	NULL	47	-130.5177467	C	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-56	47	-130.5177467	NULL	NULL	C	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-57	NULL	NULL	46	-130.5177467	C	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-58	45	-130.5177467	NULL	NULL	C	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-59	NULL	NULL	48.11666667	-133	D	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-60	48.11666667	-131.4555556	NULL	NULL	D	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-61	NULL	NULL	48.11666667	-130.5177467	D	REVERSE	NAD83 position also used in NADCON test 5206
+GIGS-5207-62	48.11666667	-128.4555556	NULL	NULL	D	FORWARD	NAD27 position also used in NADCON test 5206
+GIGS-5207-63	NULL	NULL	48.11643111	-128.5459361	D	REVERSE	NAD83 position also used in NADCON test 5206

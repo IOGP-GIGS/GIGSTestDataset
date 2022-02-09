@@ -1,0 +1,58 @@
+# File: GIGS_tfm_5212_3trnslt_Geog3D_output_AbrMol												
+# GIGS Test Procedure: 5212												
+# GIGS Test Dataset Version: 2.0												
+# EPSG Dataset Version: 10.019 												
+# GIGS Test Dataset Issue Date: 2021-05-03												
+# Note 1: Test for Geocentric translation (geog3D domain) calculation outputs based on Abridged Molodensky (EPSG code 9650) provided for reference only												
+# Note 2: See separate file for EPSG concatenated transformation method (EPSG code 1035) which represent expected results												
+# Note 3: Delta values provided to assist in investigating calculation method												
+# Horizontal Cartesian Tolerance: 0.03 metre												
+# Vertical Cartesian Tolerance: 0.01 metre												
+# Horizontal Geographic Tolerance : 0.0000003 degree												
+# Vertical Geographic Tolerance: 0.00000009 degree												
+# Round Trip Cartesian Tolerance: 0.006 metre												
+# Round Trip Geographic Tolerance: 0.00000006 degree												
+#												
+# Fields:												
+# [0]: Point												
+# [1]: Latitude (GIGS CRS Code 64019; GIGS geog3DCRS B; OSGB36; decimal degree; No direct EPSG equivalent)												
+# [2]: Longitude (GIGS CRS Code 64019; GIGS geog3DCRS B; OSGB36; decimal degree; No direct EPSG equivalent)												
+# [3]: Ellipsoidal height (GIGS CRS Code 64019; GIGS geog3DCRS B; OSGB36; metre; No direct EPSG equivalent)												
+# [4]: Latitude (GIGS CRS Code 64002; GIGS geog3DCRS A; WGS 84; decimal degree; EPSG CRS code 4979)												
+# [5]: Longitude (GIGS CRS Code 64002; GIGS geog3DCRS A; WGS 84; decimal degree; EPSG CRS code 4979)												
+# [6]: Ellipsoidal height (GIGS CRS Code 64002; GIGS geog3DCRS A; WGS 84; metre; EPSG CRS code 4979)												
+# [7]: Transect 												
+# [8]: Transformation Direction												
+# [9]: dLat (latitude delta value EPSGconcat - AbrMol; decimal degree)												
+# [10]: dLon (longitude delta value EPSGconcat - AbrMol; decimal degree)												
+# [11]: dh (height delta value EPSGconcat - AbrMol; metre)												
+# [12]: GIGS Remarks												
+#												
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]	# [8]	# [9]	# [10]	# [11]	# [12]
+GIGS-5212-01	79.99575788	150.0045637	1350.003443	80	150	1214.137	A	REVERSE	-0.00000029	-0.00000241	0.0324	Round Trip calculation point
+GIGS-5212-02	79.99575788	150.0045637	135.8664433	80	150	0	A	REVERSE	-0.00000109	-0.00000155	0.0324	
+GIGS-5212-03	60	120	900	60.00475184	119.9952451	619.6477	A	FORWARD	0.00000007	0.00000025	-0.016	
+GIGS-5212-04	60	120	0	60.00475184	119.9952451	-280.3523	A	FORWARD	0.00000074	-0.00000042	-0.016	
+GIGS-5212-05	29.99639764	60.00391035	449.9738252	30	60	189.569	A	REVERSE	0.00000099	-0.00000005	0.074	
+GIGS-5212-06	29.99639764	60.00391035	260.4048252	30	60	0	A	REVERSE	0.00000088	0.00000007	0.074	
+GIGS-5212-07	0	0	0	0.00392522	-0.0010062	-202.604	A	FORWARD	-0.00000013	0.00000005	0.0158	
+GIGS-5212-08	0	0	-3000	0.00392522	-0.0010062	-3202.604	A	FORWARD	0.00000173	-0.00000042	0.0159	
+GIGS-5212-09	0	0	-10000	0.00392522	-0.0010062	-10202.604	A	FORWARD	0.00000607	-0.00000153	0.0159	
+GIGS-5212-10	-30.00405381	-60.00274957	526.4048252	-30	-60	0	A	REVERSE	-0.000001	-0.00000014	0.0717	
+GIGS-5212-11	-30.00405381	-60.00274957	-0.07117484	-30	-60	-526.476	A	REVERSE	-0.00000134	-0.00000036	0.0712	
+GIGS-5212-12	-30.00405381	-60.00274957	-45.07117484	-30	-60	-571.476	A	REVERSE	-0.00000136	-0.00000038	0.0717	
+GIGS-5212-13	-60	-120	0	-59.99934798	-119.9932378	-935.0675	A	FORWARD	-0.00000086	0.00000018	-0.032	
+GIGS-5212-14	-60	-120	-900	-59.99934798	-119.9932378	-1835.0675	A	FORWARD	-0.00000076	0.00000113	-0.032	
+GIGS-5212-15	-79.99809556	-150.0145665	971.230977	-80	-150	0	A	REVERSE	0.00000095	0.00000348	0.024	
+GIGS-5212-16	-79.99809556	-150.0145665	-0.02402298	-80	-150	-971.255	A	REVERSE	0.00000124	0.00000127	0.024	
+GIGS-5212-17	-79.99809556	-150.0145665	-2345.024023	-80	-150	-3316.255	A	REVERSE	0.00000193	-0.00000407	0.024	
+GIGS-5212-18	70	-180	0	70.00490648	-179.9970667	-223.6215	B	FORWARD	0.00000085	0.00000049	0.0037	
+GIGS-5212-19	49.9955382	-135.0047636	312.9681799	50	-135	0	B	REVERSE	-0.0000006	0.00000021	0.0953	
+GIGS-5212-20	25	-90	0	25.00366455	-89.99632458	-274.7156	B	FORWARD	-0.00000126	-0.00000007	-0.013	
+GIGS-5212-21	-0.00392496	0.00100611	202.604	0	0	0	B	REVERSE	-0.00000014	0.00000006	0.0158	
+GIGS-5212-22	-37.6532236	143.9279419	1836.947	-37.65282262	143.9264922	737.7748	B	FORWARD	0.00000044	0.00000032	-0.0566	
+GIGS-5212-23	-37.6532236	143.9279419	0	-37.65282262	143.9264922	-1099.1722	B	FORWARD	0.00000056	-0.0000001	-0.0566	
+GIGS-5212-24	-37.6532236	143.9279419	-3000	-37.65282262	143.9264922	-4099.1722	B	FORWARD	0.00000075	-0.00000078	-0.0566	
+GIGS-5212-25	-37.6532236	143.9279419	-10000	-37.65282262	143.9264922	-11099.1722	B	FORWARD	0.00000119	-0.00000238	-0.0566	
+GIGS-5212-26	-49.99946348	135.0025544	1079.70712	-50	135	0	B	REVERSE	0.00000032	-0.00000021	0.0698	
+GIGS-5212-27	-70	180	0	-70.00224516	179.9970667	-1039.2747	B	FORWARD	-0.00000131	0.00000049	-0.0149	

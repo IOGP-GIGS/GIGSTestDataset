@@ -1,0 +1,72 @@
+OGP,OGP P1,1,1.1,1,2021:08:20,13:45:13,GIGS_tfm_5205_MolBad_part1.p111,IOGP
+HC,0,1,0,Project Name                                      ,5205.1,Geospatial Integrity of Geoscience Software,2020:01:01,
+HC,0,2,0,Survey Description                                ,Geodetic Test,GIGS Test Points,NA,826,GBR
+HC,0,3,0,Geographic Extent                                 ,-180.00,180.00,-80.00,80.00
+HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
+HC,0,5,0,Geophysical Contractor                            ,None
+HC,0,6,0,Positioning Contractor                            ,None
+HC,0,7,0,Position Processing Contractor                    ,None
+HC,1,0,0,Reference Systems Summary                         ,6,0,2,1
+HC,1,1,0,Unit of Measure                                   ,1,            metre,length,2, , ,             ,       , ,            metre,9001,EPSG Dataset,10.018,9001
+HC,1,1,0,Unit of Measure                                   ,2,           radian, angle,2, , ,             ,       , ,           radian,9101,EPSG Dataset,10.018,9101
+HC,1,1,0,Unit of Measure                                   ,3,           degree, angle,2,2,0,3.14159265359,    180,0,           degree,9102,EPSG Dataset,10.018,9102
+HC,1,1,0,Unit of Measure                                   ,4,            unity, scale,2, , ,             ,       , ,            unity,9201,EPSG Dataset,10.018,9201
+HC,1,1,0,Unit of Measure                                   ,5,      microradian, angle,2,2,0,            1,1000000,0,      microradian,9109,EPSG Dataset,10.018,9109
+HC,1,1,0,Unit of Measure                                   ,6,parts per million, scale,2,4,0,            1,1000000,0,parts per million,9202,EPSG Dataset,10.018,9202
+HC,1,1,1,Example Unit Conversion                           ,1,2,1,3,57.29577951,5,1000000
+HC,1,1,1,Example Unit Conversion                           ,2,4,1,6,    1000000
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,1,4289,Amersfoort,10.018,2021:04:02,EPSG,
+HC,1,3,0,CRS Number/EPSG Code/Name/Source                  ,2,4326,    WGS 84,10.018,2021:04:02,EPSG,
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,1,4289,2,geographic 2D,Amersfoort
+HC,1,4,4,Geodetic Datum                                    ,1,6289,Amersfoort,
+HC,1,4,5,Prime Meridian                                    ,1,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,1,7004,Bessel 1841,6377397.155,1,metre,299.1528128
+HC,1,6,0,Coordinate System                                 ,1,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,1,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,1,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,4,0,CRS Number/EPSG Code/Type/Name                    ,2,4326,2,geographic 2D,WGS 84
+HC,1,4,4,Geodetic Datum                                    ,2,1156,World Geodetic System 1984 (G1762),
+HC,1,4,5,Prime Meridian                                    ,2,8901,Greenwich,0,3,degree
+HC,1,4,6,Ellipsoid                                         ,2,7030,WGS 84,6378137,1,metre,298.257223563
+HC,1,6,0,Coordinate System                                 ,2,6422,Ellipsoidal 2D CS. Axes\u003A latitude\u002C longitude. Orientations\u003A north\u002C east. UoM\u003A degree,3,ellipsoidal,2
+HC,1,6,1,Coordinate System Axis 1                          ,2,1,106, Geodetic latitude,north,Lat,3,degree
+HC,1,6,1,Coordinate System Axis 2                          ,2,2,107,Geodetic longitude, east,Lon,3,degree
+HC,1,7,0,Transformation Number/EPSG Code/Name/Source       ,1,,Amersfoort to ETRS89 (4),10.018,2021:04:02,EPSG,
+HC,1,8,0,Transformation Number/EPSG Code/Name              ,1,,Amersfoort to ETRS89 (4),0.5
+HC,1,8,1,Source CRS/Target CRS/Version                     ,1,1,4289,Amersfoort,2,4326,WGS 84,NCG-Nld 2004
+HC,1,8,2,Transformation Method                             ,1,9636,Molodensky-Badekas (CF geog2D domain),1,10
+HC,1,8,4,X-axis translation                                ,1,8605,          593.0297,1,            metre,1
+HC,1,8,4,Y-axis translation                                ,1,8606,           26.0038,1,            metre,1
+HC,1,8,4,Z-axis translation                                ,1,8607,          478.7534,1,            metre,1
+HC,1,8,4,X-axis rotation                                   ,1,8608,            1.9725,5,      microradian,1
+HC,1,8,4,Y-axis rotation                                   ,1,8609,           -1.7004,5,      microradian,1
+HC,1,8,4,Z-axis rotation                                   ,1,8610,            9.0677,5,      microradian,1
+HC,1,8,4,Scale difference                                  ,1,8611,            4.0812,6,parts per million,1
+HC,1,8,4,Ordinate 1 of evaluation point                    ,1,8617,3903453.1482000002,1,            metre,1
+HC,1,8,4,Ordinate 2 of evaluation point                    ,1,8618,       368135.3134,1,            metre,1
+HC,1,8,4,Ordinate 3 of evaluation point                    ,1,8667,5012970.3051000005,1,            metre,1
+HC,1,9,0,Example Point Conversion                          , 1,GIGS-5205-01,2,         80,        150,,1, 79.99494639, 150.0181437,
+HC,1,9,0,Example Point Conversion                          , 2,GIGS-5205-02,1,         60,        120,,2, 60.00441792, 119.9900156,
+HC,1,9,0,Example Point Conversion                          , 3,GIGS-5205-03,2,         30,         60,,1, 29.99746103, 60.00535007,
+HC,1,9,0,Example Point Conversion                          , 4,GIGS-5205-04,1,          0,          0,,2,   0.0041133, -0.00007025,
+HC,1,9,0,Example Point Conversion                          , 5,GIGS-5205-05,2,        -30,        -60,,1, -30.0042486,-60.00473241,
+HC,1,9,0,Example Point Conversion                          , 6,GIGS-5205-06,1,        -60,       -120,,2,-60.00081456,-119.9922412,
+HC,1,9,0,Example Point Conversion                          , 7,GIGS-5205-07,2,        -80,       -150,,1,-79.99612229,-150.0120919,
+HC,1,9,0,Example Point Conversion                          , 8,GIGS-5205-08,1,         70,       -180,,2, 70.00666951, 179.9978617,
+HC,1,9,0,Example Point Conversion                          , 9,GIGS-5205-09,2,         50,       -135,,1, 49.99357566,-135.0045485,
+HC,1,9,0,Example Point Conversion                          ,10,GIGS-5205-10,1,         25,        -90,,2, 25.00457271,-89.99487454,
+HC,1,9,0,Example Point Conversion                          ,11,GIGS-5205-11,2,          0,          0,,1, -0.00411349,  0.00007032,
+HC,1,9,0,Example Point Conversion                          ,12,GIGS-5205-12,1,-37.6532236,143.9279419,,2,-37.65282034,  143.923306,
+HC,1,9,0,Example Point Conversion                          ,13,GIGS-5205-13,2,        -50,        135,,1,-49.99958243, 135.0064107,
+HC,1,9,0,Example Point Conversion                          ,14,GIGS-5205-14,1,        -70,        180,,2,-70.00362084, 179.9984789,
+HC,2,0,0,Survey Configuration                              ,0,0,0,1,metre
+H1,0,0,0,File Contents Description                         ,This file contains GIGS Test Points,Loaded From GIGS_tfm_5205_MolBad_output_part1.txt
+H1,0,1,0,Processing Details                                ,None
+H1,0,2,0,GIGS Test Procedure                               ,100,      5205, ,      
+H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.0, ,      
+H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2021-05-03, ,      
+H1,0,2,0,Cartesian Tolerance                               ,103,      0.03,1, metre
+H1,0,2,0,Geographic Tolerance                              ,104, 0.0000003,3,degree
+H1,0,2,0,Round Trip Cartesian Tolerance                    ,105,     0.006,1, metre
+H1,0,2,0,Round Trip Geographic Tolerance                   ,106,0.00000006,3,degree
+H1,0,2,0,Round Trip Point                                  ,107,         1, ,      

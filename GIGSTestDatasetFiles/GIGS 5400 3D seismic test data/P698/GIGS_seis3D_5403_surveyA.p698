@@ -1,0 +1,30 @@
+H0100 3D Survey Name      GIGS 3D A
+H0200 Bin Grid Descriptor    GIGS Test Procedure 5403 survey A input data
+H0300 Geodetic Datum Name    GIGS A
+H0400 Ellipsoid-Axis-Inv Flat  GIGS A   6378137.0  298.2572236
+H0500 Projection Method     003 Transverse Mercator
+H0510 Projection Zone Name   GIGS conversion 1
+H0540 Map Grid Origin (dms N/E)  0 0 0.000E  3 0 0.000E
+H0550 Map Grid Origin (E,N)    500000.00E     0.00N
+H0560 Map Grid Scale Factor   0.9996
+H0600 Descr of Linear Units   1 metre          1.0
+H0700 Descr of Angular Units  1 sexagesimal dgree
+H0800 Bin Grid Origin (Io,Jo)    1.0   10000.0
+H0900 Bin Grid Origin (E,N)    414188.46E  5761775.89N
+H1000 Scale Factor at (I,J)   1.0        1.0   10000.0
+H1100 Nom Bin Width on I axis  25.0
+H1150 Nom Bin Width on J axis  12.5
+H1200 Grid Bear J axis (dms)   20 0 0.0
+H1300 Bin Node Increment I axis   2.0
+H1350 Bin Node Increment J axis   2.0
+H1400 Coords (I,J,E,N) Fst Node   1.0   12400.0    419318.76 5775871.28
+H1401 Lat,Lon (dms) First Node  52 738.900N  14916.981E
+H1410 Coords (I,J,E,N) Sec Node   1.0   14800.0    424449.06 5789966.67
+H1420 Coords (I,J,E,N) Gen Pnt  4001.0   10000.0    461173.09 5744674.88
+H2100 Comment          Bin grid is referenced to GIGS projCRS A1.
+H2100 Comment          This is equivalent to WGS 84 / UTM zone 31N.
+H2100 Comment          Equivalent EPSG CRs code is 32631.
+H2300 Data Extent Bin Grid    14800.0   10000.0   4001.0     1.0
+H2600 Data Set Extent comments NE corner overlaps GIGS 3D survey B.
+H2600 Data Set Extent comments Whole survey within area of GIGS 3D survey D.
+H2700 Number of perimeters    0

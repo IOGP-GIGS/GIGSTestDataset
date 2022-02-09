@@ -1,0 +1,38 @@
+# File: GIGS_conv_5102_LCC1_input_part1							
+# GIGS Test Procedure: 5102							
+# GIGS Test Dataset Version: 2.0							
+# EPSG Dataset Version: 10.019 							
+# GIGS Test Dataset Issue Date: 2021-05-03							
+# Note 1: Test for Lambert Conic Conformal (1SP)							
+# Note 2: Input file 1 of 2							
+#							
+# Fields:							
+# [0]: Point							
+# [1]: Latitude (GIGS CRS Code 64020; GIGS geogCRS M; ED50; decimal degree; EPSG CRS code 4230)							
+# [2]: Longitude (GIGS CRS Code 64020; GIGS geogCRS M; ED50; decimal degree; EPSG CRS code 4230)							
+# [3]: Easting (GIGS CRS Code 62035; GIGS projCRS M25; ED50 / France EuroLambert; metre; No direct EPSG equivalent)							
+# [4]: Northing (GIGS CRS Code 62035; GIGS projCRS M25; ED50 / France EuroLambert; metre; No direct EPSG equivalent)							
+# [5]: Transect 							
+# [6]: Conversion Direction							
+# [7]: GIGS Remarks							
+#							
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]
+GIGS-5102-01	58	5	NULL	NULL	A	FORWARD	Round Trip calculation point
+GIGS-5102-02	NULL	NULL	764566.844	3343948.93	A	REVERSE	
+GIGS-5102-03	56	5	NULL	NULL	A	FORWARD	
+GIGS-5102-04	NULL	NULL	772213.973	3118310.947	A	REVERSE	
+GIGS-5102-05	54	5	NULL	NULL	A	FORWARD	
+GIGS-5102-06	NULL	NULL	779816.748	2893981.68	A	REVERSE	
+GIGS-5102-07	51	4	NULL	NULL	A	FORWARD	
+GIGS-5102-08	NULL	NULL	719385.249	2557252.841	A	REVERSE	
+GIGS-5102-09	49	4	NULL	NULL	A	FORWARD	
+GIGS-5102-10	NULL	NULL	726915.752	2201342.518	A	REVERSE	
+GIGS-5102-11	53	3	NULL	NULL	B	FORWARD	
+GIGS-5102-12	NULL	NULL	712299.916	2892123.369	B	REVERSE	
+GIGS-5102-13	53	5	NULL	NULL	B	FORWARD	
+GIGS-5102-14	NULL	NULL	847304.473	2896698.827	B	REVERSE	
+GIGS-5102-15	53	7	NULL	NULL	B	FORWARD	
+GIGS-5102-16	NULL	NULL	982148.913	2904707.734	B	REVERSE	
+GIGS-5102-17	53	9	NULL	NULL	B	FORWARD	
+GIGS-5102-18	NULL	NULL	1116745.929	2916144.902	B	REVERSE	
+GIGS-5102-19	53	11	NULL	NULL	B	FORWARD	

@@ -1,0 +1,86 @@
+H0100 3D Survey Name      GIGS 3D E
+H0200 Bin Grid Descriptor    GIGS Test Procedures 5406 input data
+H0300 Geodetic Datum Name    GIGS A
+H0400 Ellipsoid-Axis-Inv Flat  GIGS A   6378137.0  298.2572236
+H0500 Projection Method     003 Transverse Mercator
+H0510 Projection Zone Name   GIGS conversion 2
+H0540 Map Grid Origin (dms N/E)  0 0 0.000E  2 0 0.000W
+H0550 Map Grid Origin (E,N)    400000.00E  -100000.00N
+H0560 Map Grid Scale Factor   0.9996012717
+H0600 Descr of Linear Units   1 metre          1.0
+H0700 Descr of Angular Units  1 sexagesimal degree
+H0800 Bin Grid Origin (Io,Jo)   1000.0   6000.0
+H0900 Bin Grid Origin (E,N)    744131.85E  260253.00N
+H1000 Scale Factor at (I,J)   1.0      1000.0   6000.0
+H1100 Nom Bin Width on I axis   3.5
+H1150 Nom Bin Width on J axis   3.5
+H1200 Grid Bear J axis (dms)   160247.908
+H1300 Bin Node Increment I axis   1.0
+H1350 Bin Node Increment J axis   1.0
+H1400 Coords (I,J,E,N) Fst Node   0.0   5001.0    739801.72  257860.20
+H1401 Lat,Lon (dms) First Node  52 756.881N  3 145.285E
+H1410 Coords (I,J,E,N) Sec Node   0.0   6999.0    741734.72  264580.73
+H1420 Coords (I,J,E,N) Gen Pnt  2000.0   6999.0    748461.98  262645.79
+H2100 Comment          Bin grid is centred on platform YN.
+H2100 Comment          Bin grid is referenced to GIGS projCRS A2 which
+H2100 Comment          is equivalent to WGS 84 / British National Grid.
+H2100 Comment          Orientation of J axis is 20 degrees referenced
+H2100 Comment          to GIGS projCRS A1 (WGS 84 / UTM zone 31N). The 
+H2100 Comment          value in H1200 has been converted to projCRS A2.
+H2300 Data Extent Bin Grid    6999.0   5001.0   2024.0    -24.0
+H2400 Data Extent Map Grid     748461.98  739801.72  264603.95  255902.04
+H2501 Data Extent Geog (N/S dms) 521022.701N  520531.034N
+H2502 Data Extent Geog (E/W dms)  30540.955E  25749.807E
+H2600 Data Set Extent comments Imin extent is negative.
+H2700 Number of perimeters    4
+H2801 Total Coverage # of Nodes  24
+H2901 Total Coverage (i,j,E,N)    0.0   5001.0    739801.72  257860.20
+H2901 Total Coverage (i,j,E,N)    0.0   5334.0    740123.89  258980.29
+H2901 Total Coverage (i,j,E,N)   -24.0   5334.0    740043.16  259003.51
+H2901 Total Coverage (i,j,E,N)   -24.0   5667.0    740365.33  260123.60
+H2901 Total Coverage (i,j,E,N)    0.0   5667.0    740446.05  260100.38
+H2901 Total Coverage (i,j,E,N)    0.0   6000.0    740768.22  261220.47
+H2901 Total Coverage (i,j,E,N)   -24.0   6000.0    740687.49  261243.69
+H2901 Total Coverage (i,j,E,N)   -24.0   6333.0    741009.66  262363.77
+H2901 Total Coverage (i,j,E,N)    0.0   6333.0    741090.39  262340.55
+H2901 Total Coverage (i,j,E,N)    0.0   6666.0    741412.56  263460.64
+H2901 Total Coverage (i,j,E,N)   -24.0   6666.0    741331.83  263483.86
+H2901 Total Coverage (i,j,E,N)   -24.0   6999.0    741654.00  264603.95
+H2901 Total Coverage (i,j,E,N)  2000.0   6999.0    748461.98  262645.79
+H2901 Total Coverage (i,j,E,N)  2000.0   6666.0    748139.81  261525.71
+H2901 Total Coverage (i,j,E,N)  2024.0   6666.0    748220.54  261502.49
+H2901 Total Coverage (i,j,E,N)  2024.0   6333.0    747898.37  260382.40
+H2901 Total Coverage (i,j,E,N)  2000.0   6333.0    747817.65  260405.62
+H2901 Total Coverage (i,j,E,N)  2000.0   6000.0    747495.48  259285.53
+H2901 Total Coverage (i,j,E,N)  2024.0   6000.0    747576.21  259262.31
+H2901 Total Coverage (i,j,E,N)  2024.0   5667.0    747254.04  258142.22
+H2901 Total Coverage (i,j,E,N)  2000.0   5667.0    747173.31  258165.44
+H2901 Total Coverage (i,j,E,N)  2000.0   5334.0    746851.15  257045.35
+H2901 Total Coverage (i,j,E,N)  2024.0   5334.0    746931.87  257022.13
+H2901 Total Coverage (i,j,E,N)  2024.0   5001.0    746609.71  255902.04
+H2901 Total Coverage (i,j,E,N)    0.0   5001.0    739801.72  257860.20
+H3101 Full Fold Cov # of Nodes   4
+H3201 Full Fold Cov (i,j,E,N)    0.0   5001.0    739801.72  257860.20 
+H3201 Full Fold Cov (i,j,E,N)    0.0   6999.0    741734.72  264580.73
+H3201 Full Fold Cov (i,j,E,N)   2000.0   6999.0    748461.98  262645.79
+H3201 Full Fold Cov (i,j,E,N)   2000.0   5001.0    746528.98  255925.26
+H3201 Full Fold Cov (i,j,E,N)    0.0   5001.0    739801.72  257860.20
+H3301 Full Fold Cov Comments  96 fold
+H3401 Null Full Fold # of Nodes  8
+H3501 Null Full Fold (i,j,E,N)   880.0   6000.0    
+H3501 Null Full Fold (i,j,E,N)   920.0   6027.0    
+H3501 Null Full Fold (i,j,E,N)  1000.0   6040.0    
+H3501 Null Full Fold (i,j,E,N)  1080.0   6027.0    
+H3501 Null Full Fold (i,j,E,N)  1120.0   6000.0    
+H3501 Null Full Fold (i,j,E,N)  1080.0   5987.0    
+H3501 Null Full Fold (i,j,E,N)  1000.0   5960.0    
+H3501 Null Full Fold (i,j,E,N)   920.0   5987.0    
+H3501 Null Full Fold (i,j,E,N)   880.0   6000.0
+H3701 Null Coverage # of Nodes   6
+H3801 Null Coverage (i,j,E,N)               743997.31  260291.70
+H3801 Null Coverage (i,j,E,N)               744045.45  260332.48
+H3801 Null Coverage (i,j,E,N)               744247.27  260274.43
+H3801 Null Coverage (i,j,E,N)               744266.40  260214.30
+H3801 Null Coverage (i,j,E,N)               744218.25  260173.52  
+H3801 Null Coverage (i,j,E,N)               744016.43  260231.57
+H3801 Null Coverage (i,j,E,N)               743997.31  260291.70

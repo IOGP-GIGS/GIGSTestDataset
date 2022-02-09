@@ -1,0 +1,20 @@
+# File: GIGS_seis3D_5403_surveyC_output_axes		
+# GIGS Test Procedure: 5403		
+# GIGS Test Dataset Version: 2.0		
+# EPSG Dataset Version: 10.019 		
+# GIGS Test Dataset Issue Date: 2021-05-03		
+#		
+# Fields:		
+# [0]: Axis (corner to corner)		
+# [1]: Grid distance (metre)		
+# [2]: Grid bearing (degrees)		
+#		
+# [0]	# [1]	# [2]
+SW to NW	15022.8	16.0403181
+NW to NE	20032.33	106.0382342
+NE to SE	15025.19	196.0429758
+SE to SW	20031.63	286.0450806
+SW to SE	20031.63	106.0450806
+SE to NE	15025.19	16.0429758
+NE to NW	20032.33	286.0382342
+NW to SW	15022.8	196.0403181

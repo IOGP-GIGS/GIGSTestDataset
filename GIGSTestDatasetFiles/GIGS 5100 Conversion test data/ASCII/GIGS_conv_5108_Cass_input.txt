@@ -1,0 +1,35 @@
+# File: GIGS_conv_5108_Cass_input							
+# GIGS Test Procedure: 5108							
+# GIGS Test Dataset Version: 2.0							
+# EPSG Dataset Version: 10.019 							
+# GIGS Test Dataset Issue Date: 2021-05-03							
+# Note: Test for Cassini-Soldner							
+#							
+# Fields:							
+# [0]: Point							
+# [1]: Latitude (GIGS CRS Code 64010; GIGS geogCRS G; GDM2000; decimal degree; EPSG CRS code 4742)							
+# [2]: Longitude (GIGS CRS Code 64010; GIGS geogCRS G; GDM2000; decimal degree; EPSG CRS code 4742)							
+# [3]: Easting (GIGS CRS Code 62022; GIGS projCRS G15; GDM2000 / Johor Grid; metre; EPSG CRS code 3377)							
+# [4]: Northing (GIGS CRS Code 62022; GIGS projCRS G15; GDM2000 / Johor Grid; metre; EPSG CRS code 3377)							
+# [5]: Transect 							
+# [6]: Conversion Direction							
+# [7]: GIGS Remarks							
+#							
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]
+GIGS-5108-01	NULL	NULL	267186.017	881108.902	A	REVERSE	
+GIGS-5108-02	9	106	NULL	NULL	A	FORWARD	
+GIGS-5108-03	NULL	NULL	268740.351	659692.254	A	REVERSE	
+GIGS-5108-04	7	106	NULL	NULL	A	FORWARD	
+GIGS-5108-05	NULL	NULL	269951.141	438292.666	A	REVERSE	
+GIGS-5108-06	5	106	NULL	NULL	A	FORWARD	
+GIGS-5108-07	NULL	NULL	270816.99	216905.945	A	REVERSE	
+GIGS-5108-08	3	106	NULL	NULL	A	FORWARD	
+GIGS-5108-09	NULL	NULL	0	0	B	REVERSE	
+GIGS-5108-10	NULL	NULL	8813.252	-23740.095	B	REVERSE	
+GIGS-5108-11	1	106	NULL	NULL	C	FORWARD	
+GIGS-5108-12	5	109	NULL	NULL	C	FORWARD	
+GIGS-5108-13	NULL	NULL	492221.308	328807.336	C	REVERSE	
+GIGS-5108-14	5	107	NULL	NULL	C	FORWARD	
+GIGS-5108-15	NULL	NULL	270427.255	327597.962	C	REVERSE	
+GIGS-5108-16	5	105	NULL	NULL	C	FORWARD	
+GIGS-5108-17	NULL	NULL	48630.563	327067.097	C	REVERSE	Round Trip calculation point

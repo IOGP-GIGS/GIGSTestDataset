@@ -1,0 +1,53 @@
+H0100Survey Area                N/A                                             
+H0101General Survey Details     GIGS_seis2D_5306_input_part1.txt                
+H0102Vessel Details             N/A                                             
+H0103Source Details             N/A                                             
+H0104Streamer Details           N/A                                             
+H0105Other Details              N/A                                             
+H0200Date of Survey             N/A                                             
+H0201Date of Issue              20210728                                        
+H0202Tape Version               4.0                                             
+H0203Line Prefix                N/A                                             
+H0300Line Client                N/A                                             
+H0400Geophysical Contractor     N/A                                             
+H0500Positioning Contractor     N/A                                             
+H0600Position Processing        N/A                                             
+H0700Onboard Navigation         N/A                                             
+H0800Co-ordinate Location       Centre of source                                
+H1400Surveyed Datum             WGS 84      WGS 84       6378137.000 298.2572236
+H1501Transformation to WGS84      0.00  0.00  0.00 0.000 0.000 0.000 0.0000000  
+H1500Post Plot Datum            WGS 84      WGS 84       6378137.000 298.2572236
+H1501Transformation to WGS84      0.00  0.00  0.00 0.000 0.000 0.000 0.0000000  
+H1600Transformation H14 to H15    0.00  0.00  0.00 0.000 0.000 0.000 0.0000000  
+H1700Vertical Datum             Baltic 1977 height      EPSG 5705               
+H1800Projection Type               1UTM zone 31N                                
+H1900Projection Zone              31N                                           
+H2000Grid Units                 1metre                    1.000000000000        
+H2001Height Units               1metre                    1.000000000000        
+H2002Angular Units              1degrees                                        
+H2200Long of Cent Meridian      0030000.000E                                    
+H2301Grid Origin                0000000.000N0030000.000E                        
+H2302Grid Coords at Origin        500000.00E       0.00N                        
+H2401Scale Factor               0.9996000000                                    
+H2402Lat/Long of Scale Factor   0000000.000N0030000.000E                        
+SGIGS-5306-05           1520408.81N0022037.74E 455022.55768928.7  66.7          
+SGIGS-5306-05          10520401.99N0022041.88E 455099.35768717.3  66.8          
+SGIGS-5306-05          20520354.41N0022046.48E 455184.85768482.3  66.9          
+SGIGS-5306-05          30520346.83N0022051.07E 455270.25768247.3  67.0          
+SGIGS-5306-05          40520339.25N0022055.67E 455355.65768012.4  67.1          
+SGIGS-5306-05          50520331.67N0022100.27E 455441.05767777.4  67.2          
+SGIGS-5306-05          60520324.10N0022104.86E 455526.55767542.5  67.4          
+SGIGS-5306-05          70520316.52N0022109.46E 455611.95767307.5  67.6          
+SGIGS-5306-05          80520308.94N0022114.05E 455697.35767072.6  67.8          
+SGIGS-5306-05          90520301.36N0022118.65E 455782.75766837.6  68.0          
+SGIGS-5306-05         100520253.78N0022123.24E 455868.15766602.7  68.2          
+SGIGS-5306-05         110520246.20N0022127.83E 455953.65766367.7  68.4          
+SGIGS-5306-05         120520238.62N0022132.42E 456039.05766132.8  68.6          
+SGIGS-5306-05         130520231.04N0022137.02E 456124.45765897.8  68.8          
+SGIGS-5306-05         140520223.46N0022141.61E 456209.85765662.9  69.0          
+SGIGS-5306-05         150520215.88N0022146.20E 456295.35765427.9  69.2          
+SGIGS-5306-05         160520208.30N0022150.79E 456380.75765193.0  69.4          
+SGIGS-5306-05         170520200.72N0022155.38E 456466.15764958.0  69.6          
+SGIGS-5306-05         180520153.14N0022159.97E 456551.55764723.0  69.8          
+SGIGS-5306-05         190520145.56N0022204.56E 456636.95764488.1  69.9          
+SGIGS-5306-05         200520137.98N0022209.15E 456722.45764253.1  70.0          

@@ -1,0 +1,22 @@
+# File: GIGS_user_3212_ConcatTfm									
+# GIGS Test Procedures: 3212									
+# GIGS Test Dataset Version: 2.0									
+# EPSG Dataset Version: 10.019 									
+# GIGS Test Dataset Issue Date: 2021-05-03								
+#									
+# Fields:									
+# [0]: GIGS Transformation Code									
+# [1]: GIGS Source CRS Code (see GIGS Test Procedure 3205)									
+# [2]: GIGS Source CRS Name									
+# [3]: GIGS Target CRS Code (see GIGS Test Procedure 3205)									
+# [4]: GIGS Target CRS Name									
+# [5]: GIGS Transformation Version									
+# [6]: Step 1 GIGS Transformation Code (see GIGS Test Procedure 3208)									
+# [7]: Step 1 GIGS Transformation Name									
+# [8]: Step 2 GIGS Transformation Code (see GIGS Test Procedure 3208)									
+# [9]: Step 2 GIGS Transformation Name									
+#									
+# [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]	# [8]	# [9]
+68178	64007	GIGS geogCRS D	64003	GIGS geogCRS A	1	61759	GIGS D to L (1)	61123	GIGS L to A (1)
+68094	64011	GIGS geogCRS H	64003	GIGS geogCRS A	1	61763	GIGS H to T (1)	61193	GIGS T to A (1)
+									
