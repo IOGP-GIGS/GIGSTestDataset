@@ -1,4 +1,4 @@
-# GIGSTestDataset
+# GIGS Test Dataset
 Repo for GIGS Test Dataset files and associated code
 
 **See https://gigs.iogp.org for further information**
