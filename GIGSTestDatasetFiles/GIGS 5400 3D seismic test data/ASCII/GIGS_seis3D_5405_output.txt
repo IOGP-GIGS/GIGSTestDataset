@@ -1,8 +1,8 @@
 # File: GIGS_seis3D_5405_output				
 # GIGS Test Procedure: 5405				
-# GIGS Test Dataset Version: 2.0				
+# GIGS Test Dataset Version: 2.1.0				
 # EPSG Dataset Version: 10.019 				
-# GIGS Test Dataset Issue Date: 2021-05-03				
+# GIGS Test Dataset Issue Date: 2022-04-29				
 # Note 1: Same data applies to both test procedures 5404 and 5405				
 # Note 2: Coordinates below apply to Survey A B and C				
 # Cartesian Tolerance: 0.03 metre				

@@ -1,8 +1,8 @@
 # File: GIGS_seis3D_5403_surveyA_input				
 # GIGS Test Procedure: 5403				
-# GIGS Test Dataset Version: 2.0				
+# GIGS Test Dataset Version: 2.1.0				
 # EPSG Dataset Version: 10.019 				
-# GIGS Test Dataset Issue Date: 2021-05-03				
+# GIGS Test Dataset Issue Date: 2022-04-29				
 # Note 1: See associated P file for complete configuration 				
 # Note 2: Survey A; 50x30 km; J-axis orientated at 20 deg; I-inc 25m x J-inc 12.5m bins; bin inc = 2				
 #				
