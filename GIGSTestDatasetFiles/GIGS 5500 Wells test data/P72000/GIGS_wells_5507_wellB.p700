@@ -30,7 +30,7 @@ H0700 Remarks:              ... First data record at -258.09m MD is KB.
 H0700 Remarks:              ... Second data record at -218.72m MD is ground level.
 H0700 Remarks:              ... Third data record at 3143.52m MD is horizon 1.
 H0700 Remarks:              ... Fourth data record at 5541.73m MD is TD.
-H0700 Remarks:              GIGS Test Dataset Version: 2.0, GIGS Test Dataset Issue Date: 2021-05-03.
+H0700 Remarks:              GIGS Test Dataset Version: 2.1.0, GIGS Test Dataset Issue Date: 2022-04-29.
 D                                -258.09  250178.04N  697676.79E
 D                                -218.72  250178.04N  697676.79E
 D                                3143.52  250178.04N  697676.79E

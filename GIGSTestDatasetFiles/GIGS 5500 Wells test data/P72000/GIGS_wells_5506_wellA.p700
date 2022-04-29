@@ -29,7 +29,7 @@ H0700 Remarks:              ... First data record at -121.09m MD is RT.
 H0700 Remarks:              ... Second data record at -111.09m MD is ground level.
 H0700 Remarks:              ... Third data record at 739.17m MD is horizon 1.
 H0700 Remarks:              ... Fourth data record at 1557.43m MD is TD.
-H0700 Remarks:              GIGS Test Dataset Version: 2.0, GIGS Test Dataset Issue Date: 2021-05-03.
+H0700 Remarks:              GIGS Test Dataset Version: 2.1.0, GIGS Test Dataset Issue Date: 2022-04-29.
 D                                -121.09                520215.202N   21226.170E
 D                                -111.09                520215.202N   21226.170E
 D                                 739.17                520215.202N   21226.170E

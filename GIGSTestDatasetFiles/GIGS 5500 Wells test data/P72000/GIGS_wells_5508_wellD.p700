@@ -31,7 +31,7 @@ H0700 Remarks:              ... First data record at -56.00m MD is RT.
 H0700 Remarks:              ... Second data record at 105.33m MD is mud line.
 H0700 Remarks:              ... Third data record at 1453.80m MD is horizon 1.
 H0700 Remarks:              ... Fourth data record at 1922.93m MD is TD.
-H0700 Remarks:              GIGS Test Dataset Version: 2.0, GIGS Test Dataset Issue Date: 2021-05-03.
+H0700 Remarks:              GIGS Test Dataset Version: 2.1.0, GIGS Test Dataset Issue Date: 2022-04-29.
 D                                 -56.00  5779179.09N  483216.08E
 D                                 105.33  5779179.09N  483216.08E
 D                                1453.80  5779179.09N  483216.08E
