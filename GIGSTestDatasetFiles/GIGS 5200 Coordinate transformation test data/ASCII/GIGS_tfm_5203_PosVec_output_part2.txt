@@ -1,8 +1,8 @@
 # File: GIGS_tfm_5203_PosVec_output_part2									
 # GIGS Test Procedure: 5203									
-# GIGS Test Dataset Version: 2.0									
+# GIGS Test Dataset Version: 2.1.0									
 # EPSG Dataset Version: 10.019 									
-# GIGS Test Dataset Issue Date: 2021-05-03									
+# GIGS Test Dataset Issue Date: 2022-04-29									
 # Note 1: Test for Position Vector 7-parameter transformation utilising EPSG Coordinate Operation Method 1037									
 # Note 2: CAUTION if application requires early-binding use GIGS geog3DCRS B' (GIGS code 64024) instead of GIGS geogCRS B									
 # Note 3: Output file 2 of 2									

@@ -1,8 +1,8 @@
 # File: GIGS_tfm_5204_CoordFrame_input_part2									
 # GIGS Test Procedure: 5204									
-# GIGS Test Dataset Version: 2.0									
+# GIGS Test Dataset Version: 2.1.0									
 # EPSG Dataset Version: 10.019 									
-# GIGS Test Dataset Issue Date: 2021-05-03									
+# GIGS Test Dataset Issue Date: 2022-04-29									
 # Note 1: Test for Coordinate Frame 7-parameter transformation; utilising EPSG Coordinate Operation Method 1038									
 # Note 2: CAUTION if application requires early-binding use GIGS geog3DCRS E' (GIGS code 64028) instead of GIGS geog3DCRS E									
 # Note 3: Input file 2 of 2									
