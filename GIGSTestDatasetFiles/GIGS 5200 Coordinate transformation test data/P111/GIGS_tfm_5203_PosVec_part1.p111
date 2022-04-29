@@ -1,5 +1,5 @@
 OGP,OGP P1,1,1.1,1,2021:08:20,13:45:13,GIGS_tfm_5203_PosVec_part1.p111,IOGP
-HC,0,1,0,Project Name                                      ,5203.1,Geospatial Integrity of Geoscience Software,2020:01:01,
+HC,0,1,0,Project Name                                      ,5203.1,Geospatial Integrity of Geoscience Software,2022:04:29,
 HC,0,2,0,Survey Description                                ,Geodetic Test,GIGS Test Points,NA,826,GBR
 HC,0,3,0,Geographic Extent                                 ,-180.00,180.00,-80.00,80.00
 HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
@@ -60,7 +60,7 @@ HC,2,0,0,Survey Configuration                              ,0,0,0,1,metre
 H1,0,0,0,File Contents Description                         ,This file contains GIGS Test Points,Loaded From GIGS_tfm_5203_PosVec_output_part1.txt
 H1,0,1,0,Processing Details                                ,None
 H1,0,2,0,GIGS Test Procedure                               ,100,      5203, ,      
-H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.0, ,      
+H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.1.0, ,      
 H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2021-05-03, ,      
 H1,0,2,0,Cartesian Tolerance                               ,103,      0.03,1, metre
 H1,0,2,0,Geographic Tolerance                              ,104, 0.0000003,3,degree
