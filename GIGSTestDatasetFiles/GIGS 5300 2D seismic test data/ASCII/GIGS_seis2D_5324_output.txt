@@ -1,8 +1,8 @@
 # File: GIGS_seis2D_5324_output							
 # GIGS Test Procedure: 5324							
-# GIGS Test Dataset Version: 2.0							
+# GIGS Test Dataset Version: 2.1.0							
 # EPSG Dataset Version: 10.019 							
-# GIGS Test Dataset Issue Date: 2021-05-03							
+# GIGS Test Dataset Issue Date: 2022-04-29							
 # Note 1: Utilises JHS method and NADCON							
 # Note 2: GIGS dataset not authority on international boundaries							
 # Cartesian Tolerance: 0.03 metre							

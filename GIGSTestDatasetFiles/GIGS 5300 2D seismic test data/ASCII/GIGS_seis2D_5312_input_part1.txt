@@ -1,8 +1,8 @@
 # File: GIGS_seis2D_5312_input_part1						
 # GIGS Test Procedure: 5312						
-# GIGS Test Dataset Version: 2.0						
+# GIGS Test Dataset Version: 2.1.0						
 # EPSG Dataset Version: 10.019 						
-# GIGS Test Dataset Issue Date: 2021-05-03						
+# GIGS Test Dataset Issue Date: 2022-04-29						
 # Note 1: P1/11 File 1 of 2						
 # Note 2: See associated P file for complete configuration						
 #						

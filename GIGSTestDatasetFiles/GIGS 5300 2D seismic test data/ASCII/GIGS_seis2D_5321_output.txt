@@ -1,8 +1,8 @@
 # File: GIGS_seis2D_5321_output					
 # GIGS Test Procedure: 5321					
-# GIGS Test Dataset Version: 2.0					
+# GIGS Test Dataset Version: 2.1.0					
 # EPSG Dataset Version: 10.019 					
-# GIGS Test Dataset Issue Date: 2021-05-03					
+# GIGS Test Dataset Issue Date: 2022-04-29					
 # Note: Same data applies to both test procedures 5317 and 5321					
 # Cartesian Tolerance: 0.03 metre					
 # Geographic Tolerance: 0.0000003 degree					
