@@ -1,8 +1,8 @@
 # File: GIGS_user_3211_VertTfm																								
 # GIGS Test Procedure: 3211																								
-# GIGS Test Dataset Version: 2.0																								
+# GIGS Test Dataset Version: 2.1.0																								
 # EPSG Dataset Version: 10.019 																								
-# GIGS Test Dataset Issue Date: 2021-05-03																								
+# GIGS Test Dataset Issue Date: 2022-04-29																								
 # Note: All transformations are reversible; reverse sign of parameter value to apply in opposite direction																								
 #																								
 # Fields:																								
