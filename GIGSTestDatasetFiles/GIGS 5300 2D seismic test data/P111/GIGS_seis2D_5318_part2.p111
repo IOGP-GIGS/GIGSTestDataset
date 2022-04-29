@@ -1,5 +1,5 @@
 OGP,OGP P1,1,1.1,1,2021:07:28,08:20:52,GIGS_seis2D_5318_part2.p111,IOGP
-HC,0,1,0,Project Name                                      ,5318.2,Geospatial Integrity of Geoscience Software,2020:01:01,
+HC,0,1,0,Project Name                                      ,5318.2,Geospatial Integrity of Geoscience Software,2022:04:29,
 HC,0,2,0,Survey Description                                ,Geodetic Test,GIGS Example Points,NA,826,GBR
 HC,0,3,0,Geographic Extent                                 ,2.77,2.85,52.14,52.26
 HC,0,4,0,Client                                            ,International Association of Oil and Gas Producers
@@ -58,8 +58,8 @@ H1,1,0,1,Position Record Quality Definition                ,1,0,No Quality Recor
 H1,0,0,0,File Contents Description                         ,This file contains GIGS Example Points,Loaded From GIGS_seis2D_5308_input_part2.txt
 H1,0,1,0,Processing Details                                ,None
 H1,0,2,0,GIGS Test Procedure                               ,100,      5308,,
-H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.0,,
-H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2021-05-03,,
+H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.1.0,,
+H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2022-04-29,,
 S1,0,GIGS-5308-12,,1,,1,2021:001:00:00:00.0,1,S1,1,,1606321.59,18950794.13,170.00,52.13634197,2.84815994,,52.13634197,2.84815994,,,,,,,
 S1,0,GIGS-5308-12,,10,,1,2021:001:00:00:00.0,1,S1,1,,1606069.56,18951487.92,169.80,52.13824178,2.84703107,,52.13824178,2.84703107,,,,,,,
 S1,0,GIGS-5308-12,,20,,1,2021:001:00:00:00.0,1,S1,1,,1605789.53,18952258.91,169.60,52.14035296,2.84577659,,52.14035296,2.84577659,,,,,,,
