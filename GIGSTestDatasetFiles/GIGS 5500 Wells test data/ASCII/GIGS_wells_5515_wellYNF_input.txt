@@ -1,8 +1,8 @@
 # File: GIGS_wells_5515_wellYNF_input					
 # GIGS Test Procedure: 5515					
-# GIGS Test Dataset Version: 2.0					
+# GIGS Test Dataset Version: 2.1.0					
 # EPSG Dataset Version: 10.019 					
-# GIGS Test Dataset Issue Date: 2021-05-03					
+# GIGS Test Dataset Issue Date: 2022-04-29					
 # Note 1: Same data applies to both test procedures 5508 5511 and 5515					
 # Note 2: See associated P7 file for complete configuration					
 # Note 3: Well YNF - Slot A1; Vertical Reference Datum (VRD) GIGS vertical datum W; Site Reference Point (SRP) Platform centre					

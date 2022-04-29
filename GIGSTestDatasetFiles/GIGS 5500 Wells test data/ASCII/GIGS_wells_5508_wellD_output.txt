@@ -1,8 +1,8 @@
 # File: GIGS_wells_5508_wellD_output			
 # GIGS Test Procedure: 5508			
-# GIGS Test Dataset Version: 2.0			
+# GIGS Test Dataset Version: 2.1.0			
 # EPSG Dataset Version: 10.019 			
-# GIGS Test Dataset Issue Date: 2021-05-03			
+# GIGS Test Dataset Issue Date: 2022-04-29			
 # Note 1: Same data applies to both test procedures 5508 and 5515			
 # Note 2: See test 5515 for additional vertical components			
 # Cartesian Tolerance: 0.1 metre			

@@ -1,8 +1,8 @@
 # File: GIGS_wells_5521_output			
 # GIGS Test Procedure: 5521			
-# GIGS Test Dataset Version: 2.0			
+# GIGS Test Dataset Version: 2.1.0			
 # EPSG Dataset Version: 10.019 			
-# GIGS Test Dataset Issue Date: 2021-05-03			
+# GIGS Test Dataset Issue Date: 2022-04-29			
 # Note: Same data applies to tests 5518 5521 5522 and 5525; assumes Well B loaded correctly			
 # Cartesian Tolerance: 0.1 metre			
 # Geographic Tolerance: 0.000001 degree			

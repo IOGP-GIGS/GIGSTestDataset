@@ -1,8 +1,8 @@
 # File: GIGS_wells_5512_wellXSJ_input					
 # GIGS Test Procedure: 5512					
-# GIGS Test Dataset Version: 2.0					
+# GIGS Test Dataset Version: 2.1.0					
 # EPSG Dataset Version: 10.019 					
-# GIGS Test Dataset Issue Date: 2021-05-03					
+# GIGS Test Dataset Issue Date: 2022-04-29					
 # Note 1: See associated P7 file for complete configuration					
 # Note 2: Well XSJ - Slot B4; Vertical Reference Datum (VRD) GIGS vertical datum V; Well Reference Point (WRP) RT					
 #					

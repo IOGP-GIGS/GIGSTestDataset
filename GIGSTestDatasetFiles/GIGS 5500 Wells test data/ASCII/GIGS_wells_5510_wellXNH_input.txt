@@ -1,8 +1,8 @@
 # File: GIGS_wells_5510_wellXNH_input					
 # GIGS Test Procedure: 5510					
-# GIGS Test Dataset Version: 2.0					
+# GIGS Test Dataset Version: 2.1.0					
 # EPSG Dataset Version: 10.019 					
-# GIGS Test Dataset Issue Date: 2021-05-03					
+# GIGS Test Dataset Issue Date: 2022-04-29					
 # Note 1: Same data applies to both test procedures 5510 and 5514					
 # Note 2: See associated P7 file for complete configuration					
 # Note 3: Well XNH - Slot B1; Vertical Reference Datum (VRD) GIGS vertical datum V; Well Reference Point (WRP) RT					
