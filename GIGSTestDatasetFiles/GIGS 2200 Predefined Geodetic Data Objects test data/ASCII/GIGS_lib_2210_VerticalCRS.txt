@@ -1,8 +1,8 @@
 # File: GIGS_lib_2210_VerticalCRS					
 # GIGS Test Procedure: 2210					
-# GIGS Test Dataset Version: 2.0					
+# GIGS Test Dataset Version: 2.1.1					
 # EPSG Dataset Version: 10.019 					
-# GIGS Test Dataset Issue Date: 2021-05-03					
+# GIGS Test Dataset Issue Date: 2022-04-29					
 #					
 # Fields:					
 # [0]: EPSG CRS Code					
@@ -22,7 +22,6 @@
 5705	Baltic 1977 height		5105	Europe - FSU onshore	
 5706	Caspian depth	Canadian Geodetic Vertical Datum of 1928 height	5106	Asia - FSU - Caspian Sea	
 5709	NAP height	North American Vertical Datum of 1988 height (m)	5109	Netherlands	
-5711	AHD height		5111	Australia Christmas and Cocos - onshore	
 5711	AHD height		5111	Australia Christmas and Cocos - onshore	
 5712	AHD (Tasmania) height	Australian Height Datum height	5112	Australia - Tasmania mainland onshore	
 5713	CGVD28 height		5114	Canada	
