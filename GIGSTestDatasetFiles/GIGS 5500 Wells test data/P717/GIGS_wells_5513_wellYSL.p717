@@ -1,5 +1,5 @@
-IOGP,IOGP P7,7,1.0,1,2021:05:03,12:00:00, GIGS_wells_5513_wellXSL.p717, IOGP GIGS Test Dataset Version:2.0
-HC,0,1,0,Project Name                                      ,GIGS Test Dataset 2.0,GIGS Test 5510,2021:05:03,
+IOGP,IOGP P7,7,1.0,1,2022:04:29,12:00:00, GIGS_wells_5513_wellXSL.p717, IOGP GIGS Test Dataset Version:2.0
+HC,0,1,0,Project Name                                      ,GIGS Test Dataset 2.1.0,GIGS Test 5510,2022:04:29,
 HC,0,4,0,Client                                            ,IOGP
 HC,1,0,0,Reference Systems Summary                         ,3,0,3,0
 HC,1,1,0,Unit of Measure                                   ,1,metre ,length, 2,  ,  ,                 ,   ,  ,SI base unit of length ,9001,EPSG Dataset,10.019,9001
