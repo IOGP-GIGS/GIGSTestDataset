@@ -1,8 +1,8 @@
 # File: GIGS_conv_5107_AmPolyC_output							
 # GIGS Test Procedure: 5107							
-# GIGS Test Dataset Version: 2.0							
+# GIGS Test Dataset Version: 2.1.0							
 # EPSG Dataset Version: 10.019 							
-# GIGS Test Dataset Issue Date: 2021-05-03							
+# GIGS Test Dataset Issue Date: 2022-04-29							
 # Note: Test for American Polyconic							
 # Cartesian Tolerance: 0.05 metre							
 # Geographic Tolerance: 0.0000006 degree							
