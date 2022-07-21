@@ -1,6 +1,6 @@
 # File: GIGS_user_3206_Conversion																														
 # GIGS Test Procedure: 3206																														
-# GIGS Test Dataset Version: 2.1.0																														
+# GIGS Test Dataset Version: 2.1.1																														
 # EPSG Dataset Version: 10.019 																														
 # GIGS Test Dataset Issue Date: 2022-04-29																														
 # Note: Entities are all map projections; a type of coordinate conversion																													
@@ -41,7 +41,7 @@
 # [0]	# [1]	# [2]	# [3]	# [4]	# [5]	# [6]	# [7]	# [8]	# [9]	# [10]	# [11]	# [12]	# [13]	# [14]	# [15]	# [16]	# [17]	# [18]	# [19]	# [20]	# [21]	# [22]	# [23]	# [24]	# [25]	# [26]	# [27]	# [28]	# [29]	# [30]
 65001	GIGS conversion 1	Transverse Mercator	Latitude of natural origin	0	degree	NULL	Longitude of natural origin	3	degree	NULL	Scale factor at natural origin	0.9996	Unity	NULL	False easting	500000	metre	NULL	False northing	0	metre	NULL	NULL	NULL	NULL	NULL	NULL	16031	UTM zone 31N	
 65002	GIGS conversion 2	Transverse Mercator	Latitude of natural origin	49	degree	NULL	Longitude of natural origin	-2	degree	NULL	Scale factor at natural origin	0.999601272	Unity	NULL	False easting	400000	metre	NULL	False northing	-100000	metre	NULL	NULL	NULL	NULL	NULL	NULL	19916	British National Grid	If application is unable to define a TM with origin away from the equator use conversion 65021 and 65022 definitions instead
-65004	GIGS conversion 4	Oblique Stereographic	Latitude of natural origin	52.0922178	sexagesimal DMS	52.15616056	Longitude of natural origin	5.23155	sexagesimal DMS	5.387638889	Scale factor at natural origin	0.9999079	metre	NULL	False easting	155000	metre	NULL	False northing	463000	metre	NULL	NULL	NULL	NULL	NULL	NULL	19914	RD New	
+65004	GIGS conversion 4	Oblique Stereographic	Latitude of natural origin	52.0922178	sexagesimal DMS	52.15616056	Longitude of natural origin	5.23155	sexagesimal DMS	5.387638889	Scale factor at natural origin	0.9999079	Unity	NULL	False easting	155000	metre	NULL	False northing	463000	metre	NULL	NULL	NULL	NULL	NULL	NULL	19914	RD New	
 65005	GIGS conversion 5	Mercator (variant A)	Latitude of natural origin	0	degree	NULL	Longitude of natural origin	3.113221	sexagesimal DMS	3.192280556	Scale factor at natural origin	0.997	Unity	NULL	False easting	3900000	metre	NULL	False northing	900000	metre	NULL	NULL	NULL	NULL	NULL	NULL	5328	Netherlands East Indies Equatorial Zone (Jkt)	EPSG 19905 but referenced to Jakarta meridian rather than Greenwich meridian; may also be defined as Mercator (1 SP) with SP1 at 4.454051545897510067
 65006	GIGS conversion 6	Lambert Conic Conformal (2SP)	Latitude of false origin	90	sexagesimal DMS	NULL	Longitude of false origin	4.2202952	sexagesimal DMS	4.367486667	Latitude of 1st standard parallel	51.100000204	sexagesimal DMS	51.16666723	Latitude of 2nd standard parallel	49.500000204	sexagesimal DMS	49.8333339	Easting at false origin	150000.013	metre	Northing at false origin	5400088.438	metre	NULL	NULL	NULL	19961	Belgian Lambert 72	
 65007	GIGS conversion 7	Transverse Mercator	Latitude of natural origin	0	degree	NULL	Longitude of natural origin	141	degree	NULL	Scale factor at natural origin	0.9996	Unity	NULL	False easting	500000	metre	NULL	False northing	10000000	metre	NULL	NULL	NULL	NULL	NULL	NULL	17454	Australian Map Grid zone 54	

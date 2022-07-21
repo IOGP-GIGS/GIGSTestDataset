@@ -1,6 +1,6 @@
 # File: GIGS_user_3210_VerticalCRS											
 # GIGS Test Procedure: 3210											
-# GIGS Test Dataset Version: 2.1.0											
+# GIGS Test Dataset Version: 2.1.1											
 # EPSG Dataset Version: 10.019 											
 # GIGS Test Dataset Issue Date: 2022-04-29											
 #											
@@ -26,5 +26,5 @@
 64505	GIGS vertCRS V1 height	66602	6499	Gravity-related height	H	up	metre	5705	Baltic 1977 height	61501	
 64506	GIGS vertCRS V1 depth	66602	6498	Gravity-related depth	D	down	metre	5612	Baltic 1977 depth	61502	
 64509	GIGS vertCRS V2 height	66602	6497	Gravity-related height	H	up	ftUS				No direct EPSG equivalent; but would be Baltic 1977 height (ftUS)
-64507	GIGS vertCRS W1 height	66003	6499	Gravity-related height	H	up	metre	5611	Caspian height	65438	
-64508	GIGS vertCRS W1 depth	66003	6498	Gravity-related depth	D	down	metre	5706	Caspian depth	65440	
+64507	GIGS vertCRS W1 height	66603	6499	Gravity-related height	H	up	metre	5611	Caspian height	65438	
+64508	GIGS vertCRS W1 depth	66603	6498	Gravity-related depth	D	down	metre	5706	Caspian depth	65440	
