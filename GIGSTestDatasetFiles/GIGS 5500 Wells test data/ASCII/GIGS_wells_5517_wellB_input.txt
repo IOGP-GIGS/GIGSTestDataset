@@ -2,7 +2,7 @@
 # GIGS Test Procedure: 5517			
 # GIGS Test Dataset Version: 2.1.0			
 # EPSG Dataset Version: 10.019 			
-# GIGS Test Dataset Issue Date: 2022-04-29			
+# GIGS Test Dataset Issue Date: 2022-10-12			
 # Note 1: Same data applies to both test procedures 5507 and 5517			
 # Note 2: See associated P7 file for complete configuration 			
 # Note 3: Well B - Vertical Reference Datum (VRD) GIGS vertical datum V; Well Reference Point (WRP) Kelly Bushing			
