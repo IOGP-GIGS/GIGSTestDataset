@@ -2,7 +2,7 @@
 # GIGS Test Procedure: 5325							
 # GIGS Test Dataset Version: 2.1.0							
 # EPSG Dataset Version: 10.019 							
-# GIGS Test Dataset Issue Date: 2022-04-29							
+# GIGS Test Dataset Issue Date: 2022-10-12							
 # Note: Utilises JHS method and NTv2							
 # Note: GIGS dataset not authority on international boundaries							
 # Cartesian Tolerance: 0.03 metre							
