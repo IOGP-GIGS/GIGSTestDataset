@@ -46,7 +46,7 @@ H1,0,0,0,File Contents Description                         ,This file contains G
 H1,0,1,0,Processing Details                                ,None
 H1,0,2,0,GIGS Test Procedure                               ,100,      5113, ,      
 H1,0,2,0,GIGS Test Dataset Version                         ,101,       2.1.0, ,      
-H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2022-04-29, ,      
+H1,0,2,0,GIGS Test Dataset Issue Date                      ,102,2022-10-12, ,      
 H1,0,2,0,Cartesian Tolerance                               ,103,      0.03,1, metre
 H1,0,2,0,Geographic Tolerance                              ,104, 0.0000003,3,degree
 H1,0,2,0,Round Trip Cartesian Tolerance                    ,105,     0.006,1, metre
