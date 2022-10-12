@@ -2,7 +2,7 @@
 # GIGS Test Procedure: 2206					
 # GIGS Test Dataset Version: 2.1.0					
 # EPSG Dataset Version: 10.019 					
-# GIGS Test Dataset Issue Date: 2022-04-29					
+# GIGS Test Dataset Issue Date: 2022-10-12					
 # Note: Entities are all map projections; a type of coordinate conversion					
 #					
 # Fields:					

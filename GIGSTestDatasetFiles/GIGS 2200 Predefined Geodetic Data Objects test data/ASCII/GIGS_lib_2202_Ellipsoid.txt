@@ -2,7 +2,7 @@
 # GIGS Test Procedure: 2202											
 # GIGS Test Dataset Version: 2.1.0											
 # EPSG Dataset Version: 10.019 											
-# GIGS Test Dataset Issue Date: 2022-04-29											
+# GIGS Test Dataset Issue Date: 2022-10-12											
 #											
 # Fields:											
 # [0]: EPSG Ellipsoid Code											
