@@ -1,8 +1,8 @@
 # File: GIGS_tfm_5207_NTv2_output_part2								
 # GIGS Test Procedure: 5207								
-# GIGS Test Dataset Version: 2.0								
+# GIGS Test Dataset Version: 2.1.0								
 # EPSG Dataset Version: 10.019 								
-# GIGS Test Dataset Issue Date: 2021-05-03								
+# GIGS Test Dataset Issue Date: 2022-10-12								
 # Note 1: Test for NTv2 utilising EPSG Coordinate Operation Method 9615 in north and west hemisphere quadrants								
 # Note 2: CAUTION if application requires early-binding use GIGS geogCRS J''' (GIGS code 64031) instead of GIGS geogCRS J								
 # Note 3: CAUTION Longitudes are given positive east								

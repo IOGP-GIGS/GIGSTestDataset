@@ -2,7 +2,7 @@
 # GIGS Test Procedure: 5206							
 # GIGS Test Dataset Version: 2.1.0							
 # EPSG Dataset Version: 10.019 							
-# GIGS Test Dataset Issue Date: 2022-04-29							
+# GIGS Test Dataset Issue Date: 2022-10-12							
 # Note 1: Test for NADCON transformations utilising EPSG Coordinate Operation Method 9613 for early-bound applications only in CONUS							
 # Note 2: CAUTION if application requires late-binding use part 1 only							
 # Note 3: CAUTION Longitudes are given positive east							

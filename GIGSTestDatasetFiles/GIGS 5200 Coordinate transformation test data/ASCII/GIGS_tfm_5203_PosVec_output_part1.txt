@@ -2,7 +2,7 @@
 # GIGS Test Procedure: 5203							
 # GIGS Test Dataset Version: 2.1.0							
 # EPSG Dataset Version: 10.019 							
-# GIGS Test Dataset Issue Date: 2022-04-29							
+# GIGS Test Dataset Issue Date: 2022-10-12							
 # Note 1: Test for Position Vector 7-parameter transformation utilising EPSG Coordinate Operation Method 9606							
 # Note 2: CAUTION if application requires early-binding use GIGS geogCRS B' (GIGS code 64023) instead of GIGS geogCRS B							
 # Note 3: Output file 1 of 2							

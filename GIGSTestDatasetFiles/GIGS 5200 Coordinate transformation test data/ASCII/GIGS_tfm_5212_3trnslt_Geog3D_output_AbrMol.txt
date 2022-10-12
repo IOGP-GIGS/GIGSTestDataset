@@ -1,8 +1,8 @@
 # File: GIGS_tfm_5212_3trnslt_Geog3D_output_AbrMol												
 # GIGS Test Procedure: 5212												
-# GIGS Test Dataset Version: 2.0												
+# GIGS Test Dataset Version: 2.1.0												
 # EPSG Dataset Version: 10.019 												
-# GIGS Test Dataset Issue Date: 2021-05-03												
+# GIGS Test Dataset Issue Date: 2022-10-12												
 # Note 1: Test for Geocentric translation (geog3D domain) calculation outputs based on Abridged Molodensky (EPSG code 9650) provided for reference only												
 # Note 2: See separate file for EPSG concatenated transformation method (EPSG code 1035) which represent expected results												
 # Note 3: Delta values provided to assist in investigating calculation method												

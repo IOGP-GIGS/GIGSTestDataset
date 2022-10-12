@@ -2,7 +2,7 @@
 # GIGS Test Procedure: 5205									
 # GIGS Test Dataset Version: 2.1.0									
 # EPSG Dataset Version: 10.019 									
-# GIGS Test Dataset Issue Date: 2022-04-29									
+# GIGS Test Dataset Issue Date: 2022-10-12									
 # Note 1: Test for Molodensky-Badekas 10-parameter transformation utilising EPSG Coordinate Operation Method 1039									
 # Note 2: CAUTION if application requires early-binding use GIGS geog3DCRS C' (GIGS code 64026) instead of GIGS geog3DCRS C									
 # Note 3: Output file 2 of 2									
